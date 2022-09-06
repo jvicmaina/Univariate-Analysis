@@ -1,0 +1,1305 @@
+NAME,RANKED_IN,IS_RANKED,V_DISPLAY_SCORE,C_RNK_TOT_RETENTION,R_C_AVG_PCT_GRAD_6YR,PELL_GRADRATE,NONPELL_GRADRATE,DIFF_PELL_GRADRATE,R_C_AVG_PCT_RETENTION,PRED_GRAD_RATE,V_DIFF_GRAD_RATES,C_AVG_REPUTATION_SCORE_T,C_PCT_HS_COUNSELOR,FACULTY_RESOURCES_RANK,R_C_PCT_TOT_FAC_PT,V_FAC_TERMINAL,R_C_PCT_CLASSES_1_19,R_C_PCT_CLASSES_GT_50,V_STUDENT_FACULTY_RATIO,C_RNK_TOT_SELECT,R_C_SAT_ACT_PERCENT,R_C_HS_TOP_10_PCT_CLASS,R_C_HS_TOP_25_PCT_CLASS,C_RNK_LN_AVG_EDU_EXPENSES,C_RNK_ALUM_GIVING_RATE_2YR,R_C_ALUM_GIVING_RATE_2YR
+butler-university-1788,Regional Universities Midwest,1,100,2,77,73,80,-7,90,82,-3,4,,9,84.2,80,52.1,3,11:01,2,25-30,46,76,5,1,22
+calvin-college-2241,Regional Colleges Midwest,1,100,2,74,61,77,-16,86,72,0,4.1,,28,87.7,90,30.3,1,13:01,3,23-30,28,57,3,6,19.8
+carroll-college-2526,Regional Colleges West,1,100,1,66,64,73,-10,81,62,9,3.6,,13,78.9,76,62.3,2,11:01,1,22-28,32,64,7,3,13.5
+cooper-union-2710,Regional Colleges North,1,100,1,84,94,81,13,96,90,-7,4.2,,19,50,,73.4,1,7:01,1,1310-1530,51,85,1,1,21.7
+creighton-university-2542,Regional Universities Midwest,1,100,5,75,70,83,-13,90,83,-2,4.2,,8,84.4,88,46.1,7,11:01,4,25-30,33,69,2,23,11.8
+elon-university-2927,Regional Universities South,1,100,1,83,79,84,-6,90,80,4,4.1,,16,88.7,86,50.7,0,12:01,2,1140-1330,21,54,8,2,22.3
+fairfield-university-1385,Regional Universities North,1,100,4,81,80,81,-2,89,82,-1,3.6,,7,71.8,92,43.9,1,12:01,4,1180-1320,41,79,9,6,16.6
+high-point-university-2933,Regional Colleges South,1,100,1,64,55,65,-9,80,62,1,3.8,,5,85.4,81,50,1,14:01,3,1050-1240,18,47,9,16,10.1
+princeton-university-2627,National Universities,1,100,5,97,95,98,-3,98,96,1,4.9,4.9,4,93.8,94,75.5,10,5:01,10,1430-1570,91,98,10,1,59.1
+santa-clara-university-1326,Regional Universities West,1,100,1,87,88,90,-2,95,84,6,4.1,,5,81.7,94,46.8,1,11:01,2,28-32,57,87,3,2,19.2
+taylor-university-1838,Regional Colleges Midwest,1,100,2,77,65,82,-18,88,74,5,4,,19,86.9,83,58.1,5,13:01,4,22-29,35,63,6,9,19
+williams-college-2229,National Liberal Arts Colleges,1,100,2,95,91,95,-4,98,95,-1,4.7,4.6,5,92.4,97,76.3,2,7:01,3,31-35,88,98,4,2,51.4
+amherst-college-2115,National Liberal Arts Colleges,2,96,2,94,95,95,0,97,93,2,4.7,4.6,38,90.8,89,70.5,3,8:01,6,32-34,83,94,8,5,47.2
+flagler-7893,Regional Colleges South,2,87,2,59,56,54,2,71,54,1,3.6,,15,74,74,53.7,0,16:01,32,950-1160,,,25,8,13.6
+harvard-university-2155,National Universities,2,96,3,97,95,97,-1,97,96,0,4.9,4.9,6,94,93,72.5,11,6:01,5,1460-1590,95,99,7,9,33.1
+providence-college-3406,Regional Universities North,2,99,3,85,77,86,-9,92,78,6,3.7,,23,79.1,88,53.7,3,12:01,14,1160-1330,36,65,19,4,16.9
+rollins-college-1515,Regional Universities South,2,98,6,72,78,75,3,85,77,-2,3.8,,2,100,89,74.6,0,10:01,1,1195-1350,31,58,1,60,6.6
+trinity-university-texas-3647,Regional Universities West,2,99,4,80,74,81,-7,89,88,-8,4.1,,1,89.2,99,57.5,1,9:01,1,27-32,44,76,2,7,13.7
+united-states-coast-guard-academy-1415,Regional Colleges North,2,90,2,85,,81,,93,82,-1,4.3,,18,94.7,49,55.8,0,7:01,4,1180-1343,39,75,2,32,
+william-jessup-university-1281,Regional Colleges West,2,90,2,62,60,66,-6,75,50,14,3.5,,14,42.3,77,72.6,1,12:01,6,1000-1215,24,43,18,11,5.3
+bentley-university-2124,Regional Universities North,3,98,1,89,88,92,-4,94,83,8,3.5,,33,83.4,86,19.4,0,11:01,1,1210-1380,34,74,13,92,6.2
+california-state-university-maritime-academy-1134,Regional Colleges West,3,89,3,60,50,69,-19,81,58,6,3.3,,16,90.3,62,25.3,2,14:01,5,1070-1250,,,2,8,6.4
+citadel-3423,Regional Universities South,3,91,10,70,63,77,-14,86,61,12,3.9,,16,83.9,94,40.8,1,12:01,54,20-25,9,30,13,1,24.6
+college-ozarks-2500,Regional Colleges Midwest,3,94,1,69,69,79,-10,77,48,24,3.7,,32,84.5,59,55.2,1,14:01,18,21-26,25,62,17,7,19.6
+columbia-university-2707,National Universities,3,94,3,95,92,96,-4,99,94,2,4.7,4.8,2,96.2,100,81.5,9,6:01,5,32-35,96,98,13,15,30.1
+drake-university-1860,Regional Universities Midwest,3,93,9,76,64,82,-19,88,80,-1,3.9,,4,84.7,92,54.5,5,11:01,3,24-30,38,66,8,29,11
+loyola-marymount-university-11649,Regional Universities West,3,92,6,80,72,81,-8,90,77,2,3.9,,6,75.3,96,52.9,1,10:01,6,1180-1360,41,75,7,1,20.1
+massachusetts-institute-of-technology-2178,National Universities,3,94,21,93,87,95,-8,99,93,1,4.9,4.9,11,92.9,92,69.6,11,3:01,1,1490-1570,98,100,1,8,33.8
+swarthmore-college-3370,National Liberal Arts Colleges,3,93,8,94,89,95,-6,97,95,-1,4.6,4.6,18,94.9,99,73.5,3,8:01,3,31-34,91,99,8,20,36.9
+us-merchant-marine-2892,Regional Colleges North,3,83,3,73,100,69,31,91,81,-4,3.9,,12,96.4,,44.7,0,13:01,2,25-29,22,64,3,32,
+university-of-chicago-1774,National Universities,3,94,26,93,90,93,-3,99,95,-2,4.6,4.7,2,94,100,80,6,5:01,1,32-35,99,100,7,5,40.3
+university-of-the-ozarks-1094,Regional Colleges South,3,80,11,46,39,60,-22,68,59,-8,3.5,,19,90,79,53.6,0,14:01,12,18-23,6,30,7,12,12.6
+wellesley-college-2224,National Liberal Arts Colleges,3,93,13,91,88,90,-2,95,92,-3,4.5,4.5,18,94.9,93,70.3,0,7:01,9,30-33,81,96,6,3,48.5
+yale-university-1426,National Universities,3,94,7,97,98,97,0,99,96,1,4.8,4.9,9,87.9,93,73.3,9,6:01,5,1420-1590,94,93,1,18,28.3
+augustana-college-sioux-falls-3458,Regional Colleges Midwest,4,92,4,71,68,72,-4,84,70,1,3.7,,21,89.5,83,50.9,3,12:01,1,23-29,35,64,9,25,11.5
+catawba-college-2914,Regional Colleges South,4,77,8,49,31,56,-25,73,44,1,3.2,,8,78,78,73.1,0,12:01,32,18-23,13,44,9,13,12
+college-of-new-jersey-2642,Regional Universities North,4,95,2,87,80,88,-8,94,82,5,3.4,,12,69,90,43.9,0,13:01,3,1170-1330,36,73,31,85,6.9
+gonzaga-university-3778,Regional Universities West,4,89,2,84,85,88,-3,93,76,11,4,,30,80.2,84,33,2,12:01,4,1180-1350,42,75,15,5,15.1
+john-carroll-university-3050,Regional Universities Midwest,4,87,2,75,79,77,2,85,63,15,3.5,,3,66.5,99,54,0,12:01,33,22-27,29,57,29,14,13.5
+maine-maritime-academy-2044,Regional Colleges North,4,70,6,65,55,75,-21,81,53,15,3.6,,10,88.3,32,50.9,0,10:01,5,990-1180,10,57,4,2,18
+ohio-northern-university-3089,Regional Colleges Midwest,4,92,6,70,63,78,-14,86,74,-1,3.5,,3,91.6,87,62.8,1,11:01,5,22-28,25,55,11,25,11.4
+samford-university-1036,Regional Universities South,4,90,8,72,71,76,-5,88,76,0,3.9,,6,84.6,86,65.9,3,12:01,6,23-29,28,58,11,40,8.7
+texas-lutheran-university-3641,Regional Colleges West,4,87,5,49,48,55,-6,71,53,-1,3.5,,7,84.5,84,57.4,0,14:01,12,970-1150,17,44,5,2,14.1
+barton-college-2908,Regional Colleges South,5,75,6,47,44,62,-18,69,38,15,2.8,,7,80.9,74,73.3,0,10:01,9,950-1140,13,39,12,20,7.9
+bowdoin-college-2038,National Liberal Arts Colleges,5,91,13,94,95,95,-1,96,94,1,4.4,4.6,38,94.5,99,66.3,2,9:01,9,1290-1510,86,96,12,3,48.6
+carleton-college-2340,National Liberal Arts Colleges,5,91,13,94,91,95,-3,96,92,2,4.3,4.4,13,92.9,98,69.6,1,9:01,6,31-34,86,98,29,6,46.8
+chapman-university-1164,Regional Universities West,5,83,4,78,77,79,-2,90,82,-3,3.8,,12,71,84,45.2,4,14:01,3,25-30,37,78,12,26,8.4
+coker-college-3427,Regional Colleges South,5,75,5,49,45,49,-4,65,40,7,3.1,,13,83.7,92,82.1,0,13:01,32,17-21,9,22,20,26,6.7
+loyola-university-maryland-2078,Regional Universities North,5,94,10,82,78,81,-4,87,80,1,3.6,,28,87.5,86,46.6,0,11:01,7,1140-1310,29,68,9,35,11.2
+messiah-college-3298,Regional Colleges North,5,68,3,79,77,81,-4,87,68,13,3.1,,5,77.6,85,47.5,2,12:01,3,1100-1310,33,63,12,5,11.3
+middlebury-college-3691,National Liberal Arts Colleges,5,91,17,94,93,95,-1,96,96,-1,4.3,4.5,30,94.6,96,67.2,1,8:01,8,30-34,85,95,5,18,38.9
+montana-tech-2531,Regional Colleges West,5,83,14,42,37,47,-10,74,62,-18,3.7,,9,87.7,59,59.4,5,13:01,2,22-27,25,56,14,4,13.2
+oit-3211,Regional Colleges West,5,83,6,46,47,43,4,77,48,-4,3.6,,6,78,41,58.5,3,15:01,3,1040-1230,25,57,21,13,4.6
+pomona-college-1173,National Liberal Arts Colleges,5,91,4,94,97,92,4,98,95,-2,4.4,4.5,18,91.2,99,71,1,8:01,3,30-34,94,100,6,55,25.7
+stetson-university-1531,Regional Universities South,5,87,15,63,54,68,-13,78,65,-3,3.6,,1,83.2,94,60.1,0,13:01,11,1110-1290,22,50,12,40,8.8
+university-of-mobile-1029,Regional Colleges South,5,75,10,45,36,53,-17,73,45,1,3.4,,31,74.3,67,73.9,0,13:01,2,20-25,38,62,44,48,1.7
+valparaiso-university-1842,Regional Universities Midwest,5,85,19,68,59,78,-19,84,70,2,3.8,,32,89.7,88,45.6,4,11:01,8,23-29,32,63,15,7,15.5
+belmont-3479,Regional Universities South,6,84,11,70,66,70,-4,84,71,-1,3.8,,6,68.8,88,42.5,1,13:01,4,24-29,27,56,51,46,7.7
+bradley-university-1641,Regional Universities Midwest,6,83,4,74,66,75,-9,87,70,2,3.6,,17,81.1,80,55.6,2,12:01,10,22-28,26,60,35,48,8.6
+cedar-crest-college-3243,Regional Colleges North,6,54,5,58,50,51,-1,77,50,0,3,,5,61.6,71,76,2,10:01,7,940-1170,20,44,15,4,12
+dordt-college-1859,Regional Colleges Midwest,6,91,4,67,64,64,0,84,61,3,3.5,,10,76.4,76,63.6,5,12:01,7,22-28,18,43,27,4,20.8
+emerson-college-2146,Regional Universities North,6,90,7,80,78,81,-3,88,79,2,3.4,,45,70.7,71,67.4,1,13:01,2,1200-1360,28,71,19,98,5.5
+james-madison-university-3721,Regional Universities South,6,84,1,83,75,84,-9,87,72,11,4,,93,86.3,78,33.9,13,16:01,20,1100-1260,16,51,78,56,6.7
+university-of-portland-3224,Regional Universities West,6,81,3,81,79,82,-4,90,76,6,3.7,,45,78.5,85,32.4,1,12:01,5,1140-1320,54,83,23,14,11.3
+university-of-scranton-3384,Regional Universities North,6,90,12,79,68,79,-12,88,70,7,3.3,,5,81.9,89,52.9,0,12:01,9,1080-1280,32,63,27,39,10.9
+colby-sawyer-college-2572,Regional Colleges North,7,53,13,54,52,58,-6,76,45,11,3.1,,4,81.6,75,66.9,1,13:01,10,1030-1210,,,7,6,10
+mills-college-1238,Regional Universities West,7,79,16,68,74,67,7,77,70,0,3.3,,6,72.8,85,69.8,0,10:01,33,1030-1290,25,55,1,3,17
+northwestern-college-1883,Regional Colleges Midwest,7,86,9,66,59,73,-14,80,61,7,3.4,,14,80.6,89,67.8,1,11:01,6,21-27,25,59,17,12,17.6
+oklahoma-baptist-3164,Regional Colleges West,7,82,7,53,58,51,7,75,60,-8,3.5,,8,86.3,69,69.6,3,12:01,4,20-26,28,56,12,10,5.8
+stanford-university-1305,National Universities,7,93,13,94,91,95,-4,98,94,0,4.9,4.9,12,99.6,99,68.3,12,4:01,10,1390-1540,94,99,5,12,31.8
+university-of-evansville-1795,Regional Universities Midwest,7,80,12,69,68,76,-8,85,72,1,3.3,,4,85.4,86,68.1,1,11:01,7,22-29,37,67,21,22,12.1
+university-of-mount-union-3083,Regional Colleges Midwest,7,86,13,61,57,65,-7,78,52,10,3.6,,9,78.3,90,54.6,0,13:01,11,20-25,18,45,35,14,16.6
+appalachian-state-2906,Regional Universities South,8,83,3,72,71,74,-3,87,61,13,3.7,,24,88.9,99,32.5,8,16:01,7,24-27,19,57,103,60,6.6
+blue-mountain-college-2398,Regional Colleges South,8,71,3,53,53,68,-15,69,42,19,2.8,,19,82.3,74,70.1,1,14:01,10,18-24,13,40,47,29,6.4
+duke-university-2920,National Universities,8,92,13,95,97,95,1,97,94,1,4.5,4.7,1,98.2,96,71,7,6:01,16,31-35,90,97,15,9,33.2
+marist-college-2765,Regional Universities North,8,89,7,81,78,84,-7,90,76,7,3.4,,45,66.7,74,43,0,16:01,7,1120-1320,24,53,43,35,11.4
+rocky-mountain-college-2534,Regional Colleges West,8,78,12,47,45,56,-12,70,53,-1,3.3,,5,79.8,83,74.7,1,11:01,8,20-25,15,43,7,6,8.5
+seattle-university-3790,Regional Universities West,8,78,14,77,65,77,-12,86,73,1,3.7,,34,87.8,87,54.8,1,11:01,7,1130-1330,33,68,11,36,6.2
+st-marys-college-of-california-1302,Regional Universities West,8,78,10,72,75,77,-1,87,68,8,3.4,,2,73.6,95,62.4,0,11:01,55,1060-1240,,,8,29,7.5
+university-of-pennsylvania-3378,National Universities,8,92,7,96,94,96,-2,98,96,0,4.5,4.8,7,90,100,68.2,11,6:01,5,32-35,96,100,14,7,36.7
+usc-aiken-3449,Regional Colleges South,8,71,18,41,34,46,-12,69,43,-2,3.3,,2,77.3,77,54.6,1,15:01,15,18-23,16,42,48,35,4.8
+vaughn-college-2665,Regional Colleges North,8,50,11,53,55,40,15,74,43,9,3.2,,9,40.6,54,71.8,0,15:01,21,921-1100,,,9,13,4.6
+whitworth-university-3804,Regional Universities West,8,78,12,75,71,76,-5,85,73,2,3.7,,20,75.7,70,62.5,1,11:01,11,1090-1310,36,70,20,10,12.8
+xavier-university-3144,Regional Universities Midwest,8,79,26,72,53,73,-20,85,70,-1,3.7,,9,74.6,78,42.3,1,12:01,63,22-28,16,45,31,12,14.3
+berry-college-1554,Regional Universities South,9,82,21,64,56,67,-11,81,75,-11,3.3,,3,88.4,92,56.5,0,11:01,22,24-29,34,66,2,15,15
+claremont-mckenna-college-1170,National Liberal Arts Colleges,9,90,25,91,97,89,8,95,92,-2,4.3,4.5,4,94.1,99,83.7,2,8:01,21,30-34,82,96,15,26,34.3
+cottey-college-666970,Regional Colleges Midwest,9,83,16,65,75,50,25,74,56,1,2.9,,1,91.8,93,95.7,0,6:01,27,19-23,18,39,1,48,5.6
+goshen-college-1799,Regional Colleges Midwest,9,83,9,70,59,77,-19,79,61,11,3.4,,22,85,65,63.3,1,11:01,30,980-1238,18,46,5,5,20
+ithaca-college-2739,Regional Universities North,9,88,15,76,71,77,-7,85,74,2,3.5,,36,85.3,80,60.6,3,10:01,5,1150-1330,21,55,26,77,7.2
+millikin-university-1724,Regional Colleges Midwest,9,83,15,61,51,68,-17,76,56,5,3.6,,14,78.7,80,71.5,1,10:01,12,19-26,13,38,17,27,11.2
+truman-state-2495,Regional Universities Midwest,9,78,6,73,68,77,-9,88,76,-1,3.7,,51,92.9,85,46.2,2,16:01,1,24-30,51,83,120,70,7.3
+university-of-maine-farmington-2040,Regional Colleges North,9,46,8,55,46,56,-10,74,41,10,2.9,,10,79.6,86,63.6,1,13:01,6,970-1075,14,42,23,16,3.2
+montana-western-2537,Regional Colleges West,9,77,7,49,41,57,-15,70,37,13,3.4,,1,87.4,85,64,0,17:01,27,16-22,6,18,32,17,3
+bryant-university-3402,Regional Universities North,10,87,11,79,73,80,-7,89,71,8,3.1,,7,79.5,83,22,0,13:01,10,1120-1280,22,52,15,57,8.7
+christopher-newport-university-3706,Regional Universities South,10,81,7,72,70,75,-5,87,66,9,3.3,,8,82.3,91,59,3,15:01,17,1110-1270,18,50,78,5,19.6
+davidson-college-2918,National Liberal Arts Colleges,10,89,13,93,89,91,-2,95,92,-1,4.3,4.4,10,99.3,97,74.8,1,9:01,15,30-33,76,95,29,12,42.5
+jhu-2077,National Universities,10,90,21,93,95,93,2,97,94,0,4.6,4.8,17,98.8,92,74.1,10,7:01,3,33-35,94,99,4,6,38
+msoe-3868,Regional Universities Midwest,10,72,36,63,60,69,-9,84,74,-7,3.4,,23,78.4,83,42.5,0,16:01,12,25-30,,,20,77,6.8
+northwestern-university-1739,National Universities,10,90,19,94,93,94,-1,98,95,-1,4.4,4.7,5,94.5,100,78.6,6,6:01,10,32-35,91,100,9,16,29.7
+st-francis-college-2820,Regional Colleges North,10,45,8,53,48,55,-7,77,39,12,2.7,,3,49.4,86,60.5,0,14:01,16,950-1120,,,22,7,9.8
+usc-upstate-6951,Regional Colleges South,10,70,9,41,44,43,1,71,39,5,3.2,,14,76.4,64,54.6,1,13:01,25,17-22,9,32,44,45,2.2
+warner-pacific-3225,Regional Colleges West,10,76,11,44,38,39,-1,65,47,-8,3.2,,10,68.7,63,82.1,1,9:01,20,880-1100,11,34,1,15,3.8
+cazenovia-college-2685,Regional Colleges North,11,40,11,53,51,57,-6,71,46,8,2.7,,7,71.1,,85.9,0,10:01,26,923-1098,5,23,20,11,5.5
+college-of-charleston-3428,Regional Universities South,11,79,15,68,62,71,-9,79,67,2,3.8,,30,80.5,92,40.5,5,15:01,15,22-27,22,53,45,79,5
+dominican-university-1750,Regional Universities Midwest,11,71,16,62,58,68,-10,78,54,8,2.9,,17,64.6,87,63.7,0,11:01,31,20-25,25,55,31,11,14.6
+franciscan-university-3036,Regional Universities Midwest,11,71,1,77,75,79,-4,86,65,13,2.6,,22,75.8,84,55.1,1,14:01,10,23-28,28,55,63,23,11.8
+grinnell-college-1868,National Liberal Arts Colleges,11,88,11,87,87,87,0,94,85,2,4.2,4.3,16,94.3,99,63.4,0,9:01,17,30-34,69,91,22,19,37.4
+haverford-college-3274,National Liberal Arts Colleges,11,88,17,92,91,93,-2,97,95,-2,4.1,4.3,18,93.6,99,75.9,1,9:01,1,1390-1530,96,99,15,16,39.5
+huntingdon-college-1019,Regional Colleges South,11,69,29,41,24,47,-23,66,47,-10,3.1,,29,72.3,74,58.5,1,15:01,5,19-24,13,27,17,2,28
+san-diego-christian-college-12031,Regional Colleges West,11,73,9,46,53,59,-5,70,39,18,3.1,,15,32.3,46,85.7,0,14:01,23,850-980,13,28,4,20,
+simmons-university-2208,Regional Universities North,11,84,13,72,70,75,-5,85,70,3,3,,87,49.7,74,68.8,3,12:01,10,1130-1310,36,70,5,12,15.4
+smith-college-2209,National Liberal Arts Colleges,11,88,21,88,89,88,1,93,85,3,4.3,4.5,30,98.6,100,67.9,4,9:01,17,1290-1490,72,96,15,37,31.3
+university-of-redlands-1322,Regional Universities West,11,74,19,72,,,,85,70,2,3.3,,4,66.1,90,67.6,0,,19,1070-1250,22,55,27,11,12.3
+vassar-college-2895,National Liberal Arts Colleges,11,88,4,91,92,89,3,95,90,0,4.2,4.5,25,93.8,89,67.2,0,8:01,17,1370-1510,65,93,15,51,25.7
+washington-and-lee-3768,National Liberal Arts Colleges,11,88,29,91,90,92,-2,96,94,-2,3.8,4.2,3,91.4,96,71.6,0,8:01,9,31-33,81,96,27,9,44.8
+california-institute-of-technology-1131,National Universities,12,88,37,92,84,90,-6,98,95,-6,4.7,4.7,10,95.9,98,67,10,3:01,3,1530-1590,93,100,1,22,25.8
+california-polytechnic-state-university-san-luis-obispo-1143,Regional Universities West,12,73,6,78,73,84,-11,94,75,7,4,,91,84.6,76,16.1,13,19:01,9,1220-1400,55,86,60,51,4.1
+cedarville-university-3025,Regional Colleges Midwest,12,80,7,72,62,74,-12,86,71,1,3.3,,35,72.9,73,60.1,6,14:01,2,23-29,33,62,27,35,10
+dartmouth-college-2573,National Universities,12,88,13,96,92,96,-4,98,95,1,4.3,4.8,14,91.5,95,64.5,7,7:01,10,1430-1560,93,98,16,2,43.8
+john-paul-the-great-catholic-university-666990,Regional Colleges West,12,72,4,63,67,59,8,74,57,4,3.2,,36,45.8,56,54.7,9,15:01,7,1020-1190,9,35,10,9,6.3
+loyola-university-new-orleans-2016,Regional Universities South,12,77,30,60,47,61,-13,79,68,-12,3.4,,4,78.7,90,53.3,1,11:01,17,22-28,31,60,3,65,6.2
+newberry-college-3440,Regional Colleges South,12,67,6,44,52,53,-1,68,43,9,2.8,,31,71.8,79,56.6,1,14:01,38,17-22,8,30,20,5,16
+penn-college-3395,Regional Colleges North,12,39,26,40,40,48,-7,77,50,-5,2.9,,1,85.6,22,63.4,0,14:01,20,950-1140,7,25,12,24,1.3
+st-edwards-university-3621,Regional Universities West,12,73,19,65,60,66,-5,82,64,0,3.5,,10,67.1,90,56.7,0,13:01,14,1080-1250,24,58,28,21,9.6
+st-josephs-university-pennsylvania-3367,Regional Universities North,12,83,19,79,69,84,-15,90,73,9,3.2,,53,72.1,91,40.6,1,11:01,10,1110-1290,21,51,25,39,10.8
+suny-alfred-2854,Regional Colleges North,12,39,7,55,53,49,3,77,40,10,2.9,,27,85.9,41,47.1,2,18:01,12,940-1130,,,37,22,2.1
+averett-university-3702,Regional Colleges South,13,66,29,37,37,43,-6,61,42,-2,3,,3,75.3,64,79.4,0,12:01,50,830-1020,7,24,6,38,3.5
+baldwin-wallace-college-3014,Regional Universities Midwest,13,70,14,67,62,70,-8,81,64,3,3.1,,36,72.7,73,63.4,1,11:01,24,21-27,22,48,26,74,7.2
+benedictine-college-10256,Regional Colleges Midwest,13,79,11,64,63,65,-3,78,55,9,3.5,,51,80.6,71,59.7,1,13:01,8,22-28,26,48,53,3,21.9
+hamline-university-2354,Regional Universities Midwest,13,70,16,64,60,71,-11,81,60,7,3.3,,91,74.6,90,46.9,1,13:01,38,20-26,19,43,38,32,10.1
+john-brown-university-1100,Regional Universities South,13,76,4,65,70,76,-7,83,68,5,3,,62,63.2,76,51.6,0,14:01,2,24-29,29,58,31,23,11.3
+kentucky-wesleyan-college-1969,Regional Colleges South,13,66,29,38,27,38,-11,66,48,-16,3.1,,9,77.9,80,78,0,13:01,8,19-26,,,22,14,11.3
+loras-college-1873,Regional Colleges Midwest,13,79,8,68,68,68,0,79,64,4,3.3,,41,87.8,91,45.7,0,12:01,10,20-26,17,46,32,10,18.7
+marietta-college-3073,Regional Colleges Midwest,13,79,24,60,39,55,-16,69,65,-16,3.2,,2,80.6,82,82.8,0,9:01,14,20-25,19,41,2,18,15.7
+north-central-college-1734,Regional Universities Midwest,13,70,31,67,61,71,-9,79,67,1,3.1,,62,77.5,91,41.3,0,14:01,12,22-27,28,55,41,4,17.3
+quinnipiac-university-1402,Regional Universities North,13,80,24,76,66,76,-10,87,76,-1,3.4,,74,61.7,89,43.1,3,16:01,19,1080-1260,22,51,27,165,3.1
+southwestern-adventist-3619,Regional Colleges West,13,71,10,42,36,38,-1,74,40,-3,2.9,,2,80.8,61,73.4,1,12:01,15,900-1140,10,30,6,13,4.6
+st-catherine-university-2342,Regional Universities Midwest,13,70,21,62,51,66,-16,82,61,-3,3.3,,79,78.2,59,64.7,2,10:01,24,21-26,24,62,38,19,12.6
+welch-college-30018,Regional Colleges South,13,66,18,37,46,50,-4,72,52,-4,2.7,,9,56.1,60,89.5,1,9:01,1,21-26,31,66,40,6,14.7
+asbury-university-1952,Regional Universities South,14,75,12,66,56,75,-18,82,62,7,3,,27,73.3,78,68.9,0,12:01,7,21-28,29,66,45,9,17
+brown-university-3401,National Universities,14,85,7,96,94,95,-2,98,94,1,4.4,4.8,17,95.5,95,70.3,11,7:01,5,31-35,94,99,24,13,31.6
+howard-payne-university-3575,Regional Colleges West,14,67,15,43,38,44,-5,54,47,-6,3.1,,4,81,67,84.3,0,10:01,18,19-22,10,28,7,7,6.7
+paul-smiths-college-2795,Regional Colleges North,14,37,24,44,59,49,9,72,41,11,3,,31,87.9,42,58.9,3,13:01,30,860-1100,5,14,9,8,9.5
+suny-cobleskill-2856,Regional Colleges North,14,37,13,48,53,51,1,74,38,14,2.8,,35,81.2,44,46,4,16:01,25,17-22,4,21,7,16,3.3
+suny-geneseo-2845,Regional Universities North,14,79,6,80,81,77,4,88,78,-1,3.5,,167,87.4,90,23.8,10,19:01,6,1120-1300,28,64,138,53,9.1
+university-of-dallas-3651,Regional Universities West,14,72,26,69,52,74,-23,82,74,-6,3.5,,11,81.4,88,60.5,3,11:01,12,1140-1370,37,71,17,5,14.9
+vanderbilt-3535,National Universities,14,85,26,92,89,92,-3,97,94,-2,4.2,4.7,13,91.5,96,65.9,8,7:01,10,32-35,90,96,12,24,24.7
+california-lutheran-university-1133,Regional Universities West,15,71,16,69,74,69,4,84,69,2,3.3,,13,69.1,87,56.3,0,16:01,16,1060-1230,28,66,35,8,13
+embryriddle-aeronautical-university-1479,Regional Universities South,15,73,40,55,49,63,-15,79,71,-12,3.7,,41,90,76,21,2,17:01,13,1080-1320,23,50,5,132,2
+manhattan-college-2758,Regional Universities North,15,78,19,73,68,78,-10,86,63,12,2.9,,23,78.6,99,44.9,0,13:01,46,1050-1243,23,54,60,9,15.7
+marymount-california-university-666945,Regional Colleges West,15,65,20,32,34,36,-2,64,51,-16,3.6,,21,64.2,51,61.2,0,16:01,21,860-1040,,,3,36,0.4
+st-marys-university-san-antonio-3623,Regional Universities West,15,71,28,59,57,71,-14,76,55,8,3.2,,3,79.8,96,59.3,0,11:01,21,1040-1230,32,58,23,19,10
+thomas-jefferson-university-12393,Regional Universities North,15,78,51,64,61,69,-8,82,66,0,2.9,,80,64.4,66,69.6,4,18:01,33,1030-1210,10,42,3,135,3.6
+unc-wilmington-2984,Regional Universities South,15,73,8,72,65,75,-10,85,64,8,3.4,,89,82.2,84,27.9,10,18:01,4,23-27,25,62,99,76,5.2
+alice-lloyd-college-1951,Regional Colleges South,16,65,35,35,27,30,-3,63,40,-11,3.1,,57,82.9,72,46.5,5,16:01,6,18-23,12,40,34,1,45.4
+clarke-university-1852,Regional Colleges Midwest,16,75,19,64,,,,74,52,12,3.1,,11,78.1,92,75.4,0,8:01,20,20-25,15,47,27,23,13.4
+colgate-university-2701,National Liberal Arts Colleges,16,87,29,91,90,91,-2,95,90,1,4.1,4.4,10,93.3,100,73.4,1,9:01,12,31-33,77,94,29,10,44.5
+cornell-university-2711,National Universities,16,84,13,93,92,94,-2,97,93,0,4.6,4.8,23,93.5,93,57.3,18,9:01,19,1390-1550,86,98,17,21,26.1
+hamilton-college-2728,National Liberal Arts Colleges,16,87,17,92,94,94,-1,95,92,2,3.9,4.2,8,93.5,98,74.6,0,9:01,12,31-33,77,96,22,17,39.4
+mcmurry-university-3591,Regional Colleges West,16,64,21,36,30,43,-13,57,41,-5,3.1,,3,83.6,77,73.8,1,11:01,16,17-22,12,33,18,5,8.8
+rice-3604,National Universities,16,84,26,92,87,92,-5,97,93,-2,4.1,4.6,7,91.5,99,70.4,9,6:01,10,33-35,89,97,20,11,32.6
+tennessee-wesleyan-college-3525,Regional Colleges South,16,65,15,44,32,46,-14,68,42,-3,3,,19,79.1,73,65.7,2,12:01,4,19-25,10,36,44,32,5.8
+unity-college-6858,Regional Colleges North,16,36,10,59,54,73,-19,69,46,19,2.6,,29,85.1,81,47,0,15:01,7,990-1240,5,35,42,23,1.8
+wilson-college-3396,Regional Colleges North,16,36,22,48,41,59,-18,73,57,-6,2.5,,8,59,81,81,1,10:01,15,940-1120,12,38,6,3,15.5
+wisconsin-lutheran-21366,Regional Colleges Midwest,16,75,12,63,69,65,4,75,63,4,3,,31,65.8,64,70.6,0,10:01,14,20-26,12,35,7,17,15.9
+bellarmine-university-1954,Regional Universities South,17,72,15,66,58,67,-9,78,68,-3,3,,19,67.1,83,57.7,0,12:01,22,22-27,19,52,24,21,12
+bethel-university-minnesota-9058,Regional Universities Midwest,17,69,7,74,59,74,-15,85,66,4,3,,36,82.4,88,55.6,3,11:01,18,21-27,25,52,52,52,8.5
+brigham-young-university-hawaii-1606,Regional Colleges West,17,58,15,47,,,,62,49,-2,3.3,,27,82.4,,,,,13,22-26,,,24,20,
+brigham-young-university-idaho-1625,Regional Colleges West,17,58,13,48,,,,69,43,5,3.3,,35,48.4,,,,,17,20-25,,,24,20,
+east-texas-baptist-university-3564,Regional Colleges West,17,58,18,38,28,34,-6,59,42,-11,3.2,,23,74.8,86,50.2,1,15:01,11,18-23,13,38,15,16,3.2
+le-moyne-college-2748,Regional Universities North,17,77,22,70,65,79,-14,86,62,12,2.9,,80,74.7,89,43.4,1,13:01,21,1080-1240,23,51,85,5,16.7
+nebraska-wesleyan-university-2555,Regional Universities Midwest,17,69,34,66,58,66,-8,78,69,-5,3.1,,17,71.2,88,72,1,11:01,15,22-28,21,51,63,8,15.3
+otterbein-university-3110,Regional Universities Midwest,17,69,40,61,55,68,-13,81,64,0,3.3,,42,77.5,87,63,2,11:01,17,21-27,26,55,42,28,11.2
+point-loma-nazarene-university-1262,Regional Universities West,17,69,11,73,68,77,-9,86,69,5,3.3,,62,56.5,85,39.5,2,14:01,9,1100-1290,31,71,29,35,6.7
+belmont-abbey-2910,Regional Colleges South,18,64,27,42,31,49,-18,62,41,2,3.1,,16,77.6,73,64.8,0,15:01,21,980-1120,,,31,32,6
+buena-vista-university-1847,Regional Colleges Midwest,18,73,16,53,61,59,1,75,62,-2,3.1,,3,87.4,80,73.3,0,9:01,22,19-24,14,38,27,47,5.8
+colby-college-2039,National Liberal Arts Colleges,18,86,34,91,86,92,-6,93,90,2,4,4.4,18,95.7,100,71.4,2,10:01,12,31-33,78,94,19,11,43.3
+harvey-mudd-college-1171,National Liberal Arts Colleges,18,86,11,93,96,96,0,98,96,0,4.4,4.6,97,95,99,57.6,4,8:01,1,1470-1570,90,100,14,55,25.3
+mount-saint-marys-university-1243,Regional Universities West,18,68,8,67,73,66,7,78,50,20,3.1,,36,47.8,69,71.9,0,11:01,89,920-1120,9,43,20,11,12.3
+queens-university-charlotte-2957,Regional Universities South,18,71,43,56,46,59,-13,76,59,-5,3.1,,27,69,82,63.8,0,10:01,40,1010-1198,18,42,6,3,21.5
+suny-college-of-technology-delhi-2857,Regional Colleges North,18,35,16,51,45,69,-24,70,38,19,2.9,,31,82.8,32,43.2,3,16:01,26,900-1120,4,17,41,19,3.1
+suny-polytechnic-institute-albanyutica-11678,Regional Universities North,18,76,155,47,40,60,-20,77,57,-5,2.7,,2,75.6,83,53.7,1,13:01,41,1000-1290,45,66,1,116,4.4
+west-point-2893,National Liberal Arts Colleges,18,86,21,84,,,,95,86,-1,4.2,4.8,18,100,52,96.9,0,7:01,71,1185-1400,46,74,8,33,31.8
+university-of-notre-dame-1840,National Universities,18,83,19,96,91,96,-5,98,95,0,4.1,4.7,16,95.7,90,61.9,10,10:01,16,32-34,91,98,25,3,41.4
+wesleyan-university-1424,National Liberal Arts Colleges,18,86,6,92,91,90,1,95,87,3,4.1,4.4,27,93.9,93,74.1,3,8:01,21,29-33,60,92,43,22,36.6
+adrian-college-2234,Regional Colleges Midwest,19,72,23,54,47,55,-8,66,51,1,3.2,,11,75.4,81,69.4,1,13:01,26,950-1148,28,52,9,33,10.3
+farmindale-state-suny-2858,Regional Colleges North,19,33,18,50,46,56,-10,81,49,4,2.9,,23,58.7,79,22.8,1,20:01,11,980-1140,8,30,37,31,0.3
+greensboro-college-2930,Regional Colleges South,19,63,23,41,38,45,-6,59,34,8,2.8,,11,62.3,96,86.3,0,11:01,27,17-22,6,24,40,7,13.9
+massachusetts-maritime-academy-2181,Regional Universities North,19,75,28,73,69,76,-7,89,59,16,3,,114,82.3,66,38,2,16:01,65,1040-1200,,,54,19,14.1
+university-of-california-los-angeles-1315,National Universities,19,82,1,91,87,93,-5,97,87,4,4.3,4.5,21,90.2,98,56.7,19,18:01,27,1240-1500,97,100,19,122,8.3
+mary-washington-3746,Regional Universities South,19,70,12,72,63,72,-9,82,66,5,3.3,,71,83.3,86,47.7,4,14:01,48,1080-1260,16,46,70,21,11.9
+vermont-technical-3698,Regional Colleges North,19,33,20,45,39,47,-8,76,51,-7,2.7,,14,72.3,24,75.1,0,12:01,21,20-23,7,25,5,24,1.4
+washington-university-in-st-louis-2520,National Universities,19,82,37,94,89,95,-5,97,97,-3,4.1,4.6,15,89,94,64.4,11,8:01,16,32-34,87,98,6,24,24.1
+western-washington-3802,Regional Universities West,19,66,21,70,66,70,-4,82,61,8,3.5,,20,86.2,88,41.8,14,18:01,16,1080-1280,22,53,77,47,4.3
+augsburg-university-2334,Regional Universities Midwest,20,68,31,60,56,69,-14,77,51,12,3.2,,28,72.8,88,62.8,0,13:01,87,19-24,,,42,52,8.4
+baruch-cuny-4766,Regional Universities North,20,74,5,68,73,66,8,91,59,11,3,,154,69.5,95,20,17,19:01,10,1190-1350,48,75,123,139,3.5
+elmhurst-college-1676,Regional Universities Midwest,20,68,26,69,51,71,-19,80,60,4,3.3,,65,66.8,82,55.4,1,14:01,35,20-26,21,49,58,43,9.2
+florida-memorial-university-1486,Regional Colleges South,20,61,33,38,,,,68,13,25,2.7,,55,90.1,79,,,,75,16-19,,,5,55,
+florida-southern-college-1488,Regional Universities South,20,69,23,61,57,66,-9,81,62,1,2.9,,21,73.8,88,60.2,0,15:01,15,23-28,31,60,31,38,9
+gallaudet-university-1443,Regional Universities North,20,74,153,47,45,59,-14,69,61,-8,3.3,,9,85.1,74,97.2,0,7:01,170,15-19,,,2,143,
+harding-university-10311,Regional Universities South,20,69,23,65,50,73,-23,83,64,3,3,,46,88.9,75,54.3,7,14:01,12,22-28,25,51,45,34,9.7
+huntington-university-1803,Regional Colleges Midwest,20,71,20,62,53,58,-5,81,53,4,3.3,,38,80.4,77,70.5,1,13:01,24,950-1170,21,49,37,18,15.6
+lewis-university-1707,Regional Universities Midwest,20,68,26,64,58,72,-14,82,58,9,2.9,,2,59.7,80,64.1,0,13:01,33,21-26,20,49,58,74,7.2
+university-of-providence-2527,Regional Colleges West,20,54,23,37,,,,64,44,1,3,,12,68,84,67.9,0,10:01,23,17-24,,,24,20,
+university-of-tampa-1538,Regional Universities South,20,69,29,59,61,59,2,75,59,1,3.3,,81,71.4,89,34,3,17:01,27,1070-1230,18,46,85,7,18.3
+westminster-college-utah-3681,Regional Universities West,20,65,42,62,50,66,-16,78,66,-4,3.1,,9,66.5,91,73.1,0,9:01,12,21-28,28,53,17,11,12.3
+abilene-christian-3537,Regional Universities West,21,64,42,62,51,65,-14,77,68,-7,3.4,,30,81.4,79,44,9,14:01,20,21-26,22,54,17,18,10.2
+emory-university-1564,National Universities,21,79,34,91,85,92,-7,94,90,1,4.1,4.5,20,95.4,96,62.6,12,9:01,24,30-33,83,97,17,32,20.9
+fisher-college-2150,Regional Colleges North,21,32,16,45,68,38,30,60,26,27,2.5,,16,40.7,60,73.7,0,16:01,35,800-1040,,,44,32,
+lander-university-3435,Regional Colleges South,21,60,14,44,35,49,-13,68,35,7,2.9,,39,82.4,71,44.5,3,16:01,12,940-1120,11,35,74,22,7.2
+pacific-university-3212,Regional Universities West,21,64,26,63,60,67,-7,80,67,-3,3.1,,13,81,89,61.2,3,10:01,26,1070-1260,,,13,21,9.5
+saint-maryofthewoods-college-1835,Regional Colleges Midwest,21,69,28,49,44,69,-25,74,46,11,3.1,,17,54.6,58,90.8,0,7:01,63,890-1070,,,15,2,23.4
+trinity-christian-college-1771,Regional Colleges Midwest,21,69,14,62,58,72,-14,84,57,11,2.8,,44,72.2,66,59,0,10:01,9,19-26,11,24,17,29,11.1
+university-of-hawaii-west-oahu-21078,Regional Colleges West,21,53,25,31,83,30,53,66,53,-14,3,,11,73.4,85,47.3,0,24:01:00,18,16-20,13,45,13,17,3
+arizona-christian-university-7113,Regional Colleges West,22,51,17,46,30,61,-32,62,50,-3,3,,30,41.8,47,,,16:01,29,,,,11,20,
+bates-college-2036,National Liberal Arts Colleges,22,85,21,89,92,92,0,95,88,4,4.1,4.4,38,97.1,97,69.3,1,10:01,28,1270-1450,63,86,43,14,40.7
+cogswell-polytechnical-college-1177,Regional Colleges West,22,51,24,30,33,40,-7,79,50,-13,2.8,,17,42.9,42,79.5,0,11:01,9,1070-1270,,,16,20,
+concordia-college-new-york-2709,Regional Colleges North,22,31,15,47,47,45,2,75,36,10,2.8,,40,47.8,,,,11:01,9,930-1140,8,38,44,9,6.8
+georgetown-university-1445,National Universities,22,78,13,95,94,95,-1,96,95,0,4.1,4.7,33,73.6,80,62.3,6,11:01,19,1350-1520,90,97,32,13,31.2
+mars-hill-college-2944,Regional Colleges South,22,59,44,34,28,38,-10,58,34,-3,2.9,,11,81.7,71,76,0,11:01,29,17-22,7,26,31,8,13.4
+soka-university-of-america-38144,National Liberal Arts Colleges,22,85,1,87,90,97,-7,94,81,13,2.6,3.2,2,83,98,94.8,0,8:01,47,1200-1390,50,90,1,61,24.5
+st-bonaventure-university-2817,Regional Universities North,22,73,46,66,61,72,-10,84,59,10,2.9,,120,81.8,78,53.8,0,12:01,30,1020-1220,21,47,43,2,18.2
+toccoa-falls-college-1596,Regional Colleges South,22,59,4,50,46,61,-15,69,38,15,2.5,,25,62,61,63.6,1,15:01,12,920-1150,12,40,73,45,2.5
+united-states-naval-academy-2101,National Liberal Arts Colleges,22,85,6,88,,,,97,87,4,4.3,4.9,71,97.9,67,74.4,0,8:01,100,1150-1370,57,83,2,156,14.1
+university-of-california-berkeley-1312,National Universities,22,78,7,92,89,92,-3,97,90,1,4.7,4.7,47,86.8,99,53.5,19,18:01,19,1300-1530,98,100,36,87,11.6
+university-of-holy-cross-2023,Regional Colleges South,22,59,39,37,100,45,55,68,41,11,3,,36,80.7,,75.7,1,11:01,15,18-23,,,38,49,1.2
+university-of-southern-california-1328,National Universities,22,78,13,92,90,92,-2,96,93,-1,4,4.5,39,82.2,91,60,12,8:01,34,30-34,88,96,20,3,41.7
+canisius-college-2681,Regional Universities North,23,72,28,70,61,74,-13,85,65,4,2.7,,36,72.9,98,55.2,0,11:01,23,1040-1260,23,49,43,31,12
+converse-college-3431,Regional Universities South,23,68,14,60,68,76,-8,70,59,13,2.7,,21,97,94,85.7,1,14:01,66,20-26,16,50,31,25,10.7
+dean-college-2144,Regional Colleges North,23,30,22,45,50,46,4,72,40,7,2.8,,36,46.1,48,48.6,0,17:01,28,880-1080,,,14,10,6.1
+hastings-2548,Regional Colleges Midwest,23,68,25,57,46,59,-13,70,59,-5,3.2,,23,84.7,81,67.3,2,14:01,36,20-25,18,45,24,11,17.9
+la-roche-college-3987,Regional Colleges North,23,30,19,48,41,58,-17,72,38,13,2.3,,13,57.4,83,67.4,0,12:01,12,950-1140,8,17,37,12,4.8
+milligan-college-3511,Regional Universities South,23,68,27,62,49,74,-24,78,61,3,2.7,,38,80,83,74.3,3,9:01,9,23-27,37,65,37,8,17.6
+pacific-lutheran-3785,Regional Universities West,23,63,30,69,57,70,-13,82,70,-2,3.3,,38,93.7,95,51.1,2,15:01,30,1040-1270,50,85,32,24,9.2
+rockhurst-university-2499,Regional Universities Midwest,23,67,15,72,60,79,-19,86,72,3,3.1,,109,77.6,88,40.8,1,13:01,12,22-27,25,56,87,19,12.6
+webster-university-2521,Regional Universities Midwest,23,67,34,62,59,67,-8,77,61,3,2.8,,1,58,87,90.1,0,9:01,27,21-26,12,37,21,153,2.8
+central-methodist-university-2453,Regional Colleges Midwest,24,65,26,50,53,51,2,66,55,-3,2.8,,28,80.9,58,65.8,2,12:01,12,20-25,17,42,4,33,10.3
+george-fox-university-3194,Regional Universities West,24,62,16,68,67,75,-8,82,65,6,3.3,,84,67.3,82,49.4,3,14:01,22,1030-1240,29,60,47,38,5.1
+lebanon-valley-college-3288,Regional Universities North,24,71,24,75,66,75,-10,83,72,1,2.6,,48,68,90,62,2,10:01,21,1063-1250,28,55,39,15,14.3
+southwestern-christian-university-3180,Regional Colleges West,24,45,19,36,30,22,8,53,32,-6,2.9,,18,43.4,44,86.5,0,10:01,34,22-Jun,,,33,20,
+trine-university-1839,Regional Colleges Midwest,24,65,26,55,42,62,-20,74,59,-4,3.3,,27,86.7,65,46.3,2,16:01,17,970-1160,23,51,49,36,8.9
+barnard-college-2708,National Liberal Arts Colleges,25,83,8,91,95,92,3,95,88,5,4,4.5,52,83.2,93,73.1,7,10:01,21,30-33,84,93,50,72,23.5
+carnegie-mellon-university-3242,National Universities,25,74,37,89,85,90,-5,97,90,-1,4.3,4.7,29,98.3,92,64.9,13,13:01,24,1430-1560,74,94,36,57,14.8
+colorado-mesa-university-1358,Regional Colleges West,25,40,22,35,26,37,-11,71,36,-3,2.9,,33,76.2,,51.1,8,21:01,10,18-24,10,29,36,19,1.8
+hunter-college-2689,Regional Universities North,25,70,68,53,54,50,4,84,58,-6,3.2,,114,57.7,88,37.7,7,14:01,17,1070-1260,24,57,97,33,11.5
+dominican-university-of-california-1196,Regional Universities West,25,59,12,68,73,71,3,84,65,7,2.8,,91,58.9,70,64.4,0,9:01,22,1040-1215,20,57,9,87,
+endicott-college-2148,Regional Universities North,25,70,15,75,73,75,-3,85,60,15,2.7,,98,42.9,72,60.5,0,14:01,30,1050-1210,16,44,151,24,13.1
+kettering-university-2262,Regional Universities Midwest,25,65,52,57,51,66,-15,93,77,-15,3,,28,91.5,87,49.1,1,15:01,5,1190-1350,32,60,15,55,8.2
+longwood-university-3719,Regional Universities South,25,67,21,66,62,70,-8,80,57,11,3,,9,89,88,53.8,1,14:01,93,960-1140,9,29,85,25,10.6
+molloy-college-2775,Regional Universities North,25,70,19,72,62,77,-15,88,64,8,2.3,,6,52.6,81,67,3,10:01,27,1020-1200,19,54,31,43,10.3
+reinhardt-university-1589,Regional Colleges South,25,57,41,36,33,44,-10,59,36,4,2.9,,24,64.7,77,71.7,0,12:01,19,18-23,6,25,30,35,4.6
+southern-vermont-college-3693,Regional Colleges North,25,29,32,32,47,55,-8,66,36,15,2.7,,30,75,,56.1,0,11:01,17,920-1080,11,24,9,32,
+university-of-detroit-mercy-2323,Regional Universities Midwest,25,65,44,62,49,68,-19,84,70,-8,2.9,,23,70.6,92,47,5,10:01,27,1040-1230,24,54,3,48,8.6
+mount-olive-college-2949,Regional Colleges South,25,57,11,44,40,48,-9,64,34,9,2.7,,43,63.8,77,67,0,14:01,47,870-1066,,,26,41,3.3
+university-of-northern-iowa-1890,Regional Universities Midwest,25,65,26,66,65,68,-3,83,62,5,3.3,,111,88.7,78,29,8,18:01,35,21-26,17,46,70,55,8.1
+university-of-richmond-3744,National Liberal Arts Colleges,25,83,34,87,90,88,2,93,86,2,3.9,4.2,6,86,95,71.1,0,8:01,25,29-32,62,92,26,72,23.6
+uva-6968,National Universities,25,74,26,94,91,95,-4,97,94,1,4.2,4.5,33,98,91,53.8,15,14:01,26,1310-1500,89,99,50,34,20.3
+winthrop-university-3456,Regional Universities South,25,67,30,55,53,60,-7,76,55,2,3.3,,41,75.2,88,49.1,2,14:01,46,19-25,19,51,55,51,7.4
+california-state-university-long-beach-1139,Regional Universities West,26,58,8,68,69,73,-4,89,58,13,3.3,,87,71.6,85,22.9,8,24:01:00,36,1020-1230,,,113,60,3
+dixie-state-3671,Regional Colleges West,26,39,30,20,14,26,-12,56,40,-20,2.8,,20,62.1,66,42.3,5,22:01,14,17-23,9,29,35,1,22.8
+manchester-university-1820,Regional Colleges Midwest,26,62,29,56,,,,68,52,5,3.2,,53,86.4,87,54.1,1,14:01,65,850-1100,17,39,13,12,17.7
+regis-university-1363,Regional Universities West,26,58,22,68,65,74,-9,79,65,6,3.2,,91,67.2,47,57.7,1,13:01,16,20-26,33,55,48,55,3.8
+suny-canton-2855,Regional Colleges North,26,25,37,35,26,46,-19,77,31,6,2.8,,19,77.8,56,41.7,3,17:01,28,880-1080,5,20,23,21,2.3
+suny-morrisville-2859,Regional Colleges North,26,25,31,35,32,34,-2,66,32,1,2.7,,28,81.4,36,52.4,3,15:01,17,910-1100,4,16,21,20,2.6
+valley-forge-christian-3306,Regional Colleges North,26,25,25,46,36,59,-23,71,36,13,2.3,,23,44.9,64,78.4,2,12:01,14,918-1150,13,11,23,16,3.2
+bryn-mawr-college-3237,National Liberal Arts Colleges,27,82,29,83,90,82,8,93,87,-4,4.1,4.3,64,91.9,95,70.7,3,8:01,17,1310-1500,68,91,19,28,33.5
+colorado-college-1347,National Liberal Arts Colleges,27,82,49,87,85,88,-3,95,90,-2,3.9,4.2,7,94.2,99,71.3,0,10:01,16,29-33,70,94,22,76,22.9
+hampton-university-3714,Regional Universities South,27,66,19,60,49,61,-12,78,56,-1,3,,99,91.6,84,53.9,6,13:01,91,20-24,13,35,8,10,16.7
+lees-mcrae-college-2939,Regional Colleges South,27,55,43,36,21,42,-20,63,35,-3,2.9,,19,65.7,60,81.5,0,12:01,32,18-23,11,27,35,20,7.9
+macalester-college-2358,National Liberal Arts Colleges,27,82,25,89,83,88,-5,94,88,-1,4,4.4,43,91.1,93,70.3,1,10:01,24,29-32,67,91,50,22,36.2
+osu-okmulgee-3172,Regional Colleges West,27,37,33,17,25,47,-21,59,40,-8,2.9,,21,90.2,8,76.4,0,15:01,26,16-21,6,22,22,35,1.1
+shorter-university-1591,Regional Colleges South,27,55,27,43,,,,60,47,-4,3,,57,85.3,73,,,14:01,36,17-24,12,34,15,55,
+tufts-university-2219,National Universities,27,72,31,93,92,93,-1,97,95,-2,3.7,4.5,29,83.8,93,70.1,7,9:01,19,31-34,80,94,30,31,21.4
+union-college-nebraska-2563,Regional Colleges Midwest,27,61,29,50,42,62,-20,77,50,4,2.8,,48,78.1,50,69.8,1,9:01,32,19-26,,,11,14,16.4
+university-of-michigan-ann-arbor-9092,National Universities,27,72,31,91,87,92,-6,97,94,-2,4.4,4.5,58,93.3,89,57.4,18,15:01,39,30-33,77,95,40,47,17.4
+wake-forest-2978,National Universities,27,72,55,88,84,89,-5,94,94,-6,3.6,4.2,25,85.6,93,57.3,1,11:01,39,28-32,77,93,10,24,24.3
+williams-baptist-university-1106,Regional Colleges South,27,55,18,40,43,41,2,60,42,0,2.7,,46,82.1,62,66.5,0,13:01,21,18-22,10,29,31,41,3.3
+assumption-college-2118,Regional Universities North,28,69,28,72,70,71,-2,83,64,7,2.7,,60,83,91,49.6,0,11:01,57,1070-1250,12,41,85,24,13.2
+california-state-polytechnic-university-pomona-1144,Regional Universities West,28,57,14,64,63,69,-6,89,43,23,3.6,,124,74.1,82,12.4,14,25:01:00,60,1010-1240,,,115,69,2.4
+dakota-wesleyan-3461,Regional Colleges Midwest,28,60,42,45,40,53,-14,70,40,8,3.1,,28,78.6,74,65.5,1,11:01,23,20-24,14,36,46,41,7.8
+georgia-college--state-university-1602,Regional Universities South,28,65,25,62,62,67,-5,85,64,2,3.3,,41,92.9,82,37.6,4,17:01,33,23-27,,,103,105,3.2
+letourneau-university-3584,Regional Universities West,28,57,50,54,55,61,-6,78,62,-3,2.9,,13,63.4,80,69.1,1,15:01,15,1060-1310,25,52,35,32,7.2
+monmouth-university-2616,Regional Universities North,28,69,43,69,67,72,-5,81,65,5,2.9,,36,71.7,75,39.7,0,13:01,57,970-1190,12,37,39,119,4.3
+oklahoma-city-3166,Regional Universities West,28,57,38,60,60,64,-3,82,74,-11,3,,30,88.7,66,75.2,2,11:01,22,23-28,31,61,23,40,4.9
+ramapo-college-9344,Regional Universities North,28,69,28,73,64,77,-13,87,63,11,2.7,,23,70.2,93,39.2,0,18:01,33,1050-1230,16,41,106,119,4.2
+rutgers-camden-4741,Regional Universities North,28,69,68,57,56,59,-3,86,56,2,3,,23,71.1,99,44.4,10,12:01,82,1000-1180,12,37,9,139,3.4
+salve-regina-university-3411,Regional Universities North,28,69,33,70,66,73,-6,84,63,8,2.8,,134,70.2,79,38.8,0,14:01,57,1080-1230,11,42,97,6,16.4
+springfield-college-2211,Regional Universities North,28,69,35,71,63,77,-14,85,60,14,2.8,,131,73.9,82,45.4,2,12:01,41,1020-1220,13,44,65,54,8.9
+saint-francis-university-3366,Regional Universities North,28,69,35,68,54,65,-10,87,63,-1,2.6,,60,79.9,78,66.1,0,14:01,61,1030-1230,25,57,31,1,20.6
+university-of-st-francis-1664,Regional Universities Midwest,28,63,33,62,54,68,-14,80,60,3,2.8,,12,62.5,76,66.6,0,12:01,42,20-25,12,41,26,67,7.6
+university-of-st-thomas-texas-3654,Regional Universities West,28,57,36,57,52,61,-9,85,65,-8,3,,16,72,94,58.3,0,11:01,44,1070-1235,23,29,29,25,8.6
+xavier-university-of-louisiana-2032,Regional Universities South,28,65,69,42,41,49,-8,72,49,-5,3.2,,57,96.5,95,54.5,3,14:01,36,20-25,28,54,7,10,16.8
+bethel-college-1787,Regional Universities Midwest,29,61,7,66,58,71,-13,78,48,16,2.7,,109,63.4,61,67.5,3,12:01,99,950-1160,14,41,52,38,9.5
+drury-university-2461,Regional Universities Midwest,29,61,62,55,42,64,-23,81,60,-5,2.9,,12,94,94,57.5,0,13:01,6,23-28,34,66,93,21,12.2
+grand-valley-state-university-2268,Regional Universities Midwest,29,61,16,66,58,69,-11,84,58,7,3.1,,84,85.9,78,24.9,6,17:01,35,1060-1230,16,45,106,101,4.6
+keystone-college-3280,Regional Colleges North,29,24,27,41,34,43,-9,67,32,7,2.6,,16,52.3,54,73,0,13:01,36,780-970,,,35,14,3.9
+jamestown-college-2990,Regional Colleges Midwest,29,59,42,48,44,55,-11,73,49,4,3.2,,41,83.9,66,57.1,2,12:01,43,19-24,15,37,46,20,14.7
+alderson-broaddus-college-3806,Regional Colleges South,30,54,21,44,38,58,-20,56,49,-2,2.6,,47,85.1,58,70.2,4,16:01,23,18-23,7,24,17,29,6.5
+blackburn-college-1639,Regional Colleges Midwest,30,58,36,43,51,47,4,62,46,3,2.6,,11,78.7,95,77.6,0,12:01,33,18-23,9,35,42,22,14.1
+bluffton-university-3016,Regional Colleges Midwest,30,58,29,52,40,62,-22,68,51,0,2.8,,38,75.4,68,67.5,0,11:01,39,18-24,11,34,13,38,8.4
+brescia-university-1958,Regional Colleges South,30,54,52,30,28,51,-24,63,46,-7,2.8,,4,61.1,84,89.1,0,11:01,15,19-23,,,51,15,10.5
+campbell-university-2913,Regional Universities South,30,64,54,51,42,56,-14,73,58,-8,3.1,,15,58.1,83,57.8,7,15:01,33,20-25,27,60,22,54,7
+castleton-university-3683,Regional Colleges North,30,23,21,48,,,,73,43,5,2.8,,37,63,,,,,32,860-1068,,,26,32,
+dunwoody-college-of-technology-4641,Regional Colleges Midwest,30,58,16,67,50,100,-50,66,40,27,2.4,,49,76.6,10,83.7,0,10:01,60,,10,30,15,74,2.7
+kentucky-state-university-1968,Regional Colleges South,30,54,70,21,20,24,-4,58,39,-18,2.7,,1,93,102,64.8,2,11:01,10,16-21,4,26,1,55,
+kenyon-college-3065,National Liberal Arts Colleges,30,80,41,89,94,90,4,94,89,2,3.9,4.2,43,91.4,91,74.4,1,9:01,28,29-33,63,86,41,33,31.9
+mount-holyoke-college-2192,National Liberal Arts Colleges,30,80,49,84,84,87,-2,91,83,3,4,4.1,52,92.6,97,72.8,1,9:01,28,1270-1463,54,91,41,30,32.3
+nyu-2785,National Universities,30,71,42,84,81,85,-4,93,85,-1,3.9,4.5,23,71.6,93,59.1,10,9:01,32,1290-1490,72,100,32,87,11.3
+oberlin-college-3086,National Liberal Arts Colleges,30,80,58,87,88,86,2,91,90,-4,4.1,4.4,25,97.2,93,78,2,9:01,28,28-33,58,79,36,48,27.2
+scripps-college-1174,National Liberal Arts Colleges,30,80,41,88,93,88,5,93,93,-5,3.9,4.4,18,90,99,80,0,10:01,25,29-33,73,94,29,48,27.3
+united-states-air-force-academy-1369,National Liberal Arts Colleges,30,80,29,81,,,,94,88,-9,4.1,4.7,115,99.7,59,63.8,0,9:01,38,29-33,52,81,2,167,13.6
+university-of-california-santa-barbara-1320,National Universities,30,71,21,83,82,89,-7,93,84,2,3.6,4,17,94.6,100,49.4,20,17:01,27,1240-1470,100,100,70,50,16.2
+unc-2974,National Universities,30,71,21,91,87,92,-5,97,89,2,4.1,4.5,87,88.7,85,38.3,13,13:01,34,27-32,78,96,30,47,17.3
+mary-baldwin-3723,Regional Universities South,31,63,64,43,48,42,5,66,43,2,2.9,,11,67.9,81,81.3,0,9:01,48,950-1200,18,55,28,16,14.4
+newbury-college-7484,Regional Colleges North,31,22,28,38,39,39,0,60,36,3,2.5,,21,55.2,48,74.4,0,12:01,31,870-1110,,,18,26,0.9
+university-of-maine-presque-isle-2033,Regional Colleges North,31,22,33,38,23,29,-6,61,48,-22,2.7,,2,70.7,95,76,0,15:01,24,910-1130,1,25,37,29,0.4
+california-baptist-university-1125,Regional Universities West,32,56,35,59,51,66,-15,78,48,11,3,,30,65.3,78,55.1,5,17:01,39,980-1190,18,46,53,86,1.5
+indiana-wesleyan-university-1822,Regional Universities Midwest,32,60,26,64,55,67,-12,82,60,3,2.9,,32,82.2,74,66.3,2,14:01,66,21-26,23,57,74,74,7
+mississippi-college-2415,Regional Universities South,32,62,33,57,51,65,-14,77,56,3,3.1,,71,76.4,77,54.9,5,14:01,29,22-29,40,63,74,79,4.8
+robert-morris-university-1746,Regional Universities Midwest,32,60,9,75,69,86,-17,49,38,38,2.5,,142,54.2,38,51.4,1,21:01,161,16-20,3,10,4,161,1.3
+university-of-lynchburg-3720,Regional Universities South,32,62,37,57,50,64,-14,75,57,2,2.7,,11,81.8,89,64.4,1,11:01,88,1000-1180,9,17,26,18,13.6
+uw-la-crosse-3919,Regional Universities Midwest,32,60,12,69,68,72,-4,85,68,3,3.2,,138,89.6,83,26.5,12,19:01,8,22-26,21,58,133,119,3.5
+defiance-college-3041,Regional Colleges Midwest,33,55,55,44,,,,57,44,0,2.8,,7,72.5,64,100,0,11:01,58,18-22,13,23,7,38,8.2
+eureka-college-1678,Regional Colleges Midwest,33,55,36,50,34,52,-18,72,52,-8,2.7,,38,84.7,65,70.5,0,13:01,33,19-24,14,33,17,20,14.8
+mount-aloysius-college-3302,Regional Colleges North,33,18,33,37,,,,,35,2,2.5,,15,65.1,,77.7,0,,33,870-1030,,,26,32,
+san-jose-state-university-1155,Regional Universities West,33,54,23,57,54,59,-5,87,48,9,3.3,,69,66.3,83,22.8,10,26:01:00,60,1030-1230,,,108,82,1.7
+south-florida-state-college-666960,Regional Colleges South,33,53,11,44,40,39,1,61,42,-2,2.7,,36,60,0,69.3,0,11:01,58,,,,26,55,
+university-of-california-irvine-1314,National Universities,33,70,2,87,82,87,-4,93,81,4,3.7,4.1,29,91.8,98,55.1,22,18:01,53,1170-1410,98,100,56,168,6.3
+university-of-rochester-2894,National Universities,33,70,34,86,89,84,4,97,88,-3,3.4,4.1,22,90.5,93,70.6,11,10:01,46,1300-1490,66,91,20,27,22.5
+bennett-college-2911,Regional Colleges South,34,52,35,42,30,56,-26,49,31,6,2.3,,27,81.8,79,71.9,1,10:01,78,780-930,3,18,2,3,18.7
+bob-jones-university-666997,Regional Universities South,34,61,5,66,66,72,-5,81,47,22,2.1,,112,95,63,65.3,8,12:01,31,24-27,13,35,51,51,7.6
+csumb-32603,Regional Universities West,34,53,28,53,61,60,1,81,50,10,2.9,,62,60.6,92,19,6,26:01:00,52,970-1170,14,48,44,82,1.8
+cuny-york-college-4759,Regional Colleges North,34,17,33,29,29,30,-1,73,32,-3,2.7,,34,56.5,72,27.6,8,18:01,33,860-1020,,,36,32,
+emmanuel-college-1563,Regional Colleges South,34,52,25,38,42,50,-8,60,37,9,2.6,,39,83.8,74,60.9,0,15:01,39,950-1110,,,35,26,6.8
+murray-state-university-1977,Regional Universities South,34,61,64,50,36,59,-23,73,55,-6,3.1,,19,86.8,75,58.4,3,15:01,20,21-27,25,52,61,67,5.8
+university-of-maine-fort-kent-2041,Regional Colleges North,34,17,30,35,39,26,12,68,37,-4,2.5,,31,63.4,44,50.2,6,14:01,17,860-1110,3,11,47,14,3.9
+western-carolina-university-2981,Regional Universities South,34,61,25,58,56,61,-5,79,51,8,3.1,,89,87,81,27.3,5,17:01,70,20-24,13,38,99,71,5.5
+western-kentucky-university-2002,Regional Universities South,34,61,62,51,38,58,-20,72,51,0,3.2,,46,83.8,77,48.2,6,18:01,36,19-27,22,46,51,54,7
+brandeis-university-2133,National Universities,35,69,21,89,92,89,3,93,85,5,3.6,4.1,47,84.7,95,59.7,9,10:01,39,29-33,65,90,47,35,19.4
+capital-university-3023,Regional Universities Midwest,35,58,40,60,52,63,-11,76,62,-3,2.7,,6,65.4,76,64,1,11:01,63,22-27,18,48,52,58,7.9
+holy-cross-2141,National Liberal Arts Colleges,35,79,8,92,94,92,2,95,85,7,3.6,4.2,79,95.4,95,58.4,2,10:01,62,1270-1410,57,90,50,7,46.1
+concordia-university-nebraska-2541,Regional Universities Midwest,35,58,21,65,66,67,0,76,62,5,2.7,,102,48.8,77,53.3,2,14:01,66,21-26,18,43,102,2,19.9
+evergreen-state-college-8155,Regional Universities West,35,52,56,56,53,59,-6,66,48,9,3.2,,46,87.3,92,46.4,9,21:01,55,960-1190,9,32,71,69,2.4
+georgia-institute-of-technology-1569,National Universities,35,69,37,85,80,87,-7,97,89,-4,4.3,4.5,117,95.4,94,39,26,22:01,19,1370-1520,88,98,61,32,21.1
+la-salle-university-3287,Regional Universities North,35,68,51,66,58,73,-15,78,55,12,2.9,,134,72.6,80,46.4,1,11:01,85,970-1160,14,36,31,45,10.1
+misericordia-university-3247,Regional Universities North,35,68,24,73,66,80,-14,83,63,13,2.5,,101,71.7,78,47.7,0,12:01,38,1030-1205,21,51,75,15,14.4
+nazareth-college-2779,Regional Universities North,35,68,22,71,64,68,-4,83,67,0,2.6,,101,61.4,82,51.7,0,9:01,15,1070-1250,26,60,54,45,10.1
+nmt-2654,Regional Universities West,35,52,73,48,42,49,-7,76,79,-32,3.1,,79,87.6,,60.1,8,11:01,7,23-29,35,68,4,87,
+rider-university-2628,Regional Universities North,35,68,68,64,58,64,-6,80,63,-1,2.8,,17,67.5,98,47.4,1,11:01,49,990-1190,14,43,19,70,7.9
+sacred-heart-university-1403,Regional Universities North,35,68,64,66,66,74,-7,83,66,6,3.1,,98,61.3,81,41,1,14:01,80,1060-1200,10,29,65,70,8
+richard-stockton-college-9345,Regional Universities North,35,68,15,71,67,76,-9,87,58,15,2.7,,74,71.9,94,26.6,2,17:01,49,1010-1200,20,47,97,183,1.5
+university-of-florida-1535,National Universities,35,69,7,88,85,90,-5,96,82,6,3.7,4.1,65,94.1,92,48,16,19:01,39,1240-1400,77,96,44,75,12.8
+uw-superior-3925,Regional Colleges Midwest,35,54,47,43,35,50,-15,70,52,-8,3,,23,75.7,68,61.9,2,16:01,37,19-23,6,26,24,69,4.8
+briar-cliff-university-1846,Regional Colleges Midwest,36,53,45,45,34,47,-12,65,49,-7,2.7,,17,84.3,75,72.4,1,12:01,25,19-24,6,30,45,29,11
+bucknell-university-3238,National Liberal Arts Colleges,36,77,41,89,88,91,-2,93,88,2,3.9,4.4,110,95.8,97,52,2,9:01,34,1250-1420,60,89,36,45,28.4
+ferrum-college-3711,Regional Colleges South,36,51,54,30,31,39,-8,52,27,8,2.8,,30,85.1,82,69.6,0,14:01,55,850-1078,3,12,16,29,6.1
+franklin-and-marshall-college-3265,National Liberal Arts Colleges,36,77,41,87,82,86,-4,92,87,-2,3.6,4.1,30,95.9,95,67.7,1,9:01,25,1260-1420,68,90,34,61,24.6
+lafayette-college-3284,National Liberal Arts Colleges,36,77,29,90,87,90,-4,94,88,2,3.6,4.1,57,92.7,98,61.2,1,10:01,38,28-31,58,82,36,44,29.3
+mcpherson-college-1933,Regional Colleges Midwest,36,53,41,46,33,39,-6,62,46,-11,2.8,,19,82.7,72,76.2,0,13:01,48,19-22,10,21,35,38,8.3
+university-of-minnesota-crookston-4069,Regional Colleges Midwest,36,53,32,50,48,57,-8,68,50,4,2.7,,8,79.4,47,71,0,16:01,50,19-24,16,34,71,77,1.4
+concordia-university-california-29059,Regional Universities West,37,51,45,59,54,69,-15,76,52,13,2.9,,69,49.1,70,56.5,0,16:01,36,1010-1200,18,36,60,45,4.6
+martin-methodist-3504,Regional Colleges South,37,49,40,38,27,43,-16,54,33,0,2.7,,43,78,67,60.2,0,15:01,30,18-23,,,55,8,13.6
+north-carolina-wesleyan-2951,Regional Colleges South,37,49,51,28,37,22,15,56,28,3,2.7,,5,44.2,83,78.8,0,17:01,49,870-1060,8,23,55,38,3.4
+st-martins-3794,Regional Universities West,37,51,53,53,51,64,-14,79,54,5,2.8,,40,69.3,90,64.3,0,11:01,39,980-1190,24,52,35,57,3.3
+findlay-3045,Regional Universities Midwest,37,57,61,59,,,,80,65,-4,2.8,,56,92,66,57.6,1,16:01,16,21-27,24,56,46,38,9.5
+west-liberty-3823,Regional Colleges South,37,49,21,43,,,,70,38,5,2.6,,38,84.3,64,65.7,0,15:01,19,17-23,12,34,81,45,2.2
+aquinas-college-michigan-2239,Regional Universities Midwest,38,56,57,55,52,64,-12,78,58,1,2.8,,65,66.7,81,67.3,0,11:01,71,1020-1220,,,58,18,12.9
+boston-college-2128,National Universities,38,68,34,92,90,92,-2,95,93,-1,3.6,4.4,52,75.1,94,48.5,7,12:01,27,1320-1490,78,95,63,23,24.8
+william-and-mary-3705,National Universities,38,68,42,91,89,92,-3,95,93,-1,3.8,4.4,47,88.6,95,49.1,7,11:01,31,1300-1480,81,97,109,17,29.3
+eastern-illinois-university-1674,Regional Universities Midwest,38,56,55,58,49,61,-12,74,51,5,2.6,,12,92,78,52.6,2,14:01,109,18-23,12,33,12,146,3.3
+marian-university-1821,Regional Universities Midwest,38,56,69,55,41,61,-19,77,55,-3,2.8,,73,78.8,70,66.6,1,14:01,75,1000-1200,18,44,15,9,14.8
+st-ambrose-university-1889,Regional Universities Midwest,38,56,52,62,59,64,-5,78,58,5,2.9,,42,81.2,87,46.4,0,12:01,97,21-26,14,42,66,78,6.4
+university-of-california-davis-1313,National Universities,38,68,12,85,82,87,-5,93,82,3,3.9,4.2,102,89.3,93,37.6,28,20:01,57,1120-1360,100,100,28,154,6.9
+university-of-indianapolis-1804,Regional Universities Midwest,38,56,69,55,46,62,-16,75,57,-1,3.1,,76,73.4,79,55.3,1,13:01,79,990-1180,20,47,58,26,11.5
+michigan-dearborn-2326,Regional Universities Midwest,38,56,46,54,52,62,-10,81,59,-1,2.8,,73,80.5,86,29.7,9,17:01,19,1060-1290,24,55,74,58,8
+uw-eau-claire-3917,Regional Universities Midwest,38,56,9,67,65,68,-2,83,62,5,3.1,,161,86.6,76,21.1,16,22:01,19,21-26,16,48,152,70,7.3
+wheeling-jesuit-3831,Regional Universities South,38,60,27,60,67,61,6,70,63,0,2.5,,51,70.2,80,63.6,3,13:01,70,19-24,13,38,8,42,8.4
+christian-brothers-university-3482,Regional Universities South,39,59,49,51,34,54,-20,81,55,-11,2.8,,30,78.2,85,65.7,0,13:01,13,21-27,27,56,80,13,16
+culver-stockton-college-2460,Regional Colleges Midwest,39,52,32,47,43,52,-9,69,46,1,2.8,,51,74.7,65,59.7,0,15:01,43,18-23,9,28,72,7,19.4
+freed-hardeman-university-3492,Regional Universities South,39,59,40,55,43,63,-20,77,57,-2,2.5,,30,83.8,82,61.7,4,13:01,9,22-28,31,58,49,33,10.3
+fresno-pacific-university-1253,Regional Universities West,39,50,24,61,60,66,-6,78,44,19,2.5,,40,35,88,72.3,1,13:01,67,915-1090,22,63,56,87,
+grand-view-university-1867,Regional Colleges Midwest,39,52,34,48,46,53,-7,70,42,8,2.7,,41,66.8,62,69.7,0,13:01,33,18-23,15,36,50,71,3.5
+oakland-city-university-1824,Regional Colleges Midwest,39,52,22,51,57,57,0,70,43,14,2.2,,32,43.5,,82.8,0,11:01,53,950-1150,8,19,37,71,3.4
+occidental-college-1249,National Liberal Arts Colleges,39,76,38,85,82,85,-3,92,82,2,3.9,4.2,74,86.4,97,67.1,0,9:01,28,1280-1440,62,86,58,126,17.2
+union-college-new-york-2889,National Liberal Arts Colleges,39,76,41,87,82,86,-3,92,84,1,3.4,4,27,97.2,97,66.8,0,10:01,28,1270-1430,63,88,48,37,31.1
+incarnate-word-3578,Regional Universities West,39,50,42,51,51,55,-5,76,50,3,2.9,,40,69.1,48,63.2,2,13:01,76,940-1120,16,40,43,47,4.3
+william-carey-2447,Regional Universities South,39,59,33,54,48,77,-29,80,37,20,2.6,,36,66.2,66,71.3,1,15:01,44,21-28,28,54,128,93,3.9
+brevard-college-2912,Regional Colleges South,40,48,33,42,,,,55,42,0,3.1,,64,80.1,,,,,58,,,,55,55,
+oakwood-university-1033,Regional Colleges South,40,48,15,44,,,,73,37,7,2.9,,79,,,,,,58,,,,55,55,
+california-state-university-chico-1146,Regional Universities West,41,49,30,64,,,,86,59,5,2.9,,79,75.5,85,25.2,14,23:01,33,990-1170,35,76,106,51,4
+hardin-simmons-university-3571,Regional Universities West,41,49,62,52,44,56,-12,70,57,-6,2.8,,8,81.1,90,64.1,2,12:01,71,18-24,18,44,51,29,7.5
+mount-st-marys-university-2086,Regional Universities North,41,67,78,67,54,66,-12,76,61,2,2.9,,74,83.1,87,55.4,0,13:01,87,970-1190,8,30,31,9,15.7
+oral-roberts-university-3985,Regional Universities West,41,49,39,56,53,58,-5,81,53,4,2.6,,65,77,71,55.4,7,14:01,48,20-26,22,46,44,15,10.7
+pitzer-college-1172,National Liberal Arts Colleges,41,75,49,86,86,83,3,94,85,-2,3.7,4.3,38,87.2,100,71.3,0,11:01,67,29-32,63,88,34,67,24
+skidmore-college-2814,National Liberal Arts Colleges,41,75,38,87,86,87,-2,93,81,6,3.6,4.1,43,88.6,87,73.1,0,8:01,53,1205-1400,29,73,48,88,20.7
+suny-new-paltz-2846,Regional Universities North,41,67,15,73,73,,,88,64,8,2.9,,162,79.4,83,24.5,4,16:01,20,1100-1260,31,69,85,175,2.5
+university-of-california-san-diego-1317,National Universities,41,67,5,86,82,86,-4,95,82,2,3.8,4.2,144,93.6,98,38.7,35,19:01,46,1140-1380,100,100,23,209,4.4
+boston-university-2130,National Universities,42,66,60,86,84,88,-4,93,83,4,3.6,4.4,33,86.9,91,60.7,13,10:01,45,1300-1480,62,92,53,105,10.2
+case-western-reserve-university-3024,National Universities,42,66,66,82,78,84,-5,93,83,0,3.7,4.2,52,91.6,92,60.4,13,11:01,32,30-33,70,95,36,39,18.7
+marshall-university-3815,Regional Universities South,42,58,64,46,41,56,-16,73,52,-3,3.4,,77,87.8,80,44.8,5,19:01,70,19-25,,,55,86,4.3
+talladega-college-1046,Regional Colleges South,42,47,35,41,,,,56,38,3,2.6,,51,82.2,70,66.4,2,16:01,58,,,,24,11,13.1
+university-of-montevallo-1004,Regional Universities South,42,58,69,47,50,,,77,56,-6,3,,51,85.6,93,48.1,1,14:01,48,20-26,,,20,46,7.7
+university-of-north-florida-9841,Regional Universities South,42,58,33,55,53,59,-6,81,59,-2,3,,112,81,83,30.4,11,18:01,27,1090-1280,15,43,70,86,4.4
+university-of-tennessee-martin-3531,Regional Universities South,42,58,52,48,43,58,-16,74,50,0,2.8,,21,81.1,71,60.3,3,15:01,33,20-25,16,44,74,64,6.4
+valley-city-state-3008,Regional Colleges Midwest,42,51,56,40,26,40,-14,71,48,-13,2.9,,16,83.2,61,73.3,3,13:01,43,18-23,,,32,36,8.8
+bluefield-college-3703,Regional Colleges South,43,46,52,36,13,31,-18,57,35,-14,2.8,,17,67.5,73,70.8,0,14:01,41,870-1085,7,25,53,22,7.1
+denison-university-3042,National Liberal Arts Colleges,43,74,49,82,85,87,-2,89,80,6,3.5,4,47,94.9,97,66.1,0,9:01,41,28-31,65,87,61,96,19.4
+hood-college-2076,Regional Universities North,43,66,51,65,59,62,-2,78,60,1,2.8,,42,70.6,92,72.1,0,10:01,117,980-1220,15,34,75,13,15.1
+marywood-university-3296,Regional Universities North,43,66,28,69,66,70,-4,83,59,10,2.5,,67,61.9,87,57.5,0,12:01,65,1000-1190,19,47,85,28,12.5
+mayville-state-2993,Regional Colleges Midwest,43,50,68,33,23,42,-19,55,44,-10,2.6,,6,83,47,86,1,14:01,21,18-23,,,24,16,16.3
+niagara-university-2788,Regional Universities North,43,66,41,66,61,72,-11,84,57,11,2.7,,48,64.4,94,57,1,11:01,41,1020-1200,16,47,138,62,8.4
+ohio-valley-university-3819,Regional Colleges South,43,46,35,36,33,27,6,54,43,-12,2.4,,39,52,59,69,0,11:01,15,18-23,7,26,35,18,7.9
+roger-williams-university-4917,Regional Universities North,43,66,72,64,68,64,4,81,66,-2,2.9,,21,67,91,47.9,1,14:01,36,1090-1250,,,43,113,4.6
+thomas-aquinas-college-10448,National Liberal Arts Colleges,43,74,21,81,86,76,10,93,69,10,2.8,3.4,30,92.1,87,100,0,11:01,49,1200-1380,54,72,88,1,58.7
+wagner-college-2899,Regional Universities North,43,66,43,67,68,71,-3,85,75,-5,2.7,,67,68.1,87,66.3,2,13:01,46,1070-1250,25,50,19,79,7
+whitman-college-3803,National Liberal Arts Colleges,43,74,61,88,79,89,-9,94,88,0,3.5,4.1,57,89.7,93,69,0,9:01,34,26-31,59,88,56,41,30.6
+chaminade-university-of-honolulu-1605,Regional Universities West,44,48,53,51,52,54,-3,76,49,4,2.7,,65,85.3,,55.3,0,11:01,50,970-1180,19,46,23,69,2.4
+lake-superior-state-2293,Regional Colleges Midwest,44,48,47,42,34,52,-18,69,47,-3,2.8,,44,84.1,68,54,6,17:01,30,990-1180,15,37,41,76,1.8
+northeastern-university-2199,National Universities,44,65,50,85,88,87,0,97,85,2,3.4,4.3,25,90.1,94,68.1,6,14:01,27,32-34,75,93,79,87,11.4
+ottawa-university-1937,Regional Colleges Midwest,44,48,54,39,40,52,-12,62,50,-3,2.7,,23,66.9,72,64.5,1,12:01,27,18-22,27,30,54,29,10.9
+tulane-university-2029,National Universities,44,65,74,83,79,84,-5,92,85,-2,3.5,4.2,27,84.5,95,60.8,6,8:01,34,30-33,62,88,42,50,16.1
+walla-walla-university-3799,Regional Universities West,44,48,39,55,60,66,-7,82,62,2,2.8,,75,82.3,68,61.3,6,14:01,48,1020-1240,,,40,87,
+gordon-state-college-1575,Regional Colleges South,45,45,15,50,,,,55,26,24,2.6,,60,83,73,,,20:01,55,840-1030,,,85,52,0.9
+limestone-college-3436,Regional Colleges South,45,45,60,32,0,0,0,55,37,-11,2.5,,34,,81,66.9,0,,25,17-22,4,19,3,55,
+point-university-1547,Regional Colleges South,45,45,32,37,33,19,14,57,34,-7,2.6,,50,47.9,64,69.3,1,15:01,44,16-21,12,27,28,55,
+university-of-arkansas-pine-bluff-1086,Regional Colleges South,45,45,55,26,26,41,-15,68,31,-2,2.7,,66,93.3,56,52.1,2,15:01,42,16-20,13,33,8,22,7.5
+university-of-minnesota-duluth-2388,Regional Universities Midwest,45,55,46,59,56,61,-5,77,60,-1,3,,111,93.4,75,37.3,16,18:01,21,22-26,18,48,97,85,5.6
+ursuline-3134,Regional Universities Midwest,45,55,92,50,43,64,-21,68,50,3,2.6,,23,61.5,71,88.8,0,8:01,87,18-24,17,50,5,15,13.3
+centre-college-1961,National Liberal Arts Colleges,46,73,41,84,85,82,3,91,82,0,3.5,4.1,97,98,98,60.6,0,10:01,34,26-31,64,86,78,12,42.7
+connecticut-college-1379,National Liberal Arts Colleges,46,73,49,84,88,84,4,90,86,-1,3.5,4,47,89.2,93,75,1,9:01,78,1270-1400,44,78,36,51,25.8
+crown-college-2383,Regional Colleges Midwest,46,46,20,56,58,74,-16,69,50,16,2.4,,61,62.8,53,69.6,2,19:01,40,18-25,61,17,74,77,1.6
+the-masters-university-and-seminary-1220,Regional Universities West,46,47,24,62,46,53,-8,86,65,-15,2.4,,87,48.8,75,69.3,6,12:01,28,1030-1240,31,69,33,21,9.5
+northwest-university-3783,Regional Universities West,46,47,50,54,51,64,-12,78,45,14,2.5,,99,56.9,64,60.8,4,12:01,44,1005-1240,,,20,34,7.1
+pepperdine-university-1264,National Universities,46,64,37,85,83,85,-2,92,76,9,3.3,4.2,33,80.6,89,70.6,2,13:01,73,1200-1390,49,80,65,122,8.5
+radford-university-3732,Regional Universities South,46,57,37,58,52,56,-5,75,48,7,3.1,,62,83.2,83,35.2,9,16:01,109,940-1120,6,21,85,105,3.2
+trinity-college-1414,National Liberal Arts Colleges,46,73,64,84,92,80,12,89,83,-2,3.6,4.1,47,89.8,91,73.9,0,9:01,71,28-32,49,81,27,48,27.3
+university-of-georgia-1598,National Universities,46,64,42,84,80,87,-6,95,76,9,3.6,4.1,47,95.6,94,45.8,11,17:01,66,26-31,54,90,123,62,13.6
+university-of-illinois-urbanachampaign-1775,National Universities,46,64,50,85,79,87,-8,93,80,5,3.9,4.1,79,100,94,40.6,19,20:01,57,26-32,50,83,56,147,7.4
+wilmington-college-3142,Regional Colleges Midwest,46,46,39,52,,,,67,40,12,2.9,,70,79.6,,,,,62,18-23,,,56,51,
+alverno-college-3832,Regional Universities Midwest,47,54,119,41,42,56,-14,72,38,7,3.1,,47,67.8,70,80.5,0,10:01,126,17-22,14,38,35,38,9.4
+anderson-university-1785,Regional Universities Midwest,47,54,69,58,42,65,-24,75,57,0,2.8,,36,64.7,75,70.3,2,10:01,103,910-1110,18,43,21,35,9.9
+brenau-university-1556,Regional Universities South,47,56,69,47,40,58,-18,66,44,4,2.8,,11,79.4,72,72.1,2,9:01,103,880-1090,8,37,30,93,4
+st-scholastica-2343,Regional Universities Midwest,47,54,36,66,51,73,-22,83,60,7,2.9,,133,76.9,52,48.3,5,14:01,27,19-27,25,55,87,94,5
+columbia-international-university-3429,Regional Universities South,47,56,15,65,63,67,-5,74,51,15,2.3,,96,69.6,71,73.3,7,15:01,106,840-1070,5,25,26,45,7.9
+eastern-mennonite-university-3708,Regional Universities South,47,56,30,62,48,72,-24,75,63,0,2.4,,46,81.8,72,71.5,1,9:01,74,990-1170,,,14,111,
+lee-university-3500,Regional Universities South,47,56,47,52,44,56,-12,79,55,-3,2.9,,71,66.4,77,55.3,6,16:01,17,21-28,24,50,115,46,7.9
+saint-leo-university-1526,Regional Universities South,47,56,64,42,44,46,-2,71,40,5,2.7,,24,84,83,44.2,0,14:01,98,970-1140,12,30,19,76,5.1
+bethany-college-1904,Regional Colleges Midwest,48,44,45,42,43,51,-8,57,45,2,2.5,,53,67.7,67,64.8,2,14:01,50,18-23,7,25,46,29,10.9
+california-state-university-stanislaus-1157,Regional Universities West,48,46,30,54,51,54,-3,83,38,14,2.7,,50,76.8,81,23.2,6,23:01,111,910-1100,,,82,126,0.6
+central-washington-university-3771,Regional Universities West,48,46,39,54,60,60,0,77,49,11,2.9,,62,87.6,77,40.5,5,19:01,94,960-1160,,,77,72,2.1
+gannon-university-3266,Regional Universities North,48,65,51,66,57,73,-17,83,58,10,2.6,,67,81.2,78,53.2,0,13:01,33,990-1220,22,53,65,67,8
+maranatha-baptist-university-23172,Regional Colleges Midwest,48,44,36,47,41,58,-17,69,44,5,2.2,,44,57.9,45,80.2,3,11:01,14,20-25,13,37,70,51,
+notre-dame-de-namur-university-1179,Regional Universities West,48,46,62,47,39,49,-10,74,51,-7,2.6,,26,46.7,98,67.5,0,12:01,98,910-1110,8,27,13,20,9.7
+olivet-2308,Regional Colleges Midwest,48,44,50,46,,0,,63,40,11,2.7,,62,74.6,,55.1,3,17:01,50,18-23,,,54,44,7.4
+suny-oswego-2848,Regional Universities North,48,65,46,65,63,67,-4,80,57,9,2.9,,134,85.2,84,54.9,5,17:01,49,1075-1225,12,52,106,88,6.5
+uccs-4509,Regional Universities West,48,46,85,45,38,46,-8,67,53,-10,3.2,,46,80.7,68,39.9,7,19:01,30,21-26,14,38,74,40,4.8
+gettysburg-college-3268,National Liberal Arts Colleges,49,72,64,85,82,84,-2,90,87,-3,3.5,4,52,89.7,98,69.2,0,9:01,38,1270-1410,65,84,56,72,23.9
+rpi-2803,National Universities,49,63,62,82,83,84,-1,93,84,-1,3.5,4.3,39,96.6,94,52.2,12,13:01,39,1320-1500,63,91,65,96,10.8
+sewanee-3534,National Liberal Arts Colleges,49,72,89,79,70,79,-9,88,81,-4,3.6,4.1,38,86.3,96,63.6,1,10:01,53,27-30,36,61,50,30,32.4
+uscb-3450,Regional Colleges South,49,44,70,24,,,,56,38,-14,2.9,,17,81.4,71,57.2,3,15:01,30,930-1090,11,34,42,55,
+university-of-texas-3658,National Universities,49,63,50,81,76,85,-9,95,83,0,4.1,4.3,144,94.1,89,34.6,26,18:01,46,1230-1460,74,95,77,96,11.1
+university-of-wisconsin-3895,National Universities,49,63,55,85,83,88,-6,95,84,3,4,4.2,131,93.9,90,43.1,22,18:01,57,27-31,52,89,61,75,12.9
+villanova-3388,National Universities,49,63,31,90,92,90,2,95,87,3,3.2,4.2,95,81.5,89,42.4,2,11:01,38,30-33,65,95,109,19,27.1
+baker-university-1903,Regional Universities Midwest,50,53,57,58,51,60,-9,76,59,-2,2.6,,42,79.3,86,72,0,13:01,38,21-25,18,48,58,45,9
+chowan-university-2916,Regional Colleges South,50,43,73,25,23,37,-14,48,23,3,2.8,,27,80.1,73,48.2,0,16:01,73,780-950,5,25,48,4,17.8
+merrimack-college-2120,Regional Universities North,50,64,35,70,61,72,-11,82,59,9,2.8,,120,70.1,88,38,1,14:01,112,1020-1190,6,24,85,61,8.5
+nyit-4804,Regional Universities North,50,64,155,46,42,55,-12,75,62,-12,2.8,,1,63.7,94,64.5,1,12:01,38,1040-1230,22,52,6,62,8.2
+seton-hill-university-pennsylvania-3362,Regional Universities North,50,64,84,58,50,65,-15,81,56,2,2.7,,87,75.2,82,61.9,1,14:01,41,1020-1220,20,47,60,9,15.8
+st-marys-university-minnesota-2380,Regional Universities Midwest,50,53,40,61,54,60,-5,77,57,1,2.8,,32,44.7,87,73,0,18:01,59,20-25,8,38,131,55,8.1
+suny-fredonia-2844,Regional Universities North,50,64,41,64,63,63,0,79,55,8,2.7,,80,79.9,87,57.7,5,14:01,68,980-1190,15,35,75,119,4.2
+towson-university-2099,Regional Universities North,50,64,35,70,67,73,-7,85,61,11,3.1,,155,76.6,80,28.5,3,17:01,38,1055-1210,15,41,182,109,4.8
+university-of-illinois-springfield-9333,Regional Universities Midwest,50,53,86,49,47,52,-5,77,61,-11,2.9,,91,80.1,88,56.8,1,13:01,27,20-27,24,54,13,94,4.9
+agnes-scott-college-1542,National Liberal Arts Colleges,51,71,41,70,69,64,5,85,69,-2,3.3,3.9,57,85.7,98,77.6,0,10:01,80,1110-1300,30,65,50,25,34.6
+dickinson-college-3253,National Liberal Arts Colleges,51,71,64,84,90,82,8,91,84,-1,3.5,4,57,92.1,92,74.6,0,9:01,43,1230-1420,48,77,61,61,24.7
+furman-university-3434,National Liberal Arts Colleges,51,71,82,83,73,82,-9,90,82,-1,3.6,4.1,57,89.9,99,59.5,0,10:01,49,26-31,38,71,58,82,21.7
+rhodes-college-3519,National Liberal Arts Colleges,51,71,71,81,74,85,-11,91,80,3,3.5,4.1,74,92.8,98,68.5,0,10:01,41,27-32,50,79,97,26,33.8
+spelman-college-1594,National Liberal Arts Colleges,51,71,34,76,67,82,-15,90,58,17,3.6,4,147,88.4,92,60,1,11:01,144,1070-1215,26,53,73,30,32.1
+tabor-college-1946,Regional Colleges Midwest,51,43,40,44,40,37,3,60,49,-11,2.6,,58,58.8,61,67.7,1,10:01,48,18-24,13,33,39,45,6.5
+truett-mcconnell-university-1597,Regional Colleges South,51,42,41,33,33,41,-9,65,33,5,2.6,,53,73.5,55,59.8,6,19:01,27,920-1120,9,28,78,49,1.1
+california-state-university-los-angeles-1140,Regional Universities West,52,45,53,45,47,47,0,82,25,22,3,,97,67.6,74,20.4,8,24:01:00,118,890-1080,2,5,120,77,2
+coastal-carolina-university-3451,Regional Universities South,52,55,87,43,37,46,-9,67,48,-6,3,,27,80,80,38.4,2,17:01,64,19-24,11,36,55,30,10.5
+columbia-college-sc-3430,Regional Universities South,52,55,40,49,49,50,-1,72,43,6,2.5,,41,75.4,75,70.4,0,15:01,95,17-21,9,34,43,35,9.5
+dickinson-state-university-2989,Regional Colleges Midwest,52,41,69,30,24,33,-9,58,49,-19,2.7,,5,76.2,49,78,1,10:01,56,18-23,,,17,77,1.4
+everglades-university-31085,Regional Colleges South,52,41,25,45,,,,53,28,17,2.4,,49,60.2,68,88.4,0,,58,,,,79,83,0
+georgia-gwinnett-college-41429,Regional Colleges South,52,41,67,20,14,17,-3,68,29,-14,3.1,,39,85.8,80,37,0,18:01,47,910-1110,3,15,74,38,3.8
+glenville-state-college-3813,Regional Colleges South,52,41,23,36,43,44,-1,66,36,7,2.4,,54,86.6,53,60,1,18:01,36,16-21,4,23,83,41,3.2
+kansas-wesleyan-university-1929,Regional Colleges Midwest,52,41,57,35,31,33,-3,60,43,-11,2.6,,35,79.6,70,70.4,1,13:01,40,19-24,11,34,42,42,7.5
+northwest-nazarene-university-1624,Regional Universities West,52,45,57,52,48,60,-12,76,58,-2,2.6,,71,99.7,67,62.1,5,16:01,32,1030-1240,24,51,58,16,10.2
+palm-beach-atlantic-8849,Regional Universities South,52,55,50,51,49,57,-7,75,56,-2,2.7,,36,71.8,81,63.2,2,12:01,40,980-1200,16,44,51,132,2.1
+wingate-university-2985,Regional Universities South,52,55,43,53,49,54,-5,74,55,-2,2.9,,89,79.2,86,41.3,1,16:01,93,18-23,10,32,55,30,10.4
+carroll-university-3838,Regional Universities Midwest,53,52,36,62,60,68,-9,80,60,6,2.9,,161,61.5,76,54.8,4,16:01,21,21-26,19,47,93,46,8.9
+lehigh-university-3289,National Universities,53,62,46,88,81,87,-6,96,94,-8,3.3,4,47,91.2,96,45.4,12,9:01,46,1270-1430,63,89,53,39,18.8
+olivet-nazarene-university-1741,Regional Universities Midwest,53,52,57,60,53,71,-18,77,60,6,2.7,,128,75.5,73,43,9,17:01,42,20-26,21,47,66,16,13
+spring-arbor-university-2318,Regional Universities Midwest,53,52,46,55,54,65,-11,79,50,10,2.6,,56,82,82,65.6,1,13:01,59,1000-1205,22,48,118,48,8.5
+syracuse-university-2882,National Universities,53,62,50,82,81,83,-2,91,69,14,3.3,4,55,85.8,90,58.5,9,15:01,103,1160-1350,36,69,88,75,12.7
+university-of-miami-1536,National Universities,53,62,70,82,79,84,-5,92,88,-4,3.4,4.1,39,87,88,53.7,8,12:01,64,28-32,46,77,25,62,13.7
+university-of-nebraska-kearney-2551,Regional Universities Midwest,53,52,46,58,54,66,-12,81,54,7,2.8,,111,87.9,76,50.6,2,14:01,38,19-25,20,44,115,67,7.4
+western-illinois-university-1780,Regional Universities Midwest,53,52,66,53,46,56,-10,69,49,1,2.6,,9,97,73,55.1,3,14:01,111,18-23,10,30,15,117,3.8
+california-state-university-san-bernardino-1142,Regional Universities West,54,44,34,52,53,57,-5,86,35,19,2.7,,82,71.3,77,22.5,20,28:01:00,101,910-1090,,,117,77,1.9
+humboldt-state-university-1149,Regional Universities West,54,44,68,46,40,52,-13,72,48,-1,2.8,,16,71,98,30.4,11,22:01,69,960-1170,13,46,66,47,4.2
+kuyper-college-2311,Regional Colleges Midwest,54,39,34,56,,,,64,42,14,2.1,,65,61.9,,,,,47,19-28,,,56,51,
+la-sierra-university-1215,Regional Universities West,54,44,46,50,50,56,-6,76,49,4,2.5,,26,59,83,60.6,4,14:01,100,845-1100,12,36,33,87,
+mary-hardin-baylor-3588,Regional Universities West,54,44,66,47,42,54,-12,70,52,-4,2.9,,50,79.2,78,47.5,4,18:01,82,1020-1200,17,45,54,38,5
+vanguard-university-of-southern-california-1293,Regional Universities West,54,44,37,57,54,67,-13,75,53,8,2.4,,76,53.8,87,61.1,5,14:01,76,930-1120,14,42,40,27,7.7
+york-college-2567,Regional Colleges Midwest,54,39,47,47,,,,62,44,3,2.5,,73,76.4,48,42.1,1,12:01,54,18-23,8,20,39,51,
+arcadia-university-3235,Regional Universities North,55,63,64,61,65,67,-2,79,64,2,2.5,,67,66.7,91,65.7,6,11:01,15,1060-1240,24,55,54,43,10.2
+central-baptist-college-1093,Regional Colleges South,55,40,48,31,20,28,-8,66,37,-13,2.5,,33,57.2,47,72.7,0,12:01,24,18-22,6,25,76,26,6.9
+city-college-2688,Regional Universities North,55,63,101,46,49,51,-2,86,48,2,2.8,,140,61.3,80,32.3,4,15:01,85,980-1190,,,9,13,15.2
+queens-college-2690,Regional Universities North,55,63,57,57,54,54,0,85,58,-4,2.8,,142,63.2,86,34.4,8,15:01,61,1060-1220,,,106,2,18.1
+desales-university-3986,Regional Universities North,55,63,46,70,60,73,-13,81,61,9,2.5,,80,63.2,83,57.2,2,12:01,27,1010-1230,34,52,85,75,7.5
+kings-college-pennsylvania-3282,Regional Universities North,55,63,72,65,56,73,-17,74,57,10,2.5,,48,81.8,89,54.7,0,13:01,56,980-1190,18,42,65,21,13.6
+macon-state-7728,Regional Colleges South,55,40,46,33,,,,66,29,4,2.7,,60,85.7,66,51.8,1,20:01,53,820-1020,,,53,49,1.3
+suny-oneonta-2847,Regional Universities North,55,63,24,72,64,73,-9,85,58,13,2.8,,159,80.8,85,33.5,4,17:01,61,1040-1190,11,39,123,143,
+university-of-st-joseph-1409,Regional Universities North,55,63,78,59,59,75,-16,75,62,6,2.4,,19,70.8,87,76.9,0,9:01,68,970-1160,31,54,19,21,13.6
+warner-university-8848,Regional Colleges South,55,40,44,34,27,50,-23,63,32,1,2.6,,59,51.5,53,57.5,1,13:01,55,16-20,1,2,42,41,3
+bard-college-2671,National Liberal Arts Colleges,56,70,107,76,69,75,-6,85,89,-15,3.5,4,16,76.6,87,79.5,0,9:01,80,1220-1400,41,66,19,42,30.2
+depauw-university-1792,National Liberal Arts Colleges,56,70,64,82,70,84,-14,92,80,1,3.5,3.9,47,94.6,98,70.4,0,9:01,71,24-29,40,70,61,61,24.7
+jacksonville-university-1495,Regional Universities South,56,54,69,42,47,40,6,70,58,-15,2.8,,16,78.7,66,71.2,1,11:01,83,21-27,,,14,83,4.7
+keiser-university-21519,Regional Universities South,56,54,19,57,50,65,-15,85,34,21,1.9,,77,85.7,20,95.3,3,12:01,115,,,,17,141,0.5
+lawrence-university-3856,National Liberal Arts Colleges,56,70,71,79,73,82,-9,90,79,1,3.3,3.9,64,92.9,91,80.7,2,8:01,45,25-32,38,68,73,33,31.5
+midland-lutheran-college-2553,Regional Colleges Midwest,56,38,50,46,,,,62,47,-1,2.8,,73,46.9,,,,,56,19-24,,,56,51,
+ohio-state-6883,National Universities,56,61,60,83,74,85,-10,94,79,4,3.8,4.1,175,88.2,98,30.9,22,19:01,53,27-31,64,95,70,57,14.7
+purdue-university-west-lafayette-1825,National Universities,56,61,95,76,72,80,-9,93,72,7,3.8,4.2,79,95.1,98,38.4,18,13:01,80,1150-1380,44,78,88,39,18.6
+rutgers-new-brunswick-6964,National Universities,56,61,46,80,77,82,-5,93,68,12,3.4,4,109,72.1,99,39.4,21,13:01,80,1190-1400,40,75,70,133,7.8
+st-lawrence-university-2829,National Liberal Arts Colleges,56,70,58,85,80,86,-6,90,78,7,3.3,3.8,79,92.6,99,64,1,11:01,49,1170-1355,46,79,68,67,24.1
+wabash-college-1844,National Liberal Arts Colleges,56,70,89,74,69,81,-12,88,74,3,3.4,3.6,64,91.5,100,76.6,1,10:01,111,1070-1280,27,57,43,15,40.3
+north-central-university-2369,Regional Colleges Midwest,57,37,42,43,31,45,-14,73,41,-3,2.4,,77,66.1,57,54.2,9,16:01,19,18-25,16,45,50,70,4.1
+bluefield-state-college-3809,Regional Colleges South,58,39,70,23,18,45,-27,63,30,-5,2.5,,19,81.1,37,86.1,0,13:01,7,17-21,18,56,72,34,5.1
+grace-christian-university-2265,Regional Colleges Midwest,58,36,52,40,38,50,-13,62,28,13,2.1,,49,32,54,77.8,1,21:01,40,17-23,2,25,78,42,7.8
+heidelberg-university-3048,Regional Universities Midwest,58,51,108,46,42,54,-12,69,50,-1,2.8,,84,76.3,81,64.1,0,14:01,87,20-26,,,26,5,16.5
+lincoln-memorial-university-3502,Regional Universities South,58,53,43,49,52,54,-2,69,48,5,2.6,,81,77.1,73,63.1,2,14:01,90,19-25,,,43,76,5.1
+marymount-university-3724,Regional Universities South,58,53,59,52,42,58,-17,78,54,-1,2.8,,51,70.8,88,54.1,0,13:01,109,960-1140,12,26,18,93,3.9
+mississippi-women-2422,Regional Universities South,58,53,78,45,37,58,-21,66,48,-4,3,,71,86.1,68,57.4,7,14:01,64,18-23,20,48,66,25,10.7
+mount-mercy-university-1880,Regional Universities Midwest,58,51,21,63,55,60,-5,76,54,4,2.5,,125,76.4,67,58,1,15:01,66,19-24,17,44,84,27,11.3
+pensacola-state-college-666956,Regional Colleges South,58,39,64,22,15,28,-14,74,38,-16,2.9,,45,61.3,0,85.4,0,21:01,50,17-22,,,76,18,8.2
+university-of-north-georgia-1585,Regional Universities South,58,53,47,54,46,57,-11,81,54,0,3.1,,107,84.8,67,33,3,19:01,25,1030-1180,23,62,139,60,6.6
+northwestern-college-2371,Regional Universities Midwest,58,51,21,63,56,65,-9,83,63,-1,2.6,,132,53.2,73,56.2,4,18:01,21,21-27,27,50,74,94,4.9
+walsh-university-3135,Regional Universities Midwest,58,51,50,59,53,66,-13,78,53,8,2.5,,98,75.3,70,73.8,0,13:01,46,20-26,20,40,81,38,9.5
+west-virginia-wesleyan-3830,Regional Universities South,58,53,54,52,39,56,-17,72,55,-5,2.6,,71,78.8,69,64,0,13:01,54,19-25,20,49,61,12,16.3
+macmurray-college-1717,Regional Colleges Midwest,59,34,65,28,,,,70,40,-12,2.2,,47,77.3,44,70.4,1,,43,18-22,9,31,27,24,12.9
+penn-state-6965,National Universities,59,60,62,86,74,87,-12,93,75,10,3.7,4,157,95.4,82,30.3,18,16:01,103,1160-1340,35,73,50,67,13.5
+rochester-college-2288,Regional Colleges Midwest,59,34,62,33,,,,63,41,-8,2.6,,34,48.5,67,76.6,1,12:01,60,16-23,,,56,51,
+smu-3613,National Universities,59,60,95,79,74,82,-7,90,80,1,3.2,3.9,32,85.1,82,59.1,9,11:01,53,28-32,52,79,70,29,21.9
+texas-am-international-9651,Regional Universities West,59,43,57,43,43,46,-2,81,42,2,3,,65,80.6,77,29.8,17,22:01,78,930-1100,23,52,102,77,2
+university-of-washington-3798,National Universities,59,60,46,84,80,86,-6,94,88,-4,3.9,4.1,235,91.4,83,30.8,24,19:01,64,1190-1420,63,93,28,75,12.8
+woodbury-university-1343,Regional Universities West,59,43,68,46,39,65,-26,79,42,10,2.2,,34,60,85,77.9,0,9:01,60,955-1188,,,10,66,2.5
+wpi-2233,National Universities,59,60,50,86,83,90,-7,96,83,6,3,3.9,33,90.2,93,64.6,11,13:01,46,1280-1440,68,92,88,110,9.8
+kentucky-christian-university-1965,Regional Colleges South,60,38,46,35,,,,59,40,-5,2.7,,66,75,,,,,44,18-23,,,55,55,
+berea-college-1955,National Liberal Arts Colleges,61,69,107,64,64,92,-28,84,53,13,3.5,4,79,89.5,91,75.5,0,10:01,120,22-27,24,64,36,142,15.9
+college-of-coastal-georgia-1558,Regional Colleges South,61,36,58,27,17,30,-13,61,24,-1,2.8,,52,76.7,54,40.9,2,20:01,44,890-1090,,,81,52,1
+holy-names-university-1183,Regional Universities West,61,42,57,45,55,33,21,74,48,-5,2.3,,18,59.4,90,67.5,0,8:01,122,730-870,8,23,6,27,7.9
+st-augustines-college-2968,Regional Colleges South,61,36,64,30,,,,45,28,2,2.3,,48,80.8,53,64.2,1,12:01,80,760-950,,,4,22,7.3
+st-johns-college-maryland-2092,National Liberal Arts Colleges,61,69,113,72,60,69,-9,83,71,-4,3.4,4.1,10,95.9,90,97.8,1,7:01,87,1220-1430,36,59,43,85,21.1
+st-olaf-college-2382,National Liberal Arts Colleges,61,69,38,88,89,88,1,93,83,5,3.7,4.1,157,85,96,53.5,3,12:01,45,25-31,45,76,93,78,22.3
+university-of-houston-clear-lake-11711,Regional Universities West,61,42,65,,,,,74,50,2,2.9,,105,81.2,,32.6,5,15:01,42,1020-1190,15,43,54,45,4.6
+voorhees-college-3455,Regional Colleges South,61,36,56,31,,,,52,20,11,2.3,,55,91.3,50,60.7,2,17:01,82,800-940,1,8,9,35,4.5
+wheaton-college-1781,National Liberal Arts Colleges,61,69,17,90,86,90,-4,94,80,9,3.1,3.9,134,87.1,95,64.5,2,11:01,43,27-32,47,73,73,96,19.7
+alfred-university-2668,Regional Universities North,62,62,92,57,48,57,-9,74,58,-5,2.7,,23,90.3,97,66.5,3,11:01,61,990-1210,14,41,19,67,8.1
+chatham-university-3244,Regional Universities North,62,62,78,57,55,70,-15,80,60,3,2.4,,74,62.2,92,65.3,2,10:01,23,1050-1240,24,51,15,30,12.2
+fairleigh-dickinson-8770,Regional Universities North,62,62,120,49,49,54,-5,77,60,-8,3,,21,55.5,82,70.6,1,14:01,36,1020-1210,19,49,60,139,3.4
+lawrence-tech-2279,Regional Universities Midwest,62,50,99,50,34,57,-24,82,71,-23,2.8,,23,64.1,69,74.6,0,11:01,42,1060-1280,39,54,5,112,3.8
+morningside-college-1879,Regional Universities Midwest,62,50,62,55,50,59,-9,72,55,1,2.4,,55,59.7,74,62.5,0,14:01,73,20-25,17,38,93,2,19.8
+muskingum-university-3084,Regional Universities Midwest,62,50,66,52,44,53,-9,72,51,-3,2.6,,12,84.4,88,68.6,1,12:01,109,18-24,20,40,91,16,13.1
+st-josephs-college-new-york-2825,Regional Universities North,62,62,13,70,69,73,-5,84,57,15,2.4,,91,53.7,76,66.5,0,13:01,82,1000-1170,,,123,119,4.2
+wentworth-institute-of-technology-29099,Regional Universities North,62,62,46,66,60,71,-11,84,58,9,2.8,,167,69.4,55,36.9,2,18:01,25,1080-1270,13,41,85,96,5.8
+george-washington-university-1444,National Universities,63,59,72,82,82,80,2,92,85,-4,3.5,4.3,69,68.5,96,51.9,10,13:01,46,1280-1440,61,88,56,122,8.6
+piedmont-college-1588,Regional Universities South,63,52,54,49,46,52,-6,68,45,4,2.5,,11,69.9,76,72.3,0,10:01,106,950-1130,8,28,64,83,4.7
+uconn-29013,National Universities,63,59,66,82,76,84,-8,93,75,8,3.3,3.9,87,91.2,94,52.5,16,16:01,68,1210-1390,54,88,56,110,9.6
+university-of-maryland-2103,National Universities,63,59,55,86,79,87,-8,96,85,0,3.7,4,123,87.3,92,45.8,17,18:01,39,1290-1470,72,90,97,147,7.5
+western-oregon-university-3209,Regional Universities West,63,41,68,44,41,46,-5,71,41,3,2.8,,55,90.4,71,49.7,5,15:01,91,16-25,12,35,75,64,2.7
+alaska-pacific-university-1061,Regional Universities West,64,40,73,55,,,,60,67,-12,2.2,,18,60.9,68,95.7,0,,86,21-26,,,4,87,
+corban-university-1339,Regional Universities West,64,40,30,55,49,50,0,79,61,-12,2.3,,76,64.6,75,52.6,1,14:01,22,1040-1230,25,60,69,77,2
+north-carolina-central-2950,Regional Universities South,64,51,50,44,43,46,-2,79,35,9,2.5,,81,86.6,74,38.1,5,16:01,127,890-1030,6,22,45,25,10.6
+oklahoma-christian-3165,Regional Universities West,64,40,77,49,37,57,-21,79,62,-10,2.8,,76,69.9,77,57.9,7,14:01,60,20-27,26,52,71,16,10.4
+sonoma-state-university-1156,Regional Universities West,64,40,46,58,51,61,-11,79,55,3,2.9,,120,70.2,99,24.4,22,23:01,60,980-1170,,,77,123,0.8
+texas-wesleyan-university-3645,Regional Universities West,64,40,104,36,30,41,-10,52,47,-11,2.8,,26,79.9,90,66.3,0,14:01,59,930-1100,17,38,29,32,7.3
+webber-international-university-1540,Regional Colleges South,64,35,58,29,22,40,-18,53,34,-4,2.6,,69,75.9,62,49.1,0,21:01,43,17-20,4,19,38,55,
+anderson-university-3418,Regional Universities South,65,50,43,53,53,59,-5,76,55,2,2.8,,134,69.7,60,41.6,7,16:01,29,1000-1190,37,58,105,74,5.4
+belhaven-2397,Regional Universities South,65,50,78,47,39,61,-22,66,43,8,2.7,,51,45.8,57,83.1,1,11:01,66,22-25,4,27,80,102,3.5
+kalamazoo-college-2275,National Liberal Arts Colleges,65,68,41,83,82,87,-5,91,80,6,3.4,4,130,89.6,96,63,1,13:01,47,26-30,50,87,97,55,25.2
+madonna-university-2282,Regional Universities Midwest,65,49,21,60,65,74,-10,79,54,16,2.4,,79,60.8,65,70.2,2,13:01,142,19-24,9,30,66,157,2.1
+mckendree-university-1722,Regional Universities Midwest,65,49,62,54,47,54,-8,75,54,-3,2.6,,36,61.7,87,68.5,0,14:01,50,19-25,13,39,91,65,7.7
+morehead-state-university-1976,Regional Universities South,65,50,87,44,30,54,-24,70,54,-12,2.8,,51,90.9,72,51.3,4,18:01,31,20-26,23,51,70,42,8.5
+north-park-university-1735,Regional Universities Midwest,65,49,66,54,48,66,-19,76,55,4,2.8,,123,53.9,,59.8,1,10:01,87,19-24,,,29,119,
+sarah-lawrence-2813,National Liberal Arts Colleges,65,68,89,79,76,80,-4,85,82,-3,3.4,4.1,30,61.1,90,93.4,1,9:01,56,1240-1410,25,67,66,116,17.7
+southern-adventist-3518,Regional Universities South,65,50,57,47,47,51,-4,77,49,1,2.3,,99,99.4,63,64.6,7,14:01,48,20-27,,,31,19,12
+university-of-tennessee-chattanooga-3529,Regional Universities South,65,50,84,43,37,50,-13,72,55,-10,3.1,,77,85,81,40.4,9,19:01,48,21-26,,,92,86,4.5
+uw-stevens-point-3924,Regional Universities Midwest,65,49,36,63,61,67,-6,75,57,8,2.9,,133,90.8,88,33.9,10,19:01,122,20-25,11,33,102,101,4.5
+uw-whitewater-3926,Regional Universities Midwest,65,49,52,59,54,65,-11,80,51,11,2.9,,128,91.8,,29.8,5,20:01,79,20-24,9,30,153,67,7.5
+byu-3670,National Universities,66,58,85,81,75,84,-10,88,75,8,3.1,3.8,27,86.6,93,45.3,12,20:01,57,27-32,54,85,181,62,13.7
+clark-university-massachusetts-2139,National Universities,66,58,70,80,82,83,-1,87,71,12,2.9,3.7,33,88.6,99,57.9,5,10:01,80,1180-1380,37,75,133,39,18.6
+clemson-university-3425,National Universities,66,58,74,82,71,85,-14,93,78,4,3.3,4.1,95,90.4,86,53.4,15,16:01,57,27-31,62,91,133,27,22.9
+texas-am-university-college-station-10366,National Universities,66,58,62,80,76,85,-9,91,76,6,3.6,4.1,183,91.4,90,23.1,25,20:01,80,1140-1360,60,88,88,50,16.2
+college-of-wooster-3037,National Liberal Arts Colleges,67,67,71,78,76,76,0,88,77,-1,3.4,3.9,64,91.3,94,74.6,1,11:01,56,24-30,45,75,80,96,19.5
+geneva-college-3267,Regional Universities North,67,61,51,66,55,77,-22,82,43,26,2.3,,126,59.2,84,66.9,3,12:01,65,950-1210,15,42,138,51,9.5
+beloit-college-3835,National Liberal Arts Colleges,68,66,49,80,88,85,3,86,77,9,3.3,3.8,74,93,95,68,0,11:01,120,24-30,30,57,97,96,19.8
+hobart-and-william-2731,National Liberal Arts Colleges,68,66,82,80,78,81,-3,86,76,5,3.2,3.8,79,96.7,98,65.5,0,10:01,106,1210-1360,33,59,68,45,28.2
+iona-college-2737,Regional Universities North,68,60,64,64,59,67,-8,78,57,7,2.7,,139,76.4,93,32,0,15:01,87,980-1180,7,21,60,62,8.3
+knox-college-1704,National Liberal Arts Colleges,68,66,49,78,74,77,-4,86,72,4,3.2,3.7,97,91.7,95,77.2,1,11:01,77,23-30,34,66,112,29,33.1
+lewis-and-clark-3197,National Liberal Arts Colleges,68,66,49,78,81,80,1,84,77,3,3.4,4,130,67.9,94,67.4,2,12:01,49,27-31,35,71,97,126,17.4
+mercyhurst-college-3297,Regional Universities North,68,60,60,67,59,72,-12,80,59,9,2.5,,126,91,68,54.5,0,15:01,87,1000-1190,11,29,43,39,10.9
+suny-cortland-2843,Regional Universities North,68,60,35,71,67,72,-5,79,57,14,2.7,,164,75,76,29.7,6,16:01,73,1050-1200,11,42,123,79,7.2
+west-chester-3328,Regional Universities North,68,60,35,70,64,75,-12,87,58,15,2.8,,161,89,84,26,6,19:01,49,1040-1210,10,32,175,109,4.9
+western-new-england-college-2226,Regional Universities North,68,60,107,59,52,62,-10,77,63,-4,2.7,,14,85.2,87,57.6,0,12:01,68,980-1180,14,40,27,126,4.1
+wilkes-university-3394,Regional Universities North,68,60,86,59,54,63,-9,77,60,0,2.5,,60,69.6,91,54.9,5,13:01,30,1040-1220,23,51,85,23,13.3
+california-state-university-sacramento-1150,Regional Universities West,69,39,50,47,47,54,-6,82,40,10,3,,122,68.4,90,22.6,15,25:01:00,111,940-1140,,,109,60,2.9
+hawaii-pacific-university-7279,Regional Universities West,69,39,80,44,41,46,-5,68,62,-18,2.8,,71,64.7,83,60.3,0,12:01,36,1000-1198,16,47,44,123,0.7
+houston-baptist-3576,Regional Universities West,69,39,81,43,39,58,-19,69,54,-6,2.7,,55,78,81,51.1,1,14:01,42,1030-1190,22,51,66,60,2.9
+lake-university-3598,Regional Universities West,69,39,87,38,42,28,14,60,42,-4,2.6,,57,59,86,57.1,0,9:01,89,930-1080,13,36,49,8,13
+concordia-mequon-3842,Regional Universities Midwest,70,48,62,57,49,56,-8,76,52,2,2.7,,28,67.6,75,57.4,2,11:01,75,20-26,19,51,110,146,3.3
+florida-state-university-1489,National Universities,70,57,55,80,77,82,-5,93,70,10,3.2,3.8,69,93,93,40.1,16,22:01,80,26-30,41,83,215,35,19.1
+fordham-university-2722,National Universities,70,57,85,80,72,81,-9,91,76,3,3.1,4,44,71.3,93,51.6,1,15:01,66,1230-1410,48,78,104,56,15.8
+grace-college-and-seminary-1800,Regional Universities Midwest,70,48,19,62,57,65,-8,81,55,7,2.3,,138,47.8,76,52.4,3,20:01,55,990-1220,20,45,97,13,14
+stevens-institute-of-technology-2639,National Universities,70,57,46,83,84,83,1,94,80,3,2.8,4,73,86.5,95,37.7,9,10:01,34,1320-1470,72,91,128,50,16.5
+university-of-california-santa-cruz-1321,National Universities,70,57,26,78,78,82,-4,90,80,0,3.1,3.8,73,87.7,98,43.3,28,19:01,57,1160-1370,96,100,115,224,3.6
+umass-amherst-2221,National Universities,70,57,85,77,71,79,-8,91,66,11,3.4,3.9,73,93.2,95,48.3,18,18:01,94,1180-1360,34,73,115,117,9.1
+university-of-pittsburgh-3379,National Universities,70,57,74,82,72,84,-12,93,81,1,3.5,3.9,157,90.8,94,43,19,14:01,57,1240-1420,53,87,36,122,8.5
+university-of-south-florida-st-petersburg-153701,Regional Universities South,70,49,99,36,36,35,1,71,50,-14,2.9,,99,76.1,87,24.1,10,19:01,25,1080-1230,17,46,68,14,15.5
+bryan-college-3536,Regional Universities South,71,48,37,54,47,47,0,68,56,-9,2.4,,67,60,85,69.5,3,15:01,44,20-26,22,44,106,53,7.2
+elizabeth-city-state-2926,Regional Universities South,71,48,84,38,36,40,-3,71,27,10,2.1,,4,,84,74.2,0,14:01,141,860-990,1,3,3,111,
+king-college-3496,Regional Universities South,71,48,52,49,48,55,-7,72,46,6,2.3,,81,62.8,65,77.6,1,13:01,46,18-28,23,50,92,71,5.6
+lenoir-rhyne-university-2941,Regional Universities South,71,48,62,48,34,52,-18,71,51,-8,2.6,,30,73.5,88,56.4,0,13:01,130,870-1090,,,37,19,12.1
+university-of-central-arkansas-1092,Regional Universities South,71,48,91,43,29,51,-22,72,52,-11,2.8,,41,89.6,74,49.5,2,16:01,22,21-27,21,49,111,60,6.5
+college-of-st-mary-2540,Regional Universities Midwest,72,47,82,46,50,46,4,79,49,-1,2.6,,65,65.6,75,64.7,0,11:01,101,18-24,15,40,66,29,11
+concordia-university-chicago-1666,Regional Universities Midwest,72,47,92,51,41,54,-13,65,46,2,2.6,,65,75.2,74,80.1,0,10:01,73,20-24,25,45,46,70,7.3
+fontbonne-university-2464,Regional Universities Midwest,72,47,82,51,48,51,-3,77,53,-3,2.5,,36,62.3,64,85.5,0,10:01,59,20-26,,,31,98,4.8
+illinois-wesleyan-university-1696,National Liberal Arts Colleges,72,65,49,81,79,78,0,92,79,-1,3.1,3.7,87,89.3,96,71.2,1,10:01,56,24-29,39,72,85,94,20.5
+saint-xavier-university-1768,Regional Universities Midwest,72,47,82,52,41,68,-27,73,53,0,2.9,,123,66.1,81,44.8,1,14:01,79,19-23,20,51,46,94,5
+southern-illinois-university-edwardsville-1759,Regional Universities Midwest,72,47,115,49,35,56,-21,73,56,-8,2.9,,91,87.4,80,43.2,10,19:01,38,20-26,17,43,21,150,3
+stephens-college-2512,Regional Universities Midwest,72,47,99,46,52,67,-16,66,55,5,2.5,,56,71.1,57,83.5,1,8:01,79,19-25,16,40,21,58,8
+st-johns-college-new-mexico-2093,National Liberal Arts Colleges,72,65,169,52,77,61,17,80,72,-7,3.2,3.9,1,92.6,93,100,0,7:01,87,1120-1410,47,56,47,142,15.4
+university-of-puget-sound-3797,National Liberal Arts Colleges,72,65,99,78,72,80,-8,86,75,3,3.3,3.9,64,92.7,93,61.7,0,11:01,61,25-31,34,66,85,156,13.8
+university-of-saint-francis-1832,Regional Universities Midwest,72,47,73,54,43,66,-22,71,50,6,2.8,,111,71.2,44,64.2,1,10:01,117,960-1140,14,40,52,109,4.2
+winona-state-2394,Regional Universities Midwest,72,47,44,59,57,63,-5,78,54,7,2.8,,142,84.4,83,30.8,7,18:01,50,20-25,10,31,120,101,4.6
+wofford-college-3457,National Liberal Arts Colleges,72,65,61,80,78,82,-3,89,78,3,3.2,3.9,93,94.2,89,65.4,0,10:01,62,24-30,43,76,97,82,21.9
+california-state-university-channel-islands-39803,Regional Universities West,73,38,46,59,,,,79,45,14,2.8,,117,73.2,,,,,106,,,,84,87,
+california-state-university-northridge-1153,Regional Universities West,73,38,66,49,,,,78,38,11,3.2,,125,68.4,,13.6,13,27:01:00,94,1010-1120,,,113,47,4.4
+caldwell-college-2598,Regional Universities North,74,58,51,63,57,73,-16,80,49,17,2.3,,53,54.7,87,64.4,1,12:01,127,930-1150,11,32,123,39,10.9
+brooklyn-college-2687,Regional Universities North,74,58,72,53,57,60,-2,82,53,5,2.8,,142,68.7,91,30.5,4,17:01,73,1030-1190,,,123,98,5.5
+eastern-university-3259,Regional Universities North,74,58,64,64,61,68,-7,76,54,12,2.3,,42,50.8,77,88.2,0,10:01,80,1000-1200,,,106,47,9.9
+johnson-and-wales-3404,Regional Universities North,74,58,95,57,53,63,-10,78,55,5,2.9,,145,71.4,,47.6,0,19:01,131,980-1170,,,15,143,
+norwich-university-3692,Regional Universities North,74,58,127,58,46,65,-20,76,62,-2,2.8,,142,66.2,86,35.7,4,13:01,41,20-26,14,34,65,15,14.3
+suny-maritime-2853,Regional Universities North,74,58,112,55,54,64,-10,86,57,5,2.9,,176,82.9,46,40.3,2,15:01,73,1100-1253,33,33,7,109,4.8
+university-of-new-england-2050,Regional Universities North,74,58,86,61,55,62,-7,79,61,-1,2.7,,91,73.2,72,53.9,6,13:01,57,1030-1210,,,106,75,7.4
+northwest-christian-3208,Regional Universities West,75,36,46,53,50,58,-8,70,53,0,2.2,,84,61.4,73,73.3,2,15:01,86,943-1118,10,16,49,51,4.1
+stephen-f-austin-3624,Regional Universities West,75,36,89,43,,,,71,46,-2,3,,106,88.2,75,30.2,9,19:01,52,990-1180,13,43,102,66,2.6
+allegheny-college-3230,National Liberal Arts Colleges,76,64,64,76,72,77,-5,83,73,2,3.2,3.6,79,93.8,93,73.3,0,10:01,80,1140-1320,33,65,88,82,21.9
+carson-newman-3481,Regional Universities South,76,47,76,47,36,51,-16,69,54,-8,2.8,,81,77.7,78,56.7,0,13:01,61,20-26,,,80,67,5.8
+eastern-kentucky-university-1963,Regional Universities South,76,47,76,45,35,60,-25,73,51,-2,2.9,,121,79,68,37.1,6,16:01,39,20-25,17,42,85,93,4
+hendrix-college-1099,National Liberal Arts Colleges,76,64,121,71,64,77,-13,84,81,-6,3.4,4,79,90.7,91,73.1,0,11:01,34,24-29,60,81,97,61,24.8
+hillsdale-college-2272,National Liberal Arts Colleges,76,64,25,82,,,,94,84,1,2.5,3.7,115,86.9,95,69.4,0,10:01,53,28-32,,,25,156,14
+transylvania-university-1987,National Liberal Arts Colleges,76,64,89,73,69,78,-9,84,75,0,3,3.6,57,92.1,99,78.2,0,11:01,60,25-30,34,65,104,37,31
+university-of-minnesota-twin-cities-3969,National Universities,76,56,74,78,71,83,-12,93,77,3,3.7,3.8,202,87.6,80,36.6,20,17:01,68,26-31,50,84,44,133,8.2
+virginia-tech-3754,National Universities,76,56,66,84,78,86,-8,93,74,10,3.5,4.2,192,96,91,27.3,22,14:01,94,1180-1360,38,77,123,87,11.5
+willamette-3227,National Liberal Arts Colleges,76,64,89,77,72,73,-2,86,74,-1,3.2,3.9,43,92.1,95,65.5,0,11:01,62,1120-1340,47,75,93,175,12.3
+eastern-washington-3775,Regional Universities West,77,35,60,48,48,55,-7,77,45,7,2.7,,104,88.3,77,39.2,11,21:01,101,870-1090,,,84,87,
+hope-international-university-1252,Regional Universities West,77,35,68,46,39,59,-20,75,36,12,2.2,,97,80,68,65.3,0,13:01,91,910-1100,10,35,51,31,7.4
+university-of-central-oklahoma-3152,Regional Universities West,77,35,98,38,30,41,-11,63,49,-12,3,,58,77.1,78,39.2,2,18:01,35,19-24,14,37,109,121,0.9
+western-colorado-university-1372,Regional Universities West,77,35,89,41,39,42,-3,68,48,-7,2.5,,46,88.6,84,61.9,0,18:01,39,20-25,8,25,66,87,
+american-university-1434,National Universities,78,55,66,81,76,80,-4,89,80,-1,3.2,4,55,78,95,49.6,2,11:01,94,1180-1350,31,66,97,168,6
+baylor-university-6967,National Universities,78,55,117,73,68,79,-11,89,74,3,3.1,3.9,44,91.5,83,51.7,10,14:01,76,26-31,44,77,97,50,16
+fgcu-32553,Regional Universities South,78,46,59,47,44,50,-6,79,50,-2,2.9,,129,82.6,74,16.3,15,22:01,42,21-25,13,36,113,102,3.4
+francis-marion-9226,Regional Universities South,78,46,87,40,33,42,-9,68,43,-6,2.6,,30,88.8,88,59,4,14:01,91,17-22,15,46,65,65,6
+north-greenville-university-3441,Regional Universities South,78,46,36,53,53,50,3,73,50,1,2.3,,81,86.4,62,73.9,0,14:01,84,19-28,20,38,102,131,2.2
+pfeiffer-university-2955,Regional Universities South,78,46,96,40,38,44,-6,64,44,-2,2.4,,9,85,89,79.2,0,11:01,109,16-22,10,28,35,37,9.3
+university-of-north-alabama-1016,Regional Universities South,78,46,78,41,38,50,-12,75,52,-8,2.8,,57,83.1,79,47.1,4,19:01,68,19-25,,,106,79,5
+virginia-state-3764,Regional Universities South,78,46,57,45,42,43,-1,70,28,15,2.4,,120,91,73,,,15:01,138,820-1010,7,18,37,79,5
+suny-binghamton-2836,National Universities,80,54,55,82,79,83,-4,91,76,6,3,3.7,65,88.5,92,48.1,13,19:01,71,1290-1431,49,81,191,154,6.5
+colorado-school-of-mines-1348,National Universities,80,54,101,77,72,80,-8,93,78,0,3.4,4.3,183,78.8,89,26.5,20,16:01,53,28-32,49,87,88,105,10.3
+north-carolina-state-raleigh-2972,National Universities,80,54,74,77,72,82,-10,94,72,7,3.2,3.7,144,94.9,93,36.3,16,13:01,68,27-31,46,88,88,105,10.2
+stony-brook-suny-2838,National Universities,80,54,74,70,74,71,3,90,67,5,3.3,3.7,144,86.8,91,43.2,24,18:01,76,1210-1410,48,81,70,133,7.9
+tcu-3636,National Universities,80,54,112,78,73,84,-11,91,75,8,2.8,3.8,43,85.1,86,44.2,5,13:01,79,25-30,48,77,142,39,18.3
+uw-stout-3915,Regional Universities Midwest,80,46,73,55,48,57,-10,74,52,2,2.9,,118,92.7,76,31.1,1,20:01,50,19-25,9,31,115,156,2.4
+yeshiva-university-2903,National Universities,80,54,62,84,70,86,-15,90,78,4,2.8,3.3,58,78.1,87,58.6,1,7:01,122,1160-1420,,,70,47,17.5
+champlain-college-3684,Regional Universities North,81,57,95,59,55,62,-7,80,59,1,2.6,,131,51.2,71,63,0,14:01,17,1090-1300,15,42,39,135,3.6
+cornell-college-1856,National Liberal Arts Colleges,81,63,76,68,75,68,7,81,68,3,3.1,3.8,64,87.3,100,76.6,0,11:01,85,26-29,19,41,112,126,17.5
+earlham-college-1793,National Liberal Arts Colleges,81,63,128,70,57,72,-15,83,70,-2,3.4,3.9,93,98.8,95,75.7,2,10:01,67,25-30,29,64,50,78,22.3
+keene-state-college-2590,Regional Universities North,81,57,86,63,59,64,-5,74,53,9,2.7,,36,77.9,93,54,1,15:01,127,930-1140,6,21,123,119,4.3
+malone-university-3072,Regional Universities Midwest,81,45,69,53,42,56,-14,72,52,-3,2.4,,42,72.1,86,64.2,0,12:01,87,19-24,15,33,70,58,8
+muhlenberg-college-3304,National Liberal Arts Colleges,81,63,76,85,80,87,-7,91,80,6,3,3.8,87,83.2,88,70.3,1,10:01,71,1140-1340,31,61,93,116,18
+northern-michigan-university-2301,Regional Universities Midwest,81,45,99,50,43,58,-15,75,45,8,3,,91,86.8,65,40,8,20:01,142,940-1150,,,102,112,3.9
+notre-dame-of-maryland-university-2065,Regional Universities North,81,57,101,51,43,43,0,79,64,-21,2.7,,13,70.2,88,89.6,0,7:01,113,870-1110,30,69,14,79,7
+principia-college-1744,National Liberal Arts Colleges,81,63,82,80,,84,,89,67,17,2.4,,79,95.3,68,97.3,0,6:01,130,1033-1293,44,50,12,67,24.2
+st-peters-college-2638,Regional Universities North,81,57,78,54,52,56,-4,82,47,7,2.5,,74,63.8,85,57.5,0,13:01,113,930-1110,17,43,85,57,8.8
+southern-utah-university-3678,Regional Universities West,81,34,94,38,33,40,-7,68,52,-15,2.6,,82,76.6,60,42.1,8,19:01,28,20-27,18,44,65,51,4.1
+stevenson-university-2107,Regional Universities North,81,57,92,56,49,58,-9,79,56,-2,2.7,,114,54.6,78,61.4,0,16:01,49,1010-1190,20,45,54,113,4.7
+university-of-alaska-anchorage-11462,Regional Universities West,81,34,119,26,17,30,-12,71,58,-33,2.9,,20,75,65,57.1,4,12:01,72,18-24,14,35,15,59,3.1
+university-of-central-missouri-2454,Regional Universities Midwest,81,45,73,52,42,53,-11,71,49,-1,2.8,,84,90.2,71,46.8,5,18:01,87,19-25,11,34,110,119,
+university-of-texas-tyler-11163,Regional Universities West,81,34,87,42,46,41,5,61,54,-12,2.8,,113,84.6,75,32.4,12,19:01,26,1070-1240,17,47,69,87,
+vmi-3753,National Liberal Arts Colleges,81,63,113,75,68,78,-11,88,70,7,3.1,4,30,85.2,97,76,0,11:01,172,1100-1280,15,45,109,45,28.4
+waynesburg-3391,Regional Universities North,81,57,57,62,66,67,0,79,56,10,2.3,,67,63.8,67,69.1,1,13:01,90,980-1160,15,36,65,73,7.8
+west-texas-am-3665,Regional Universities West,81,34,91,41,33,48,-16,65,51,-10,2.8,,84,91,63,37.2,10,20:01,52,19-23,15,43,81,57,3.3
+college-of-mount-st-joseph-3033,Regional Universities Midwest,84,44,86,54,51,65,-15,70,51,10,2.3,,91,71.6,66,64.5,1,11:01,87,20-24,13,36,52,52,8.4
+mount-vernon-nazarene-university-7085,Regional Universities Midwest,84,44,40,59,55,68,-13,80,55,7,2.3,,125,49.1,72,64.6,2,15:01,26,19-28,22,44,127,88,5.3
+northern-kentucky-university-9275,Regional Universities South,84,45,104,39,28,47,-19,71,50,-10,2.9,,99,78.6,69,35.2,4,19:01,42,20-26,12,34,61,86,4.4
+austin-peay-state-university-3478,Regional Universities South,85,44,104,37,29,46,-17,69,42,-6,3,,57,78.5,,49.8,5,18:01,74,19-24,11,35,111,109,2.8
+cal-state-san-marcos-30113,Regional Universities West,85,33,60,51,,53,,82,46,7,2.8,,125,60.1,,13.6,7,26:01:00,101,18-23,,,75,120,1.2
+lubbock-christian-3586,Regional Universities West,85,33,91,43,32,56,-24,70,51,-4,2.4,,58,74.8,73,65,2,13:01,67,19-25,16,39,56,40,4.8
+michigan-state-2290,National Universities,85,53,74,78,71,82,-12,92,69,10,3.5,3.9,211,94.7,90,25.2,24,16:01,132,1100-1320,30,67,109,122,8.5
+oklahoma-wesleyan-3151,Regional Universities West,85,33,91,40,32,36,-4,55,50,-16,2.4,,87,42.1,45,77.1,3,14:01,91,18-24,2,4,42,4,16
+st-thomas-university-1468,Regional Universities South,85,44,74,39,46,41,5,67,42,2,2.5,,24,42,98,60.6,0,11:01,103,860-1080,15,40,106,135,1.8
+university-of-california-riverside-1316,National Universities,85,53,42,73,74,77,-4,90,70,5,3.1,3.6,164,94,98,22.5,30,22:01,88,1090-1300,94,100,97,256,2.7
+university-of-san-diego-10395,National Universities,85,53,85,79,83,82,2,89,78,4,2.9,3.8,79,75.3,95,37.6,0,14:01,80,26-30,40,75,104,83,11.9
+college-of-st-benedict-2341,National Liberal Arts Colleges,86,62,34,83,82,82,0,87,73,9,3.1,3.7,134,93.8,90,57.5,1,12:01,100,22-28,32,66,160,126,17.1
+judson-university-1700,Regional Universities Midwest,86,43,57,55,53,56,-3,73,50,4,2.4,,102,54.1,79,67.4,1,9:01,122,19-25,7,10,46,107,4.2
+juniata-college-3279,National Liberal Arts Colleges,86,62,64,78,85,84,1,85,72,12,2.8,3.7,103,90.3,92,70.3,2,12:01,100,1080-1290,31,64,112,67,24.3
+northwest-missouri-2496,Regional Universities Midwest,86,43,96,49,41,55,-14,72,51,-2,2.7,,121,92.2,70,43.3,7,21:01,42,18-25,16,41,101,37,9.6
+wheaton-college-massachusetts-2227,National Liberal Arts Colleges,86,62,61,78,75,79,-4,86,77,1,3.3,4,140,88.8,93,65,1,10:01,120,1150-1350,26,55,73,116,17.7
+methodist-university-2946,Regional Universities South,87,43,115,39,28,51,-24,62,43,-2,2.4,,46,81.4,72,64.7,0,11:01,80,18-23,14,37,55,30,10.5
+salisbury-university-2091,Regional Universities North,87,56,60,68,61,72,-11,83,64,6,2.7,,131,85,87,33,3,16:01,49,1100-1260,16,50,182,92,6.2
+suny-potsdam-2850,Regional Universities North,87,56,112,54,46,58,-11,76,48,5,2.5,,33,88.2,84,70.6,2,11:01,109,1000-1190,6,35,31,77,7.4
+suny-plattsburgh-2849,Regional Universities North,87,56,57,63,58,65,-7,82,55,8,2.5,,152,81.6,78,39,4,16:01,79,1050-1190,18,47,75,88,6.4
+thomas-more-college-2001,Regional Universities South,87,43,78,47,35,50,-14,69,57,-13,2.5,,67,76.2,75,65.5,1,16:01,70,19-24,,,92,38,9.1
+california-state-university-dominguez-hills-1141,Regional Universities West,88,32,77,38,40,51,-11,80,32,11,2.6,,103,59.6,73,21.6,9,21:01,119,16-20,,,104,82,1.7
+midamerica-nazarene-university-7032,Regional Universities Midwest,88,42,77,53,48,57,-8,68,41,13,2.2,,111,59.2,65,67.2,5,7:01,111,18-24,16,36,52,58,7.8
+roosevelt-university-1749,Regional Universities Midwest,88,42,139,37,33,45,-12,65,46,-6,2.5,,17,63.1,91,63.8,1,11:01,55,20-25,8,46,8,101,4.6
+southern-oregon-university-3219,Regional Universities West,88,32,83,39,40,37,4,71,49,-11,2.7,,73,77.1,65,45.8,5,21:01,82,870-1120,,,101,87,1.4
+utpb-9930,Regional Universities West,88,32,81,38,42,44,-2,69,54,-11,2.5,,91,66.7,66,31.3,12,27:01:00,78,900-1120,23,56,60,37,6.1
+alcorn-state-university-2396,Regional Universities South,89,42,102,34,30,46,-16,75,30,3,2.4,,62,88.5,71,48,2,19:01,113,16-21,0,0,55,44,8.3
+charleston-southern-3419,Regional Universities South,89,42,120,36,,0,,67,46,-12,2.7,,114,86,70,52.1,1,14:01,61,20-22,21,52,85,4,20.6
+howard-university-1448,National Universities,89,52,93,61,82,48,34,89,55,8,3,4,131,88.5,87,54.6,5,8:01,215,1090-1290,25,58,47,96,10.9
+indiana-university-bloomington-1809,National Universities,89,52,95,77,70,79,-9,90,73,4,3.6,3.9,183,94.9,84,36.2,18,17:01,94,25-31,36,70,158,87,11.5
+loyola-university-chicago-1710,National Universities,89,52,74,75,75,78,-2,84,69,8,3,3.9,109,77.1,93,41.7,6,14:01,94,24-29,37,70,128,168,6.1
+luther-college-1874,National Liberal Arts Colleges,89,61,82,80,74,82,-8,84,72,8,3.1,3.7,134,92.7,95,60.7,1,11:01,80,23-28,26,54,126,55,25.4
+marquette-university-3863,National Universities,89,52,93,80,72,82,-10,89,74,6,3,4,131,78.9,91,45.4,10,14:01,89,24-29,34,64,115,67,13.5
+ub-9554,National Universities,89,52,85,74,70,78,-7,87,65,10,3,3.6,123,87.4,98,28.7,23,13:01,122,1140-1310,38,73,104,147,7.5
+university-of-delaware-1431,National Universities,89,52,85,82,77,84,-7,92,78,5,3.2,3.8,123,87.6,90,34.4,16,13:01,107,1150-1330,32,66,83,133,7.9
+university-of-iowa-1892,National Universities,89,52,136,72,63,76,-12,86,70,4,3.5,3.8,73,96.5,90,50.9,13,16:01,112,23-28,30,61,79,110,9.7
+brockport-suny-2841,Regional Universities North,90,55,33,68,62,68,-6,81,53,13,2.5,,170,82.6,69,29.2,7,17:01,68,1000-1180,12,34,117,165,3
+gustavus-college-2353,National Liberal Arts Colleges,90,60,58,81,81,79,2,89,74,6,3.2,3.8,159,93.2,91,61.3,0,11:01,111,24-30,33,65,121,116,18.1
+monroe-college-4799,Regional Universities North,90,55,7,71,77,63,15,77,28,46,1.9,,176,65.9,34,49.7,0,17:01,185,744-1053,,,185,143,3.2
+new-college-of-florida-153704,National Liberal Arts Colleges,90,60,116,67,64,65,0,81,74,-9,3.1,4,87,89.1,97,71.3,1,10:01,56,1190-1380,38,71,80,126,17.5
+ohio-dominican-university-3035,Regional Universities Midwest,90,41,115,43,42,53,-12,68,53,-6,2.6,,51,62.3,95,53.4,0,14:01,71,19-24,15,43,70,101,4.6
+reed-college-3217,National Liberal Arts Colleges,90,60,89,80,,,,88,69,11,3.8,4.3,189,98.8,,,,,106,1280-1480,,,169,184,
+slippery-rock-university-3327,Regional Universities North,90,55,43,67,59,70,-11,82,54,12,2.7,,180,93.7,88,15.8,10,21:01,73,1000-1160,13,36,161,103,5.3
+southeast-missouri-state-2501,Regional Universities Midwest,90,41,77,50,45,57,-12,74,53,-1,2.7,,79,87.9,75,45.1,5,20:01,97,20-26,16,42,136,112,4
+southwestern-university-3620,National Liberal Arts Colleges,90,60,76,74,71,75,-5,85,76,-2,3,4,113,91.1,97,62.7,0,11:01,78,1110-1320,37,73,137,51,25.8
+ursinus-3385,National Liberal Arts Colleges,90,60,64,78,75,77,-2,87,72,5,2.9,3.6,115,87.9,93,68,0,11:01,87,1110-1310,25,53,93,126,17.5
+wayne-state-college-2566,Regional Universities Midwest,90,41,92,49,43,57,-14,69,46,5,2.4,,65,80.5,86,45.1,2,19:01,79,18-25,12,30,124,32,10.1
+william-woods-2525,Regional Universities Midwest,90,41,86,54,41,64,-23,75,54,2,2.6,,118,37.8,41,84.9,0,11:01,50,20-26,10,37,131,82,6.1
+henderson-state-university-1098,Regional Universities South,91,41,111,34,31,34,-2,61,42,-10,2.6,,38,88.4,66,66.7,1,13:01,59,19-25,17,37,85,91,4.2
+louisiana-college-2007,Regional Universities South,91,41,111,39,35,50,-15,55,35,8,2.2,,57,87.1,72,69,2,12:01,80,19-24,13,30,49,139,0.9
+norfolk-state-university-3765,Regional Universities South,91,41,102,36,30,50,-20,74,32,7,2.4,,57,87.2,68,56.8,2,17:01,135,840-1040,5,15,41,111,
+prescott-college-29022,Regional Universities West,91,31,103,32,,,,71,49,-17,2.5,,20,80.2,56,99.2,1,,50,920-1200,,,84,87,
+simpson-university-1291,Regional Universities West,91,31,68,49,,,,76,49,0,2.3,,87,57.4,56,73.7,2,,78,860-1105,19,51,84,60,2.8
+tarleton-3631,Regional Universities West,91,31,76,45,45,47,-2,68,42,4,2.5,,108,76,71,32,9,19:01,72,960-1130,10,29,104,72,2.1
+university-of-charleston-3818,Regional Universities South,91,41,96,43,36,58,-22,63,54,-5,2.9,,118,77,51,57.3,1,15:01,122,18-22,,,66,67,5.7
+eastern-connecticut-state-university-1425,Regional Universities North,93,54,130,55,47,57,-10,76,54,1,2.6,,36,65.7,98,34.3,0,15:01,104,1000-1180,10,36,54,70,7.9
+roberts-wesleyan-college-2805,Regional Universities North,93,54,72,61,50,67,-17,79,56,4,2.3,,134,63,71,69,2,12:01,27,1040-1230,20,48,97,54,8.9
+russell-sage-college-2810,Regional Universities North,93,54,72,58,50,66,-16,79,49,7,2.3,,108,70.6,80,66.8,0,11:01,91,980-1170,15,50,75,51,9.5
+university-of-new-haven-1397,Regional Universities North,93,54,120,55,50,64,-14,80,62,-2,2.6,,67,67.3,81,43.4,3,16:01,49,1010-1210,15,39,65,88,6.6
+william-paterson-2625,Regional Universities North,93,54,120,52,49,60,-11,76,49,6,2.5,,11,66.1,91,51.8,1,14:01,127,930-1120,,,85,126,4
+york-college-of-pennsylvania-3399,Regional Universities North,93,54,101,59,50,59,-9,79,58,-2,2.4,,10,64.9,91,51.8,0,15:01,73,1000-1190,8,34,138,79,7.2
+bemidji-state-2336,Regional Universities Midwest,94,40,123,45,42,50,-7,68,47,0,2.7,,79,85.1,78,40.3,9,21:01,79,20-24,11,30,110,88,5.4
+csub-7993,Regional Universities West,94,30,73,41,40,42,-2,73,33,7,2.6,,117,73,75,30.3,9,25:01:00,116,810-1050,,,82,87,
+concordia-st-paul-2347,Regional Universities Midwest,94,40,77,50,48,63,-14,70,48,7,2.7,,89,45.5,77,69.1,0,18:01,147,18-24,6,27,153,109,4.2
+ferris-state-university-2260,Regional Universities Midwest,94,40,108,48,41,54,-12,77,53,-3,2.8,,23,81.9,46,52.7,2,16:01,148,940-1170,,,97,157,2.1
+midwestern-state-3592,Regional Universities West,94,30,83,44,38,49,-11,69,52,-7,2.4,,95,88.3,84,42,11,18:01,78,930-1120,11,35,60,56,3.6
+quincy-university-1745,Regional Universities Midwest,94,40,92,50,38,52,-14,69,48,-2,2.5,,79,69.1,74,70.1,0,15:01,79,19-24,10,31,133,23,11.9
+university-of-sioux-falls-3469,Regional Universities Midwest,94,40,96,52,43,52,-10,70,63,-14,2.6,,91,62.3,68,62.5,2,12:01,46,20-25,10,35,74,112,3.8
+uw-green-bay-3899,Regional Universities Midwest,94,40,82,49,50,52,-2,75,57,-6,2.9,,141,82.5,87,29.7,9,23:01,59,20-25,,,149,109,4.2
+uw-oshkosh-9630,Regional Universities Midwest,94,40,91,53,43,56,-13,77,54,-2,2.8,,65,86.2,83,41.7,8,20:01,122,20-24,11,33,149,146,3.2
+arkansas-state-university-1090,Regional Universities South,95,40,92,40,,,,75,49,-9,2.9,,129,89.8,,,,,78,21-26,,,115,46,7.9
+auburn-montgomery-8310,Regional Universities South,95,40,133,25,26,30,-5,66,50,-22,3,,51,82.7,83,46.6,3,16:01,53,19-24,16,43,73,105,3.2
+augustana-college-1633,National Liberal Arts Colleges,95,59,89,76,70,76,-6,86,72,3,3.1,3.6,103,89.4,92,69.2,0,12:01,71,23-28,36,64,191,105,18.9
+bennington-college-3682,National Liberal Arts Colleges,95,59,128,68,69,67,2,81,78,-11,3,3.7,47,73.5,78,89,0,10:01,114,1210-1390,,,58,88,20.5
+college-of-the-atlantic-11385,National Liberal Arts Colleges,95,59,128,68,50,77,-27,80,70,-4,2.7,3.6,8,74.3,92,93.5,0,10:01,120,1190-1350,22,50,126,33,31.9
+fayetteville-state-university-2928,Regional Universities South,95,40,92,33,33,34,-1,75,29,4,2.3,,30,92.3,81,42,1,15:01,129,870-1020,5,24,74,130,2.3
+montreat-college-2948,Regional Universities South,95,40,95,40,31,32,0,60,38,-6,2.2,,38,50,69,84.3,0,9:01,98,920-1150,8,28,22,111,
+ohio-wesleyan-3109,National Liberal Arts Colleges,95,59,136,69,60,73,-13,79,73,-3,3.1,4,52,85.3,100,75.7,0,9:01,114,22-28,22,47,88,78,22.4
+st-anselm-college-2587,National Liberal Arts Colleges,95,59,99,75,78,80,-2,89,67,13,2.7,3.6,103,86.5,92,67.3,2,11:01,111,1140-1300,24,55,112,135,16.9
+st-johns-university-minnesota-2379,National Liberal Arts Colleges,95,59,76,78,68,76,-8,88,72,2,3.2,3.8,147,93.8,90,57.5,1,12:01,130,22-27,15,43,109,78,22.5
+st-marys-college-1836,National Liberal Arts Colleges,95,59,71,79,71,83,-11,87,71,9,2.9,3.7,166,84.4,92,50.3,0,9:01,114,23-29,28,64,121,37,31
+st-marys-college-2095,National Liberal Arts Colleges,95,59,101,78,68,81,-12,87,73,5,3,3.7,74,87.4,99,74.4,0,10:01,140,1070-1280,8,23,88,178,11.8
+tuskegee-university-1050,Regional Universities South,95,40,78,46,,,,72,53,-7,3,,125,100,,,,,106,21-22,,,115,111,
+illinois-institute-of-technology-1691,National Universities,96,51,74,70,68,75,-7,92,71,1,2.8,3.6,69,77.3,95,50.4,9,12:01,68,25-31,55,83,123,147,7.5
+miami-university-7104,National Universities,96,51,104,79,68,81,-13,91,73,6,3.2,3.9,144,90.5,85,33.7,11,17:01,80,26-31,34,66,215,39,18.6
+university-of-colorado-boulder-1370,National Universities,96,51,142,70,62,70,-8,86,70,-1,3.6,3.9,79,89,88,48.8,15,18:01,103,25-30,29,59,88,168,6
+university-of-denver-1371,National Universities,96,51,112,77,73,76,-3,87,78,-3,2.9,3.7,52,79.8,90,56.6,5,11:01,89,25-30,38,73,83,122,8.6
+university-of-san-francisco-1325,National Universities,96,51,104,73,77,77,0,85,63,14,2.9,3.8,87,68.6,94,46.7,2,13:01,151,1100-1290,24,63,123,154,6.8
+university-of-vermont-3696,National Universities,96,51,104,76,70,76,-7,86,69,6,3,3.7,144,90.6,84,49.2,15,17:01,89,1180-1350,38,76,65,110,9.5
+albertus-magnus-college-1374,Regional Universities North,99,53,84,55,57,58,-1,73,40,17,2.3,,17,52.6,90,91.4,0,13:01,175,810-1050,,,151,67,8.2
+elms-college-2140,Regional Universities North,99,53,46,64,48,67,-19,83,43,14,2,,101,62.1,68,76.6,0,12:01,119,930-1130,,,117,33,11.4
+saint-rose-2705,Regional Universities North,99,53,78,62,50,64,-15,77,56,3,2.3,,36,76.5,91,67.9,0,14:01,153,970-1142,8,24,85,29,12.3
+manhattanville-college-2760,Regional Universities North,99,53,92,55,51,57,-6,78,59,-4,2.5,,53,56.9,87,70.9,0,11:01,119,940-1160,5,27,65,48,9.6
+lynn-university-1505,Regional Universities South,100,39,92,45,42,53,-11,70,56,-5,2.5,,121,87.2,61,54.4,0,17:01,115,958-1130,2,14,14,102,3.3
+nicholls-state-university-2005,Regional Universities South,100,39,84,45,37,54,-17,69,51,-4,2.6,,117,91.9,56,38.5,10,19:01,54,20-24,16,40,130,67,5.8
+minnesota-moorhead-2367,Regional Universities Midwest,101,39,99,43,45,47,-1,74,49,-3,2.6,,102,81.7,89,42.9,7,19:01,55,20-25,11,30,110,101,4.6
+mount-marty-college-3465,Regional Universities Midwest,101,39,108,50,,,,71,49,7,2.2,,51,93.2,71,75.7,0,11:01,105,19-24,,,81,65,7.8
+northern-state-university-3466,Regional Universities Midwest,101,39,104,49,43,53,-10,71,53,-3,2.4,,47,82.6,86,63.7,2,19:01,101,19-24,7,24,110,31,10.5
+pittsburg-state-university-1926,Regional Universities Midwest,101,39,86,48,47,47,0,74,47,0,2.6,,111,90.7,74,51.9,6,18:01,50,19-25,40,55,155,83,5.8
+rockford-university-1748,Regional Universities Midwest,101,39,104,44,41,42,-2,66,47,-6,2.3,,56,65.4,75,80.8,0,10:01,99,19-23,,,38,58,7.8
+arkansas-tech-university-1089,Regional Universities South,102,38,87,42,32,50,-19,70,42,-1,2.6,,99,81.2,65,45.1,5,19:01,61,19-25,14,36,140,109,2.8
+clarkson-university-2699,National Universities,102,50,74,72,74,75,-1,90,65,9,2.7,3.5,131,87.8,87,51.6,18,13:01,107,1143-1330,37,74,133,50,16.2
+columbus-state-university-1561,Regional Universities South,102,38,109,31,29,38,-9,74,42,-9,2.7,,62,76.3,79,51.6,5,17:01,100,870-1070,13,37,92,111,2.8
+drexel-university-3256,National Universities,102,50,136,69,64,73,-8,87,72,-1,3.1,3.8,58,78.5,86,55.2,9,11:01,112,1155-1360,36,65,56,154,6.8
+rit-2806,National Universities,102,50,122,68,64,73,-9,88,67,3,3.3,4.1,175,87.6,70,46.7,5,12:01,80,1190-1380,40,74,115,185,5.8
+southern-wesleyan-3422,Regional Universities South,102,38,59,53,,,,71,40,13,2.3,,136,63.4,,,,,115,,,,115,111,
+tusculum-university-3527,Regional Universities South,102,38,120,37,26,47,-20,63,36,-3,2.5,,116,74.2,61,66.9,0,17:01,103,17-24,,,85,6,19.4
+unc-pembroke-2954,Regional Universities South,102,38,104,37,37,,,68,40,-2,2.5,,62,89.6,77,51.1,3,16:01,112,18-21,10,32,92,100,3.8
+university-of-oregon-3223,National Universities,102,50,124,71,64,75,-11,87,63,9,3.3,3.9,109,86.4,98,37.6,21,17:01,161,1080-1270,20,56,133,122,8.3
+austin-college-3543,National Liberal Arts Colleges,103,58,89,73,67,69,-3,83,73,-5,3,3.8,126,95,96,61.8,1,11:01,62,1160-1360,41,76,121,105,18.9
+hollins-university-3715,National Liberal Arts Colleges,103,58,140,59,58,65,-7,77,64,-2,2.8,3.3,27,88.2,99,87.5,0,10:01,93,1110-1300,29,66,61,85,21.1
+hope-college-2273,National Liberal Arts Colleges,103,58,71,79,71,83,-12,89,70,10,3,3.7,159,86.7,83,59.1,2,11:01,80,24-29,32,66,160,111,18.8
+lake-forest-college-1706,National Liberal Arts Colleges,103,58,76,72,73,72,0,85,69,3,3,3.5,140,79.6,96,62.3,0,12:01,120,24-29,38,67,137,67,24.4
+millersville-university-of-pennsylvania-3325,Regional Universities North,103,52,78,62,56,64,-9,77,56,6,2.5,,126,82.5,98,31.5,6,18:01,91,970-1160,10,28,134,135,3.6
+buffalo-state-2842,Regional Universities North,103,52,130,49,49,51,-2,70,46,4,2.7,,48,71.8,86,46.6,4,15:01,149,870-1070,9,30,54,175,2.5
+washington-and-jefferson-college-3389,National Liberal Arts Colleges,103,58,101,74,66,72,-6,82,70,0,3,3.7,126,86.7,93,66.8,0,11:01,85,1120-1290,34,62,104,147,15
+alvernia-university-3233,Regional Universities North,105,51,107,54,56,62,-6,78,50,10,2.4,,108,64.8,70,64.4,2,13:01,104,950-1148,11,32,106,62,8.2
+bay-path-2122,Regional Universities North,105,51,68,59,54,63,-9,75,42,16,2.2,,155,35.1,63,87.6,0,13:01,73,970-1190,19,47,123,113,4.7
+carlow-university-3303,Regional Universities North,105,51,72,56,55,59,-4,77,46,11,2.2,,91,63.7,76,72.1,0,12:01,113,900-1070,16,41,123,62,8.3
+central-connecticut-state-university-1378,Regional Universities North,105,51,120,54,46,55,-9,78,50,2,2.5,,53,73.5,84,40.1,3,16:01,99,980-1160,8,26,75,135,3.5
+chestnut-hill-college-3245,Regional Universities North,105,51,133,50,53,56,-3,76,41,14,2.2,,53,53.4,83,85.4,0,10:01,109,960-1150,6,21,123,20,13.9
+point-park-university-3357,Regional Universities North,105,51,95,57,49,58,-9,77,49,6,2.3,,48,54.7,77,74.4,0,13:01,68,980-1190,11,38,123,169,2.9
+wheelock-college-2228,Regional Universities North,105,51,112,60,,,,71,58,2,2.3,,91,71.2,80,59.7,0,,182,800-1015,4,10,4,31,11.8
+cornerstone-university-2266,Regional Universities Midwest,106,38,50,54,50,55,-5,78,56,-3,2.3,,145,69.2,60,54.3,2,15:01,46,920-1160,19,43,84,150,3.1
+emporia-state-university-1927,Regional Universities Midwest,106,38,124,43,37,51,-13,72,47,-2,2.7,,84,96,82,52.4,5,17:01,117,19-25,14,38,120,48,8.7
+njit-2621,National Universities,106,49,124,61,62,65,-3,87,57,7,2.7,3.4,58,79.6,92,33,5,17:01,89,1190-1370,37,66,104,133,8.2
+st-louis-university-2506,National Universities,106,49,112,74,70,79,-9,90,79,-2,2.9,3.8,117,82.9,90,43.3,9,9:01,71,25-31,50,76,83,96,10.7
+suny-environmental-science-and-forestry-2851,National Universities,106,49,117,74,79,78,1,84,71,7,2.6,3.5,102,89.5,84,44.3,10,13:01,122,1150-1300,32,62,79,45,17.7
+temple-university-3371,National Universities,106,49,101,71,73,70,2,90,58,13,3,3.6,175,76.8,89,37.5,9,14:01,132,1130-1310,21,55,142,168,6
+university-of-arizona-1083,National Universities,106,49,149,61,59,66,-7,81,62,1,3.6,3.7,109,94.3,92,42.7,17,15:01,151,21-28,34,61,83,133,7.8
+university-of-dubuque-1891,Regional Universities Midwest,106,38,119,44,38,48,-9,64,45,-2,2.7,,101,73.6,57,72,1,16:01,158,16-22,4,20,35,58,8
+university-of-new-hampshire-2589,National Universities,106,49,95,78,71,78,-8,86,63,14,2.9,3.6,117,82.8,89,43,12,18:01,173,1080-1260,20,49,142,147,7.1
+university-of-south-carolina-3448,National Universities,106,49,124,73,64,78,-14,88,68,7,3.1,3.8,131,87.2,89,37.9,16,17:01,103,25-30,29,61,181,61,14.3
+university-of-the-pacific-1329,National Universities,106,49,104,68,68,65,3,85,64,2,2.6,3.5,55,77.5,91,57,5,13:01,139,1070-1330,34,68,50,185,5.9
+university-of-tulsa-3185,National Universities,106,49,136,70,58,71,-13,90,87,-18,2.7,3.5,39,90.8,95,60.5,4,11:01,46,25-32,70,85,70,35,19.1
+uw-river-falls-3923,Regional Universities Midwest,106,38,73,55,45,56,-11,75,51,2,2.7,,156,87.8,,41.6,8,18:01,46,20-25,11,34,149,85,5.6
+washburn-university-1949,Regional Universities Midwest,106,38,147,35,24,47,-23,70,50,-13,2.9,,36,76.8,81,47.7,2,14:01,75,18-25,14,34,93,32,10
+linfield-college-3198,National Liberal Arts Colleges,108,57,101,71,73,79,-6,85,67,11,2.7,3.6,71,82,95,75.1,0,10:01,154,1020-1210,30,67,126,167,13.5
+millsaps-college-2414,National Liberal Arts Colleges,108,57,140,67,58,70,-11,79,75,-8,3,3.7,64,91.1,95,79.1,0,9:01,87,22-28,100,100,72,111,18.2
+washington-college-maryland-2108,National Liberal Arts Colleges,108,57,121,75,66,78,-12,85,75,1,2.9,3.6,93,85.5,98,73.8,2,11:01,93,1090-1300,38,70,78,105,19.1
+westmont-college-1341,National Liberal Arts Colleges,108,57,107,77,68,77,-9,83,73,2,2.8,3.5,134,83.1,87,64,2,11:01,67,1130-1380,40,64,80,152,14.6
+whittier-college-1342,National Liberal Arts Colleges,108,57,107,66,73,67,6,80,57,12,3.1,3.6,170,88.6,95,57.6,1,12:01,156,1010-1220,21,33,88,94,20.1
+minnesota-mankato-2360,Regional Universities Midwest,111,37,115,49,37,52,-15,74,50,-3,2.8,,118,85.3,91,35.8,9,23:01,87,20-24,7,27,127,117,3.6
+missouri-state-2503,Regional Universities Midwest,111,37,55,54,47,63,-16,77,56,-1,2.8,,164,85.9,76,26.3,14,21:01,31,21-26,21,49,162,119,
+university-of-mary-2992,Regional Universities Midwest,111,37,86,53,,,,77,54,-1,2.6,,135,72.7,49,67.2,5,,66,20-26,25,51,106,164,0.8
+uw-platteville-3921,Regional Universities Midwest,111,37,77,53,44,54,-11,77,49,2,2.8,,161,88.4,75,24.7,5,21:01,55,20-25,10,28,155,119,
+mount-st-vincent-college-2703,Regional Universities North,112,50,89,55,51,58,-6,75,39,15,2.2,,153,64.5,83,51.9,0,13:01,153,880-1060,3,17,97,15,14.3
+keuka-college-2744,Regional Universities North,112,50,118,54,49,65,-16,71,52,5,2.3,,64,43,72,77.1,1,8:01,126,980-1140,10,33,85,35,11.4
+shippensburg-university-3326,Regional Universities North,112,50,130,55,45,54,-9,72,49,3,2.6,,112,92.5,90,34.7,3,19:01,113,960-1140,9,25,134,48,9.6
+southern-new-hampshire-university-2580,Regional Universities North,112,50,135,55,,,,73,49,6,2.7,,19,57.5,66,70,0,14:01,119,990-1160,7,27,161,186,1
+westfield-state-college-2189,Regional Universities North,112,50,63,64,62,67,-5,78,51,14,2.3,,108,70,89,38.2,1,16:01,104,970-1150,5,20,175,165,3
+elizabethtown-college-3262,National Liberal Arts Colleges,113,56,118,74,63,77,-14,84,67,8,2.7,3.4,97,87.5,95,68,0,11:01,114,1070-1280,30,60,97,116,18
+hampden-sydney-3713,National Liberal Arts Colleges,113,56,162,65,55,65,-11,83,67,-4,2.9,3.6,52,95,93,73.4,0,10:01,140,1050-1265,13,30,80,51,26
+hanover-college-1801,National Liberal Arts Colleges,113,56,107,70,67,73,-5,81,68,3,2.8,3.7,97,95.1,93,70.8,0,13:01,106,22-27,32,60,143,136,16.4
+arizona-state-university-tempe-1081,National Universities,115,48,142,65,55,68,-13,86,59,4,3.4,3.7,117,92,89,41.4,18,21:01,117,22-29,34,64,166,96,10.6
+auburn-university-1009,National Universities,115,48,130,74,65,78,-13,91,78,-1,3.3,3.8,144,94.7,90,32.5,16,19:01,94,24-30,31,63,166,67,13.1
+graceland-university-1866,Regional Universities Midwest,115,36,112,50,38,59,-21,62,55,-6,2.2,,76,90.4,75,64.9,1,17:01,130,18-23,9,23,84,6,16.3
+rutgers-newark-2631,National Universities,115,48,85,67,66,69,-3,85,54,14,2.7,3.8,131,78,99,27,14,12:01,259,1010-1170,22,54,104,209,4.7
+siena-heights-university-2316,Regional Universities Midwest,115,36,126,45,,,,69,49,-4,2.6,,47,65.9,78,80.3,0,,130,19-22,8,29,87,119,
+michigan-flint-2327,Regional Universities Midwest,115,36,130,38,36,50,-14,72,52,-8,2.5,,6,79.9,77,53.7,2,13:01,130,950-1200,18,43,46,162,1
+university-of-tennessee-3530,National Universities,115,48,124,70,62,74,-13,86,73,-3,3.2,3.7,123,96.2,87,30,14,17:01,112,24-30,,,97,105,10.5
+drew-university-2603,National Liberal Arts Colleges,116,55,128,63,57,65,-8,85,70,-8,2.8,3.5,93,80.3,99,69.9,1,10:01,106,1100-1300,24,60,68,96,19.9
+goucher-college-2073,National Liberal Arts Colleges,116,55,136,65,64,67,-2,79,69,-3,3.1,3.9,110,89.5,92,73.4,0,10:01,130,1050-1260,28,54,112,96,19.4
+marlboro-college-3690,National Liberal Arts Colleges,116,55,140,59,54,47,7,72,59,-9,2.3,3.3,15,90.6,91,100,0,5:01,150,1150-1340,,,29,85,21.6
+st-michaels-college-3694,National Liberal Arts Colleges,116,55,101,78,71,80,-10,87,72,6,2.8,3.5,134,87.7,81,61,0,13:01,148,1150-1310,25,48,121,111,18.7
+bloomsburg-university-3315,Regional Universities North,117,49,89,62,51,61,-10,77,51,7,2.5,,150,92.6,84,27.3,5,19:01,109,970-1150,8,29,151,98,5.4
+bridgewater-state-college-2183,Regional Universities North,117,49,89,59,53,63,-10,79,53,6,2.5,,108,72.1,95,42.2,0,19:01,99,980-1160,,,179,116,4.5
+worcester-state-2190,Regional Universities North,117,49,112,54,51,57,-6,80,53,2,2.5,,87,73.4,80,53.4,0,17:01,91,980-1170,,,159,85,6.8
+dakota-state-university-3463,Regional Universities Midwest,118,35,130,38,30,39,-9,71,54,-19,2.5,,21,85.5,76,52.5,1,17:01,63,19-26,7,25,97,70,7.3
+greenville-university-1684,Regional Universities Midwest,118,35,104,48,34,45,-11,69,49,-10,2.2,,111,61.3,72,60.5,1,13:01,111,19-25,15,38,46,9,14.8
+marian-university-3861,Regional Universities Midwest,118,35,104,48,39,56,-17,70,50,-2,2.4,,89,67.8,56,74.4,0,12:01,134,17-22,9,25,87,78,6.4
+st-cloud-state-2377,Regional Universities Midwest,118,35,126,44,37,48,-11,70,48,-4,2.8,,102,85.8,88,43.2,4,21:01,115,18-24,7,27,118,155,2.6
+depaul-university-1671,National Universities,119,47,95,72,67,73,-6,85,62,9,2.9,3.8,157,74.6,85,40.5,1,16:01,143,22-28,23,53,199,168,5.9
+duquesne-university-3258,National Universities,119,47,74,76,77,80,-2,87,68,11,2.6,3.7,175,75.8,94,41.8,8,14:01,130,1120-1270,25,56,166,154,6.8
+iowa-state-university-1869,National Universities,119,47,124,72,63,77,-13,87,67,6,3.3,3.7,202,93.7,93,28.7,25,19:01,139,22-28,25,57,158,87,11.4
+seton-hall-university-new-jersey-2632,National Universities,119,47,136,65,60,71,-12,85,61,6,2.9,3.8,95,71.5,90,48.1,3,13:01,132,1140-1280,32,61,142,122,8.4
+university-of-utah-3675,National Universities,119,47,155,65,56,71,-15,90,63,4,3.1,3.5,164,86.8,83,38.6,18,16:01,135,22-29,39,71,42,105,10.1
+lehman-college-7022,Regional Universities North,120,48,147,41,44,50,-6,84,43,3,2.7,,101,65.5,72,45.9,1,17:01,142,970-1100,,,97,169,2.9
+grove-city-college-3269,National Liberal Arts Colleges,120,54,25,83,,,,91,74,9,2.5,3.4,209,83.6,85,53.8,4,13:01,71,1071-1349,35,84,199,105,18.9
+liu-cw-2754,Regional Universities North,120,48,164,46,38,52,-14,75,57,-9,2.3,,3,75.6,84,71.9,1,14:01,46,1055-1240,10,33,43,169,2.8
+randolph-macon-college-3733,National Liberal Arts Colleges,120,54,150,61,59,70,-11,81,63,3,2.9,3.3,92,84.1,94,69.1,0,11:01,140,1050-1233,19,56,149,24,36
+ripon-college-3884,National Liberal Arts Colleges,120,54,89,68,67,68,-1,80,65,3,2.7,3.3,147,91.5,98,65.2,3,14:01,148,20-26,16,43,112,55,25.1
+utica-college-2883,Regional Universities North,120,48,155,45,44,53,-9,73,50,-1,2.4,,4,59.9,78,61.6,0,13:01,104,980-1180,10,33,149,79,7
+westminster-college-pennsylvania-3392,National Liberal Arts Colleges,120,54,82,72,63,74,-11,80,60,10,2.7,3.5,155,83.3,90,66.3,1,11:01,158,940-1200,22,42,160,152,14.5
+mount-mary-college-3869,Regional Universities Midwest,122,34,119,44,32,50,-18,76,47,-8,2.4,,28,57.9,77,86.1,0,11:01,142,17-21,19,44,74,119,
+aurora-university-1634,Regional Universities Midwest,123,33,77,57,,,,70,47,10,2.5,,153,58.1,,,,,142,19-24,,,136,80,6.2
+framingham-state-2185,Regional Universities North,123,47,120,54,51,55,-4,75,53,1,2.5,,101,81.2,91,46.8,1,14:01,119,950-1130,6,21,138,103,5.2
+mansfield-university-3324,Regional Universities North,123,47,95,54,56,58,-1,74,46,11,2.2,,145,87,85,50.1,3,15:01,127,950-1130,8,29,43,143,
+mount-st-mary-college-2778,Regional Universities North,123,47,101,57,51,55,-3,77,53,1,2.2,,91,59.8,83,54.8,1,13:01,91,1000-1160,9,29,106,79,7
+coe-college-1854,National Liberal Arts Colleges,124,53,132,68,60,72,-12,78,69,-1,3,3.7,115,85.2,92,73.1,1,11:01,93,22-28,27,54,194,136,16.4
+friends-university-1918,Regional Universities Midwest,124,32,140,37,28,40,-12,68,45,-10,2.3,,42,45.3,72,75.8,1,10:01,66,19-25,22,48,81,46,8.7
+mcdaniel-college-2109,National Liberal Arts Colleges,124,53,101,69,68,68,0,80,59,9,2.7,3.6,147,48.1,89,67.2,0,11:01,137,1060-1230,26,51,186,167,13.3
+southwest-baptist-2502,Regional Universities Midwest,124,32,119,47,37,55,-18,66,46,0,2.2,,65,72,60,81.2,2,12:01,79,20-26,24,49,133,93,5.2
+southwestern-college-1940,Regional Universities Midwest,124,32,115,44,38,44,-6,64,55,-14,2.1,,91,52.6,64,71.6,2,10:01,129,18-23,11,33,15,112,3.9
+stonehill-college-2217,National Liberal Arts Colleges,124,53,76,82,77,81,-4,89,77,3,2.8,3.7,178,81.5,92,48.9,0,12:01,130,1080-1270,22,51,126,147,15.2
+university-of-oklahoma-3184,National Universities,124,46,155,67,53,72,-19,88,71,-4,3.1,3.7,131,92.5,84,45.8,11,18:01,107,23-29,36,65,83,62,13.8
+university-of-south-florida-1537,National Universities,124,46,72,68,70,71,-1,89,62,9,2.8,3.5,258,84.2,81,29.7,16,22:01,107,1150-1310,37,71,191,83,11.9
+university-of-st-thomas-minnesota-2345,National Universities,124,46,112,75,69,79,-9,88,71,6,2.4,3.4,109,78.7,91,38.7,1,14:01,100,24-29,23,55,142,62,13.8
+viterbo-university-3911,Regional Universities Midwest,124,32,108,49,,,,76,50,-1,2.7,,147,67.7,,,,,120,20-26,,,136,119,
+philadelphia-biblical-3351,Regional Universities North,126,46,60,60,57,60,-3,73,50,8,1.9,,120,63.4,69,69.9,2,12:01,91,880-1125,19,36,106,98,5.5
+frostburg-state-university-2072,Regional Universities North,126,46,135,49,47,50,-4,76,48,1,2.5,,64,84.1,78,52.6,2,15:01,119,920-1110,10,29,151,103,5.2
+lasell-college-2158,Regional Universities North,126,46,112,54,52,55,-4,76,47,7,2.2,,87,61.9,81,68.5,0,13:01,149,980-1160,2,17,117,57,8.6
+lock-haven-university-3323,Regional Universities North,126,46,135,50,52,57,-5,70,46,9,2.3,,42,95.5,88,39.6,6,17:01,139,910-1110,8,27,117,103,5.3
+rosemont-college-3360,Regional Universities North,126,46,107,50,64,57,7,68,48,13,2.2,,80,35.1,80,73.5,0,11:01,142,910-1110,,,175,35,11.3
+st-thomas-aquinas-2832,Regional Universities North,126,46,118,57,44,60,-15,77,54,0,2.4,,31,63.8,84,71.2,0,12:01,164,880-1110,7,23,151,85,6.9
+concordia-college-2346,National Liberal Arts Colleges,127,52,89,72,64,73,-9,83,70,0,2.8,3.5,175,89.1,83,55.7,1,11:01,93,22-28,27,55,149,136,16.5
+presbyterian-college-3445,National Liberal Arts Colleges,127,52,136,67,63,70,-7,81,68,0,2.8,3.7,103,88.8,97,65.9,0,12:01,137,21-27,25,62,143,126,17.6
+san-diego-state-university-1151,National Universities,127,45,101,71,71,77,-6,89,54,21,2.9,3.8,290,74.1,88,25.8,24,27:01:00,149,1090-1290,31,70,250,168,6.5
+st-norbert-college-3892,National Liberal Arts Colleges,127,52,82,72,73,74,-1,84,70,3,2.7,3.4,187,86.2,91,48.9,1,13:01,100,22-27,20,51,149,142,15.8
+sweet-briar-college-3742,National Liberal Arts Colleges,127,52,188,61,41,60,-19,58,68,-14,2.1,3.3,14,93.7,93,98.4,0,5:01,160,993-1180,17,32,11,20,36.9
+university-of-dayton-3127,National Universities,127,45,112,77,72,80,-8,90,72,7,2.6,3.6,175,78.2,88,36.3,3,15:01,177,24-29,29,61,115,67,13.3
+the-catholic-university-of-america-1437,National Universities,129,44,166,69,63,75,-12,85,66,5,2.7,3.7,109,77.2,93,55.6,4,7:01,143,1120-1320,,,79,117,8.9
+university-of-alabama-1051,National Universities,129,44,166,68,51,72,-21,87,75,-7,3.2,3.8,198,88.9,81,31.9,22,23:01,100,23-32,39,60,206,19,27.1
+university-of-illinois-chicago-1776,National Universities,129,44,146,59,54,60,-6,80,57,0,3,3.6,192,89.7,88,36.8,19,19:01,177,20-26,25,58,34,256,2.5
+university-of-kansas-1948,National Universities,129,44,200,62,47,68,-21,81,69,-6,3.3,3.8,87,93.9,90,47.3,12,17:01,117,23-28,26,57,88,67,13.4
+university-of-missouri-2516,National Universities,129,44,155,69,53,73,-19,87,69,-1,3.2,3.7,175,98.2,91,38.1,17,18:01,112,23-29,29,60,158,75,12.6
+university-of-nebraska-2565,National Universities,129,44,164,67,56,72,-16,83,68,0,3.1,3.7,183,99.6,90,35.2,18,21:01,135,22-29,26,53,142,45,18.2
+university-of-texas-dallas-9741,National Universities,129,44,104,69,68,70,-3,87,67,3,2.8,3.8,207,86.5,86,23.5,22,23:01,73,1220-1430,36,64,221,256,2.7
+birminghamsouthern-college-1012,National Liberal Arts Colleges,131,51,157,65,55,69,-15,82,73,-7,2.8,3.7,115,91.6,93,62.6,0,13:01,62,23-29,54,54,149,136,16.3
+college-of-idaho-1617,National Liberal Arts Colleges,131,51,121,63,61,70,-9,79,64,3,2.6,3.3,172,82.2,83,67.5,0,9:01,144,21-27,24,26,112,42,29.8
+lycoming-college-3293,National Liberal Arts Colleges,131,51,116,66,63,70,-7,80,56,11,2.5,3.2,126,88.4,94,68.9,1,12:01,175,988-1200,14,33,149,116,17.8
+salem-college-2960,National Liberal Arts Colleges,131,51,169,61,,,,80,46,15,2.3,3.4,103,67.2,91,86.9,0,,130,21-27,40,78,169,76,23
+cabrini-university-3241,Regional Universities North,132,45,135,55,,,,73,55,0,2.3,,45,56.7,86,78.1,0,,173,990-1160,,,43,54,8.9
+daemen-college-2808,Regional Universities North,132,45,101,52,54,56,-3,79,56,-1,2.1,,98,73.8,84,60.5,1,12:01,25,1040-1220,24,58,149,169,2.9
+delaware-valley-university-3252,Regional Universities North,132,45,112,57,53,57,-4,70,60,-4,2.3,,140,61.4,68,57.5,2,14:01,98,960-1165,6,23,65,94,6
+plymouth-state-2591,Regional Universities North,132,45,120,57,53,59,-6,72,48,9,2.5,,101,66.3,72,51.5,1,17:01,165,890-1130,6,18,161,126,4.1
+southern-connecticut-state-university-1406,Regional Universities North,132,45,142,52,,,,76,43,9,2.4,,74,70.1,87,43,1,,177,830-1030,1,8,75,119,4.2
+eckerd-college-1487,National Liberal Arts Colleges,135,50,145,67,61,72,-11,81,67,3,2.9,3.7,170,92.3,88,50,0,12:01,120,23-29,,,104,184,
+monmouth-college-1725,National Liberal Arts Colleges,135,50,150,58,53,65,-12,74,55,5,2.7,3.4,110,88.9,88,78.7,0,11:01,154,20-25,17,42,160,111,18.6
+roanoke-college-3736,National Liberal Arts Colleges,135,50,136,65,60,70,-10,82,64,3,2.9,3.4,145,89.8,88,54.5,0,11:01,150,1040-1230,16,39,149,111,18.7
+siena-college-2816,National Liberal Arts Colleges,135,50,82,77,73,80,-7,89,67,11,2.7,3.6,209,82.7,86,36.8,0,12:01,158,1060-1250,22,49,186,167,13.3
+simpson-college-1887,National Liberal Arts Colleges,135,50,132,68,56,74,-17,80,61,7,2.6,3.3,130,75.2,87,78.9,1,11:01,120,21-27,23,58,194,156,14.2
+susquehanna-university-3369,National Liberal Arts Colleges,135,50,113,73,65,72,-8,85,67,4,3,3.5,186,77.5,90,54.3,0,12:01,168,1070-1240,26,57,137,182,11.3
+gmu-3749,National Universities,136,43,117,69,67,72,-6,88,63,8,3.1,3.9,235,73.4,91,30.9,14,17:01,155,1100-1290,17,51,215,256,2.7
+michigan-tech-2292,National Universities,136,43,166,66,53,71,-18,85,67,0,2.7,3.9,95,97.4,89,45.7,13,13:01,107,1160-1340,32,65,142,122,8.3
+university-of-california-merced-4127,National Universities,136,43,104,65,61,70,-9,84,48,16,2.7,3.5,227,96.3,88,25.1,28,20:01,292,910-1120,21,,88,96,10.8
+university-of-la-verne-1216,National Universities,136,43,95,64,66,68,-2,85,53,14,2,3.1,102,70.1,76,68.5,0,12:01,219,1030-1195,20,49,109,195,5.1
+fitchburg-state-2184,Regional Universities North,137,44,101,56,55,62,-8,77,53,7,2.4,,150,85.4,80,42.4,1,14:01,117,970-1140,,,161,169,2.8
+kutztown-university-3322,Regional Universities North,137,44,135,54,44,58,-14,73,49,4,2.5,,158,95.3,86,24.2,8,18:01,99,970-1140,7,24,138,109,4.9
+cuny-john-jay-2693,Regional Universities North,139,43,166,43,,,,78,40,3,3,,170,62.9,,28.3,1,18:01,149,920-1060,,,106,184,1.3
+georgian-court-2608,Regional Universities North,139,43,151,48,38,62,-23,76,49,-1,2.1,,14,57,92,77.3,0,12:01,133,910-1120,7,28,75,88,6.5
+kean-university-2622,Regional Universities North,139,43,127,49,46,51,-6,75,46,3,2.4,,67,47.6,81,37.1,0,17:01,162,880-1070,,,146,175,2.5
+colorado-state-university-1350,National Universities,140,42,142,67,62,71,-9,86,63,6,3,3.7,242,89.4,89,26.5,24,16:01,155,22-28,20,47,181,96,10.7
+hofstra-university-2732,National Universities,140,42,182,62,54,66,-12,81,67,-4,2.8,3.6,65,66.6,91,49.9,3,13:01,122,1130-1310,28,62,115,87,11.3
+louisiana-state-university-baton-rouge-2010,National Universities,140,42,170,66,56,69,-14,84,69,-2,2.9,3.6,144,96.1,86,40.5,18,20:01,122,23-28,23,48,133,87,11.8
+mercer-university-1580,National Universities,140,42,146,64,58,67,-9,85,66,-2,2.4,3.6,73,76.3,92,57.3,4,13:01,100,25-30,36,71,166,96,10.7
+oregon-state-3210,National Universities,140,42,155,64,56,70,-14,84,60,5,3,3.6,211,87.4,86,29.1,20,18:01,155,1070-1300,26,58,123,117,9.4
+suny-albany-2835,National Universities,140,42,117,66,68,64,4,83,57,8,2.8,3.6,211,80,95,33.1,16,19:01,230,1000-1190,16,48,142,154,6.7
+washington-state-3800,National Universities,140,42,155,65,57,65,-8,80,59,3,3,3.6,192,89.4,88,35.2,20,15:01,190,1020-1220,38,61,128,75,12.4
+central-college-1850,National Liberal Arts Colleges,141,49,150,67,,,,79,65,2,2.7,3.3,115,94.2,94,70.1,1,,120,21-26,23,52,126,178,11.4
+randolph-college-3734,National Liberal Arts Colleges,141,49,175,57,56,60,-3,73,66,-7,2.6,3.2,30,98.6,94,85.6,0,9:01,182,950-1190,15,38,73,96,19.7
+alma-college-2236,National Liberal Arts Colleges,143,48,150,65,55,73,-19,80,66,2,2.6,3.7,147,83.4,83,66.8,1,12:01,156,1030-1230,18,25,126,116,18
+franklin-college-1798,National Liberal Arts Colleges,143,48,145,62,55,65,-10,77,55,7,2.6,3.4,142,82.4,87,69.2,0,11:01,168,1010-1200,18,48,186,105,19.3
+houghton-college-2734,National Liberal Arts Colleges,143,48,118,73,,,,86,64,9,2.5,3.3,187,75,95,66.6,2,,114,1060-1320,26,54,166,142,15.5
+illinois-college-1688,National Liberal Arts Colleges,143,48,121,69,51,66,-15,78,62,-2,2.6,3.2,142,93.4,85,67.9,1,12:01,168,19-25,14,41,126,88,21.1
+morehouse-college-1582,National Liberal Arts Colleges,143,48,140,52,53,57,-4,82,55,0,3.3,3.9,216,91.4,85,52.7,0,12:01,198,950-1160,12,36,104,156,13.9
+unc-asheville-2907,National Liberal Arts Colleges,143,48,121,62,63,61,1,77,61,1,3,3.8,172,87.1,88,49.9,1,13:01,130,22-27,15,44,220,212,7.2
+warren-wilson-2979,National Liberal Arts Colleges,143,48,184,52,60,50,9,63,65,-12,2.6,3.5,57,86.8,96,89.9,0,9:01,87,25-29,15,39,85,156,13.9
+wartburg-college-1896,National Liberal Arts Colleges,143,48,132,69,58,69,-11,78,65,1,2.7,3.5,182,81,90,52.1,1,11:01,120,21-27,27,53,149,88,20.8
+wesleyan-college-1600,National Liberal Arts Colleges,143,48,178,55,43,68,-25,74,61,-5,2.7,3.7,87,84.9,80,84.7,0,7:01,164,1020-1190,28,58,137,61,25
+adelphi-university-2666,National Universities,147,41,136,67,60,72,-12,83,61,7,2.3,3.1,58,58,87,48.3,2,12:01,235,1060-1240,26,58,152,117,9
+kansas-state-university-1928,National Universities,147,41,182,62,49,67,-19,84,64,-1,3,3.6,164,95,85,47.1,12,18:01,155,22-28,25,51,142,35,19.4
+the-new-school-20662,National Universities,147,41,149,66,66,68,-3,82,63,5,2.8,3.7,95,39.4,76,90.9,1,9:01,266,1100-1310,17,47,97,278,1.6
+university-of-cincinnati-3125,National Universities,147,41,149,67,59,72,-13,87,65,4,2.8,3.4,211,82.1,85,37.1,17,16:01,122,23-28,22,48,128,110,9.7
+university-of-kentucky-1989,National Universities,147,41,192,63,45,66,-20,83,70,-5,3.1,3.7,183,86.7,93,32.3,15,17:01,122,22-28,29,58,65,75,12.4
+albion-college-2235,National Liberal Arts Colleges,152,47,118,66,55,58,-3,81,67,-10,2.8,3.5,166,83.8,92,59.3,0,12:01,164,1010-1200,,,104,173,12.5
+fisk-3490,National Liberal Arts Colleges,152,47,179,45,49,61,-12,81,48,5,2.8,3.6,147,81.4,82,72.5,0,10:01,202,16-22,11,26,126,55,25.2
+saint-vincent-college-3368,National Liberal Arts Colleges,152,47,107,71,61,73,-12,85,63,6,2.4,3.5,182,72.1,90,50,0,11:01,164,1020-1210,13,38,191,96,19.9
+st-john-fisher-college-2821,National Universities,152,40,117,71,63,75,-12,86,60,11,2.2,3.1,144,75.6,89,41.2,1,12:01,190,1060-1230,16,52,206,133,7.9
+st-johns-university-new-york-2823,National Universities,152,40,155,58,53,62,-9,82,54,4,2.8,3.6,144,70,93,31.7,5,17:01,177,1060-1250,16,43,206,209,4.5
+union-university-3528,National Universities,152,40,104,68,91,69,22,86,73,2,1.9,,44,99.3,81,77.7,0,9:01,112,23-29,35,62,233,240,3.2
+university-of-arkansas-1108,National Universities,152,40,192,63,45,66,-21,82,70,-8,2.9,3.4,117,94.7,84,47.7,18,19:01,130,23-29,26,54,166,29,22.2
+university-of-mississippi-2440,National Universities,152,40,182,61,47,65,-18,86,63,-3,2.9,3.6,157,91.8,86,45.1,16,18:01,139,22-29,26,52,115,67,13.4
+doane-university-2544,National Liberal Arts Colleges,155,46,150,61,57,66,-9,73,57,6,2.3,3.3,113,88,86,79.6,1,11:01,178,20-25,15,36,166,167,13.1
+elmira-2718,National Liberal Arts Colleges,155,46,145,58,58,62,-3,76,62,-2,2.5,3.3,115,76.8,83,81.3,0,10:01,179,1040-1200,20,45,112,156,14.2
+hiram-college-3049,National Liberal Arts Colleges,155,46,181,60,,,,69,51,5,2.5,3.4,87,79,95,82,0,10:01,175,18-24,11,30,143,184,10.7
+moravian-college-3301,National Liberal Arts Colleges,155,46,121,68,58,65,-7,80,59,4,2.6,3.2,159,73.5,91,61.5,2,11:01,198,1010-1210,18,48,169,116,17.7
+minnesota-morris-2389,National Liberal Arts Colleges,155,46,157,64,48,64,-16,79,65,-6,2.7,3.5,130,90.4,93,71.6,2,11:01,93,22-28,24,49,210,184,10.8
+westminster-college-missouri-2523,National Liberal Arts Colleges,155,46,166,65,48,71,-23,78,64,0,2.6,3.3,115,67.3,96,79.2,0,11:01,137,21-26,13,26,203,147,15.3
+william-jewell-2524,National Liberal Arts Colleges,155,46,145,61,55,61,-6,79,69,-10,2.6,3.2,126,81.7,85,74.5,0,10:01,93,23-28,26,57,143,208,8.7
+biola-university-1122,National Universities,157,39,85,71,71,75,-4,86,65,8,1.9,3.1,192,77.1,84,50.6,5,17:01,151,1050-1260,28,55,191,168,6.2
+missouri-university-science-2517,National Universities,157,39,155,64,55,68,-13,84,70,-6,2.7,3.8,242,93.3,92,28,23,20:01,73,25-31,39,72,204,83,12.3
+oklahoma-state-3170,National Universities,157,39,170,62,52,69,-17,81,64,-1,2.8,3.6,164,91.1,91,34.6,15,20:01,143,22-28,27,54,181,96,10.8
+university-of-alabama-birmingham-1052,National Universities,157,39,189,54,47,56,-9,82,61,-8,2.8,3.5,202,96.5,86,38.5,17,19:01,135,21-28,28,52,34,133,7.8
+university-of-hawaii-manoa-1610,National Universities,157,39,179,58,57,62,-5,78,62,-2,2.7,3.4,131,93.2,89,52.6,13,10:01,177,1050-1240,26,55,53,195,5
+umass-lowell-2161,National Universities,157,39,177,57,54,63,-9,85,58,2,2.5,3.2,87,78.6,90,50,7,17:01,135,1130-1310,21,52,166,83,11.8
+university-of-rhode-island-3414,National Universities,157,39,164,63,60,68,-7,84,59,7,2.8,3.5,123,85.4,87,42.3,10,17:01,242,1080-1250,17,48,199,185,5.6
+vcu-3735,National Universities,157,39,132,62,62,63,-1,86,59,4,2.8,3.6,258,80.4,78,32.5,18,18:01,183,1076-1292,17,46,142,185,5.4
+claflin-university-3424,National Liberal Arts Colleges,162,45,188,44,50,69,-19,76,30,23,2.1,3,189,85.6,83,64.4,1,13:01,219,18-20,11,30,210,8,45.8
+emory-and-henry-college-3709,National Liberal Arts Colleges,162,45,181,51,45,57,-11,73,54,-2,2.7,3.5,115,84.6,84,74.1,1,11:01,175,988-1170,20,49,149,88,20.9
+gordon-college-2153,National Liberal Arts Colleges,162,45,106,70,65,72,-7,84,66,4,2.4,3.2,189,67.3,85,62.7,4,11:01,160,1050-1290,28,53,166,205,9.9
+mcla-2187,National Liberal Arts Colleges,162,45,172,53,49,58,-9,76,49,5,2.5,3.2,103,76.8,90,66.4,0,12:01,183,970-1190,10,35,137,212,6.9
+meredith-college-2945,National Liberal Arts Colleges,162,45,162,62,50,69,-19,79,57,6,2.4,3.6,159,81.2,88,65.4,0,12:01,172,20-25,17,45,186,96,19.8
+northland-college-3875,National Liberal Arts Colleges,162,45,166,55,59,67,-9,72,60,4,2.3,3.4,147,88,90,67.5,0,11:01,150,20-26,16,41,121,173,12.7
+edgewood-college-3848,National Universities,165,38,124,62,61,61,0,80,54,7,1.7,3,58,77.6,71,83.5,0,9:01,203,21-25,17,46,199,154,6.7
+ucf-3954,National Universities,165,38,104,70,67,71,-5,89,66,4,2.7,3.4,270,90.8,84,25.9,25,30:01:00,117,1150-1320,31,70,281,185,5.4
+university-of-idaho-1626,National Universities,165,38,182,57,47,61,-14,79,54,1,2.7,3.4,95,94.5,87,54.9,8,14:01,219,1010-1230,20,42,133,110,9.7
+umbc-2105,National Universities,165,38,155,63,64,63,0,88,65,-2,2.8,3.5,227,84.9,85,34.5,13,18:01,117,1140-1360,25,56,166,224,3.9
+centenary-college-of-louisiana-2003,National Liberal Arts Colleges,168,44,186,51,39,55,-17,76,62,-14,2.4,3.3,97,86.9,96,75.7,0,9:01,106,22-28,29,54,66,178,11.7
+covenant-college-3484,National Liberal Arts Colleges,168,44,140,64,61,72,-11,86,65,4,2.3,,172,83.1,94,57.9,2,13:01,67,24-30,31,61,199,175,12.2
+guilford-college-2931,National Liberal Arts Colleges,168,44,172,59,49,55,-6,70,52,1,3,3.8,159,78.3,85,64.7,0,12:01,204,19-25,13,32,206,178,11.6
+wittenberg-university-3143,National Liberal Arts Colleges,168,44,132,67,63,68,-4,76,70,-3,2.7,3.7,193,83.1,94,51.6,1,13:01,160,22-28,14,39,194,126,17.3
+montclair-state-university-2617,National Universities,169,37,122,65,63,67,-4,82,50,15,2.2,3.2,123,61,89,33.8,2,17:01,282,990-1150,10,34,249,224,3.7
+seattle-pacific-university-3788,National Universities,169,37,130,72,61,71,-10,83,64,5,2.3,3.4,164,77.1,80,52.7,3,13:01,242,990-1230,,,166,195,4.9
+ball-state-university-1786,National Universities,171,36,149,61,57,64,-7,81,57,4,2.6,3.3,218,91.9,79,40.8,6,17:01,187,1080-1240,18,48,221,117,9.4
+illinois-state-university-1692,National Universities,171,36,132,72,61,71,-10,81,62,7,2.5,3.3,248,86.5,83,33.4,11,17:01,190,21-26,,,206,154,6.8
+ohio-university-3100,National Universities,171,36,174,65,52,68,-16,80,63,1,2.9,3.6,255,88.9,79,31.5,17,17:01,165,22-26,18,46,181,209,4.5
+rowan-university-2609,National Universities,171,36,136,69,58,73,-15,86,60,9,2.3,3.1,211,55.3,79,31.5,1,17:01,219,1040-1250,,,158,240,3.1
+university-of-houston-3652,National Universities,171,36,170,51,54,54,0,86,60,-6,2.8,3.5,235,84.4,86,26.9,24,22:01,139,1110-1280,32,65,206,67,13.1
+university-of-louisville-1999,National Universities,171,36,192,54,49,58,-9,80,65,-11,2.8,3.5,164,87.5,88,38.2,9,15:01,190,22-29,28,56,63,122,8.4
+suny-purchase-6791,National Liberal Arts Colleges,172,43,121,64,65,70,-4,81,57,11,2.6,3.4,224,64.5,49,60.9,3,14:01,172,1020-1200,,,126,222,3.9
+florida-institute-of-technology-1469,National Universities,177,35,192,58,56,62,-5,80,61,-1,2.4,3.4,131,80.7,92,42.5,7,15:01,117,1130-1320,28,60,158,168,6.1
+maryville-saint-louis-2482,National Universities,177,35,132,71,61,75,-14,86,64,8,1.9,3.1,131,46.3,75,72,0,14:01,165,21-27,21,56,256,154,6.9
+mississippi-state-2423,National Universities,177,35,192,60,42,67,-24,80,62,-4,2.6,3.5,227,94.2,79,37.1,15,20:01,143,21-28,25,54,152,57,15.3
+pace-university-2791,National Universities,177,35,174,55,51,56,-5,78,56,-3,2.5,3.3,102,64.5,85,50.7,2,14:01,190,1040-1220,16,42,166,209,4.2
+suffolk-university-2218,National Universities,177,35,182,57,60,60,0,76,57,3,2.3,3.2,79,75.4,90,45.5,0,13:01,250,1000-1180,12,39,128,195,5.2
+university-of-maine-2053,National Universities,177,35,192,58,48,62,-14,76,57,1,2.7,3.5,198,82.5,88,40.7,16,16:01,190,1050-1250,18,44,133,147,7.4
+immaculata-university-3276,National Universities,183,34,142,65,59,64,-5,80,55,7,1.9,3,117,53.4,85,84.6,0,9:01,271,950-1170,13,32,158,147,7.4
+lesley-university-2160,National Universities,183,34,179,57,60,60,0,79,58,2,2.1,3.1,79,48.7,88,62.1,0,12:01,224,1020-1210,,,152,224,3.8
+robert-morris-university-pennsylvania-3359,National Universities,183,34,170,61,51,66,-15,82,54,7,2.2,3,131,72,91,40.6,4,15:01,215,1020-1200,18,42,206,168,6.4
+university-of-wyoming-3932,National Universities,183,34,230,56,49,61,-12,76,65,-7,2.6,3.4,157,99.6,78,40.5,12,15:01,143,22-27,24,51,97,67,13.2
+fiu-9635,National Universities,187,33,132,56,57,56,1,87,48,8,2.4,3,292,76.7,87,20.5,26,25:01:00,165,1100-1260,25,58,242,224,3.7
+georgia-state-university-1574,National Universities,187,33,155,54,54,53,1,81,49,5,2.7,3.5,248,89.9,92,25,15,23:01,272,970-1170,17,49,227,209,4.2
+texas-tech-university-3644,National Universities,187,33,182,60,51,62,-11,84,61,-2,2.8,3.7,265,95.6,85,24.2,21,20:01,165,1070-1240,19,50,242,87,11.3
+university-of-new-mexico-10313,National Universities,187,33,221,47,43,53,-10,79,56,-8,2.8,3.5,79,90.5,78,54.2,10,16:01,272,19-25,,,65,278,
+kent-state-university-3051,National Universities,191,32,200,56,46,64,-18,81,54,3,2.6,3.3,164,78.4,77,52.6,8,20:01,215,21-25,15,39,250,224,4
+nova-southeastern-university-1509,National Universities,191,32,236,48,41,61,-20,77,50,2,2,3.2,69,75.2,77,72.4,2,17:01,149,1080-1280,39,55,115,278,1.5
+umass-boston-2222,National Universities,191,32,212,44,47,48,-1,79,50,-2,2.6,3.4,144,82.5,89,36.3,7,16:01,250,1000-1200,15,43,133,209,4.5
+andrews-university-2238,National Universities,194,31,182,58,49,57,-8,83,57,-2,1.8,,102,92,69,74.9,4,10:01,151,21-29,19,42,158,209,4.4
+east-carolina-university-2923,National Universities,194,31,146,61,58,63,-5,82,55,6,2.3,3.2,258,91.9,82,31.8,18,19:01,242,20-24,13,39,233,256,2.6
+indiana-universitypurdue-university-indianapolis-1813,National Universities,194,31,243,45,41,49,-8,74,52,-7,2.9,3.7,211,86.7,85,34.7,11,17:01,235,1000-1190,15,43,77,154,6.9
+lipscomb-3486,National Universities,194,31,203,59,43,66,-23,82,65,-6,2,3.1,164,64.9,84,56.8,7,14:01,122,23-29,29,54,152,75,12.5
+university-of-hartford-1422,National Universities,194,31,208,59,46,63,-17,75,55,3,2.5,3.3,157,67.2,58,72.9,0,9:01,268,1030-1230,,,166,240,3.5
+unc-charlotte-2975,National Universities,194,31,179,55,49,57,-8,83,54,0,2.7,3.7,272,87.3,84,25.6,25,19:01,161,22-26,17,50,270,240,3.4
+widener-university-3313,National Universities,194,31,203,56,47,62,-15,79,53,4,2.1,3.1,102,70.1,89,56.1,2,14:01,250,1020-1180,9,31,181,240,3.1
+regent-university-30913,National Universities,201,30,189,48,60,62,-1,78,45,16,1.8,,109,39.4,90,65.6,0,21:01,277,960-1180,13,32,256,273,2.1
+university-of-montana-2536,National Universities,201,30,243,49,42,56,-13,71,54,-4,2.6,3.4,198,88.3,79,47.3,11,17:01,173,21-26,14,42,181,122,8.5
+university-of-nevada-2568,National Universities,201,30,200,56,50,57,-8,81,59,-4,2.4,3,227,79.1,90,38.7,20,20:01,177,21-26,25,54,133,133,8.2
+unc-greensboro-2976,National Universities,201,30,174,55,52,58,-6,77,51,4,2.6,3.4,278,89.7,79,23.9,23,18:01,224,1030-1180,13,39,270,168,6.1
+azusa-pacific-university-1117,National Universities,205,29,149,68,,,,86,65,3,2.1,3,272,58.7,58,54.3,2,10:01,242,990-1220,,,191,209,4.6
+california-state-university-fresno-1147,National Universities,205,29,166,56,51,63,-11,82,43,13,2.4,3.3,270,75.8,80,16.5,10,21:01,290,890-1110,15,80,291,256,2.9
+central-michigan-university-2243,National Universities,205,29,192,58,50,61,-12,77,51,7,2.3,3.2,227,82.9,80,28.4,8,20:01,224,1010-1200,17,39,263,185,5.4
+montana-state-2532,National Universities,205,29,221,52,45,56,-11,77,57,-5,2.5,3.3,235,79.7,79,42.9,14,19:01,173,21-28,20,44,181,133,8.1
+university-of-colorado-denver-6740,National Universities,205,29,240,45,46,44,1,70,61,-16,2.8,3.4,248,93.5,63,34.2,9,17:01,165,21-27,18,50,40,256,2.9
+university-of-north-dakota-3005,National Universities,205,29,230,54,45,56,-11,81,62,-8,2.5,3.3,235,86.9,69,39,10,18:01,165,21-26,17,43,109,154,6.6
+utah-state-3677,National Universities,205,29,236,48,51,47,4,71,60,-12,2.6,3.3,144,91.9,80,48.9,13,20:01,161,21-27,20,44,166,195,5.3
+wayne-state-2329,National Universities,205,29,261,39,38,56,-18,79,52,-5,2.5,3.3,123,81.5,87,49.8,8,16:01,213,1000-1210,19,47,109,195,4.8
+western-michigan-university-2330,National Universities,205,29,192,53,45,56,-11,79,53,-2,2.4,3.2,192,84.1,77,38.8,11,17:01,250,960-1190,11,33,215,209,4.3
+wvu-3827,National Universities,205,29,212,57,,,,78,61,-4,2.7,3.4,278,90.9,78,30.8,21,20:01,183,21-27,20,44,166,110,9.9
+bowling-green-state-university-3018,National Universities,215,28,212,54,42,59,-17,77,54,-2,2.5,3.2,218,85.1,78,41,10,18:01,203,20-25,12,36,256,168,6.4
+north-dakota-state-9265,National Universities,215,28,223,56,47,61,-14,79,64,-6,2.5,3.3,255,95.3,86,31.7,25,18:01,165,21-26,16,41,152,168,6.2
+old-dominion-3728,National Universities,215,28,212,53,48,58,-10,80,53,1,2.5,3.4,207,79.3,82,37.3,10,18:01,256,980-1200,9,31,263,195,5.3
+shenandoah-university-3737,National Universities,215,28,208,57,50,67,-17,79,61,1,1.9,,109,79.2,77,63.4,1,10:01,242,1010-1200,16,39,166,195,4.9
+university-of-alaska-fairbanks-1063,National Universities,215,28,269,40,33,41,-8,76,60,-21,2.5,3.1,58,80.5,80,70.1,3,8:01,224,17-25,21,49,25,224,3.8
+umass-dartmouth-2210,National Universities,215,28,230,47,45,51,-6,75,53,-5,2.5,3.4,183,86.1,84,41.7,9,16:01,256,1000-1190,,,166,256,2.5
+benedictine-university-1767,National Universities,221,27,223,51,46,52,-6,70,53,-3,2,3,87,52.4,85,66.7,0,12:01,224,20-25,12,38,191,278,
+california-state-university-fullerton-1137,National Universities,221,27,149,59,49,57,-8,88,52,2,2.5,3.4,293,71.9,76,22,9,23:01,242,1020-1180,22,68,296,273,2.3
+dallas-baptist-university-3560,National Universities,221,27,203,58,57,58,-1,73,63,-5,1.9,,102,43.3,81,68.4,3,12:01,203,19-24,21,48,206,278,1.3
+new-mexico-state-university-2657,National Universities,221,27,246,45,38,52,-14,74,51,-5,2.5,3.4,164,85.1,88,48.5,10,16:01,267,18-23,22,51,152,168,6
+university-of-texas-arlington-3656,National Universities,221,27,212,47,51,49,1,70,57,-7,2.6,3.5,218,79.8,83,33.8,26,24:01:00,177,1060-1270,31,75,270,278,1.5
+south-dakota-state-3471,National Universities,226,26,223,56,,,,77,58,-2,2.5,3.3,283,91.7,74,29.6,19,16:01,215,20-26,14,36,191,154,7
+southern-illinois-university-carbondale-1758,National Universities,226,26,275,43,30,49,-19,67,50,-10,2.3,3.1,123,93.8,71,57.2,5,14:01,190,20-26,13,38,47,209,4.6
+umsl-2519,National Universities,226,26,223,48,50,60,-11,77,65,-9,2.4,3.2,207,76.7,75,55.2,7,18:01,155,22-27,27,58,242,224,3.9
+university-of-south-dakota-10300,National Universities,226,26,230,55,44,62,-18,75,59,-2,2.5,3.3,272,85.5,69,43.8,12,16:01,190,20-25,14,36,204,185,5.6
+alabama-agricultural-and-mechanical-university-1002,Regional Universities South,130,,134,29,22,31,-9,59,35,-11,2.4,,96,87.4,,41.4,3,18:01,130,16-19,,,36,25,10.8
+alabama-state-university-1005,Regional Universities South,130,,137,26,23,41,-18,59,32,-4,2.3,,46,76.4,78,48.6,0,15:01,127,16-19,18,34,20,93,3.9
+albany-state-university-1544,Regional Universities South,130,,99,34,33,38,-5,69,28,6,2.2,,114,87.8,43,42,1,15:01,139,740-900,8,24,80,56,6.8
+amridge-university-25034,Regional Universities South,130,,137,26,,,,,30,-5,1.8,,134,,,,,,115,,,,37,111,
+bethel-university-tennessee-3480,Regional Universities South,130,,120,33,28,26,2,58,35,-8,2.4,,77,79.7,40,76.6,1,20:01,124,16-21,6,23,131,111,
+campbellsville-university-1959,Regional Universities South,130,,127,37,22,49,-26,61,47,-13,2.6,,99,73.7,62,70.2,0,13:01,80,18-24,12,33,136,56,6.8
+clayton-state-8976,Regional Universities South,130,,111,32,28,36,-8,69,40,-9,2.3,,107,85.8,84,42.2,3,18:01,122,860-1020,,,106,132,2.1
+concord-university-athens-3810,Regional Universities South,130,,115,36,27,43,-16,66,43,-8,2.2,,96,87.5,68,69.5,1,15:01,84,18-23,15,42,133,100,3.6
+cumberland-university-3485,Regional Universities South,130,,68,47,44,54,-10,67,53,-3,2.4,,121,63.4,64,53.2,3,17:01,95,19-23,0,8,133,83,4.6
+delta-state-university-2403,Regional Universities South,130,,127,34,,,,65,43,-9,2.4,,127,83.1,,,,,95,19-25,,,115,111,
+fairmont-state-3812,Regional Universities South,130,,115,32,32,40,-7,66,43,-7,2.3,,109,78.3,58,59.1,3,15:01,78,18-23,10,33,125,137,1.5
+faulkner-university-1003,Regional Universities South,130,,139,28,17,36,-20,57,31,-3,2.5,,67,64.2,62,69.7,2,12:01,84,18-22,12,60,101,137,1.6
+fort-valley-state-university-1566,Regional Universities South,130,,115,28,27,27,-1,71,30,-3,2.2,,93,91.2,65,52.3,4,17:01,136,820-910,3,16,28,35,9.4
+georgia-southwestern-state-university-1573,Regional Universities South,130,,123,31,22,29,-8,70,43,-18,2.3,,81,88.4,73,49.1,3,18:01,89,960-1110,12,36,113,135,1.8
+grambling-state-university-2006,Regional Universities South,130,,104,35,37,51,-14,66,28,11,2.3,,140,96.8,70,35.9,8,26:01:00,130,16-20,6,15,137,93,3.9
+jacksonville-state-university-1020,Regional Universities South,130,,109,33,29,45,-15,75,46,-9,2.7,,121,88.6,,42.1,5,19:01,100,19-26,20,45,92,46,7.8
+lindsey-wilson-college-1972,Regional Universities South,130,,127,31,30,39,-9,61,35,-2,2.3,,67,73.2,74,59.5,0,13:01,74,19-24,15,36,126,23,11.5
+louisiana-state-university-shreveport-2013,Regional Universities South,130,,123,34,,,,65,53,-19,2.5,,118,,,55.7,4,,115,,,,115,111,
+mcneese-state-university-2017,Regional Universities South,130,,99,41,30,50,-21,68,50,-9,2.6,,110,78.4,68,45,7,21:01,36,20-25,20,45,141,91,4.1
+midway-university-1975,Regional Universities South,130,,74,45,,,,79,37,8,2.1,,136,44.8,,,,,74,18-23,18,49,115,111,
+mississippi-valley-state-2424,Regional Universities South,130,,123,28,32,21,11,63,22,8,2.2,,99,85.7,62,60,1,15:01,125,16-19,,,41,111,
+northwestern-state-university-of-louisiana-2021,Regional Universities South,130,,96,37,32,41,-9,71,48,-11,2.5,,129,83.4,54,47.7,6,19:01,54,19-24,14,40,127,111,
+savannah-state-university-1590,Regional Universities South,130,,132,28,27,32,-5,60,30,-2,2.3,,136,92.9,55,32.3,0,17:01,140,860-1010,,,106,74,5.4
+south-carolina-state-3446,Regional Universities South,130,,115,37,,,,65,33,3,2.1,,93,84.4,82,54,2,17:01,134,15-18,11,27,24,56,6.7
+southeastern-louisiana-university-2024,Regional Universities South,130,,111,39,,,,64,47,-6,2.4,,81,93.5,64,34,6,19:01,59,20-24,14,37,135,93,3.8
+southeastern-university-1521,Regional Universities South,130,,83,41,36,43,-7,68,42,-2,2.4,,71,61,68,60,4,20:01,102,19-24,10,28,131,86,4.3
+southern-arkansas-university-1107,Regional Universities South,130,,123,34,27,48,-22,64,43,-8,2.2,,99,79.5,58,43.6,5,18:01,54,19-25,15,40,138,71,5.5
+southern-university-9636,Regional Universities South,130,,131,31,26,39,-13,65,25,4,2.2,,133,88,,37.6,8,16:01,126,16-20,2,7,92,17,13.7
+southern-university-new-orleans-2026,Regional Universities South,130,,140,15,23,0,23,53,26,-6,2.1,,89,87.4,83,46.2,0,20:01,133,15-18,10,24,80,140,0.7
+south-university-13039,Regional Universities South,130,,141,9,,,,43,22,-13,1.8,,127,68.3,,,,,115,,,,115,111,
+thomas-university-1555,Regional Universities South,130,,136,27,,,,63,39,-12,1.9,,139,71.3,74,,,,115,,,,68,111,
+troy-university-1047,Regional Universities South,130,,104,37,31,50,-19,67,49,-8,3,,141,74.4,26,19.9,50,15:01,68,18-25,,,74,111,
+union-college-1988,Regional Universities South,130,,134,30,,,,61,43,-13,2.4,,129,80.2,,,,,113,18-22,,,115,111,
+university-of-west-alabama-1024,Regional Universities South,130,,127,31,28,39,-11,65,38,-6,2.5,,110,72.6,70,58,8,13:01,84,18-23,,,128,105,3.2
+winstonsalem-state-2986,Regional Universities South,130,,69,46,,,,77,38,8,2.6,,126,87.9,,,,,137,800-940,,,115,111,
+avila-university-2449,Regional Universities Midwest,150,,112,50,,,,70,46,4,2.5,,148,63.8,,,,,149,19-23,,,136,119,
+black-hills-state-3459,Regional Universities Midwest,150,,147,34,,,,66,46,-12,2.6,,157,,,,,,87,19-24,2,9,124,119,
+calumet-college-of-st-joseph-1834,Regional Universities Midwest,150,,162,27,19,44,-25,53,40,-12,2.2,,56,59.2,67,79.5,2,10:01,159,860-1033,7,18,74,159,1.7
+chicago-state-university-1694,Regional Universities Midwest,150,,164,14,11,16,-4,57,33,-21,1.8,,47,88.2,47,75.5,0,10:01,151,17-21,,,1,119,
+columbia-college-chicago-1665,Regional Universities Midwest,150,,128,43,,,,70,52,-9,2.6,,150,52.1,,,,,138,,,,136,119,
+davenport-university-2249,Regional Universities Midwest,150,,130,41,33,58,-25,69,40,7,2.2,,102,38,43,65,0,13:01,153,950-1160,,,44,164,0.7
+devry-chicago-10727,Regional Universities Midwest,150,,156,28,,,,,27,1,1.5,,65,20.2,,91,0,,138,,,,136,119,
+evangel-university-2463,Regional Universities Midwest,150,,96,51,,,,75,49,2,2.2,,150,,,,,14:01,133,19-25,,,63,119,
+fort-hays-state-university-1915,Regional Universities Midwest,150,,137,39,,,,70,50,-11,2.5,,144,81.3,58,48.9,4,17:01,115,18-24,13,31,165,35,9.9
+governors-state-9145,Regional Universities Midwest,150,,161,,,,,54,52,-27,2.2,,102,74.2,59,60.4,0,12:01,156,17-20,8,33,14,119,
+herzing-college-9621,Regional Universities Midwest,150,,160,33,,,,32,28,5,1.7,,160,26.6,,,,,138,,,,136,119,
+indiana-university-east-1811,Regional Universities Midwest,150,,149,31,29,44,-14,65,42,-6,2.3,,56,67.4,76,63.8,1,14:01,134,940-1118,8,30,159,88,5.4
+indiana-university-northwest-1815,Regional Universities Midwest,150,,159,26,20,35,-16,67,43,-15,2.5,,102,71.3,73,48.6,5,14:01,150,890-1093,11,32,159,88,5.4
+indiana-university-south-bend-1816,Regional Universities Midwest,150,,154,28,25,34,-9,66,45,-15,2.6,,98,79.9,78,42.3,3,13:01,142,930-1120,7,25,158,85,5.5
+indiana-university-southeast-1817,Regional Universities Midwest,150,,151,31,27,36,-9,61,46,-14,2.4,,32,74.2,79,46.9,1,14:01,134,17-22,9,32,155,83,5.8
+lake-erie-college-3066,Regional Universities Midwest,150,,125,48,,,,67,52,-6,2.1,,62,68.5,71,76.4,0,14:01,127,18-23,13,29,74,80,6.2
+lakeland-college-3854,Regional Universities Midwest,150,,99,53,,,,70,47,6,2.1,,153,37.8,,,,,156,16-22,,,136,119,
+lincoln-university-missouri-2479,Regional Universities Midwest,150,,164,20,12,26,-14,52,40,-26,2,,128,86.8,62,45.7,2,17:01,160,14-19,5,15,44,38,9.4
+lourdes-college-3069,Regional Universities Midwest,150,,149,30,30,41,-11,66,37,-3,2.2,,121,63.9,59,63.1,0,13:01,105,18-24,11,28,31,98,4.7
+marygrove-2284,Regional Universities Midwest,150,,163,24,,,,42,26,-2,2.2,,146,51.6,,,,,164,15-20,,,136,119,
+metropolitan-state-university-10374,Regional Universities Midwest,150,,143,35,,,,71,46,-11,2.2,,157,43.5,,,,,138,,,,136,119,
+minot-state-2994,Regional Universities Midwest,150,,130,41,36,38,-2,70,53,-15,2.4,,148,77.9,59,,,12:01,127,19-24,9,20,102,119,3.4
+missouri-baptist-university-7540,Regional Universities Midwest,150,,143,39,,,,61,50,-11,2.1,,157,48.9,,,,,151,18-23,,,136,119,
+newman-university-1939,Regional Universities Midwest,150,,112,49,37,64,-28,74,58,-5,2.5,,128,67.7,54,63.3,1,11:01,105,19-25,23,48,161,88,5.4
+northeastern-illinois-university-1693,Regional Universities Midwest,150,,156,23,24,21,3,56,46,-23,2.4,,62,77.4,79,51.8,0,16:01,165,15-19,3,14,11,159,1.7
+notre-dame-ohio-3085,Regional Universities Midwest,150,,145,37,,,,63,47,-10,2.3,,150,53,,,,,155,18-22,,,136,119,
+park-university-2498,Regional Universities Midwest,150,,152,30,22,26,-4,58,56,-32,2.4,,51,27,75,76.5,0,15:01,153,17-22,,,164,162,1.1
+purdue-university-fort-wayne-1812,Regional Universities Midwest,150,,156,26,24,35,-12,63,52,-22,2.9,,12,75.8,85,54.1,4,14:01,111,970-1170,11,34,106,153,2.8
+purdue-university-northwest-666998,Regional Universities Midwest,150,,153,30,27,39,-12,66,48,-14,2.8,,138,78.3,66,46.4,3,16:01,105,970-1160,11,37,117,119,
+saginaw-valley-state-2314,Regional Universities Midwest,150,,137,40,27,50,-23,71,48,-8,2.6,,136,66,88,37.4,2,17:01,87,990-1190,20,45,127,119,
+silver-lake-college-3850,Regional Universities Midwest,150,,130,41,,,,72,43,-2,2,,165,67.3,38,,,,162,14-22,,,8,119,
+southwest-minnesota-state-2375,Regional Universities Midwest,150,,128,45,,,,66,53,-7,2.4,,127,77.2,89,43.2,3,16:01,122,18-24,5,20,163,43,9.2
+tiffin-university-3121,Regional Universities Midwest,150,,140,41,23,47,-24,63,25,8,2.5,,137,45.8,64,43.6,0,12:01,134,17-22,5,42,106,107,4.3
+university-of-southern-indiana-1808,Regional Universities Midwest,150,,135,40,28,49,-21,71,45,-5,2.6,,84,76,71,38.1,4,17:01,103,970-1170,13,37,120,146,3.2
+university-of-st-mary-1943,Regional Universities Midwest,150,,135,39,32,56,-24,70,43,1,2.4,,98,61.8,78,73.6,0,9:01,120,19-24,1,8,70,119,
+upper-iowa-university-1893,Regional Universities Midwest,150,,142,41,,,,57,51,-10,2.1,,73,33.4,61,88.8,0,,117,17-24,22,27,124,150,3.1
+william-penn-university-1900,Regional Universities Midwest,150,,155,30,,,,56,37,-7,2.1,,153,48.5,,,,,162,17-21,,,136,119,
+youngstown-state-3145,Regional Universities Midwest,150,,146,33,25,48,-23,74,38,-3,2.5,,76,65,87,39.1,6,17:01,78,19-25,13,34,127,98,4.7
+anna-maria-college-2117,Regional Universities North,170,,173,39,34,48,-14,67,44,-2,1.9,,101,41,65,77.8,0,12:01,168,910-1110,7,16,179,94,6.1
+bowie-state-university-2062,Regional Universities North,170,,173,37,,,,74,44,-7,2.3,,120,77.2,95,46,2,16:01,166,860-1040,,,174,96,5.8
+cup-3316,Regional Universities North,170,,107,54,52,56,-4,74,48,7,2.2,,160,85.2,86,31.8,11,20:01,131,930-1140,7,23,134,174,2.7
+centenary-college-2599,Regional Universities North,170,,95,59,,,,80,51,8,2.1,,170,,,,,,166,830-1050,,,151,143,
+clarion-university-9235,Regional Universities North,170,,147,50,40,60,-20,74,47,5,2.2,,114,87,84,28.3,6,18:01,119,920-1120,9,27,97,180,2.2
+college-new-rochelle-2704,Regional Universities North,170,,181,31,,,,75,29,2,1.9,,53,68.4,96,71.1,1,,142,840-1020,16,53,161,8,16.1
+college-of-st-elizabeth-2600,Regional Universities North,170,,147,48,41,42,-2,66,52,-11,2.2,,33,55.4,82,82.9,0,,184,800-1000,,,43,143,
+coppin-state-university-2068,Regional Universities North,170,,185,20,21,34,-13,67,31,-6,2.2,,186,74.4,67,,,14:01,179,850-1010,,,27,143,
+college-of-staten-island-29040,Regional Universities North,170,,147,46,43,51,-8,80,46,2,2.5,,170,58.7,79,21.8,6,18:01,91,990-1160,,,151,181,1.6
+curry-college-2143,Regional Universities North,170,,163,48,47,54,-7,70,53,-1,2.2,,60,66.2,81,58,0,13:01,139,930-1100,3,16,39,126,4
+delaware-state-university-1428,Regional Universities North,170,,164,41,34,41,-6,71,43,-6,2.5,,80,84.7,89,45.2,4,15:01,175,820-990,7,25,31,48,9.8
+dominican-college-2713,Regional Universities North,170,,170,43,,,,72,44,-1,2.1,,114,59.1,71,66.2,0,15:01,149,880-1080,,,138,143,
+dyouville-college-2712,Regional Universities North,170,,142,47,47,58,-10,79,57,-4,2,,126,84.3,67,63.7,1,9:01,136,710-930,17,50,106,27,12.7
+eastern-nazarene-college-2145,Regional Universities North,170,,135,53,40,56,-16,70,45,4,2,,184,45.6,59,,,,104,940-1160,11,34,75,143,
+east-stroudsburg-university-3320,Regional Universities North,170,,127,54,46,51,-4,72,51,-2,2.5,,164,89.6,69,41.1,8,19:01,139,910-1090,7,23,175,132,3.8
+edinboro-university-3321,Regional Universities North,170,,162,49,,,,70,40,9,2.2,,167,91.7,,,,,170,830-1070,,,161,143,
+felician-university-2610,Regional Universities North,170,,155,41,42,52,-10,81,49,-2,2.1,,114,63.6,68,68.1,0,14:01,146,900-1080,7,23,75,165,3.1
+franklin-pierce-university-2575,Regional Universities North,170,,166,45,48,49,-2,67,53,-4,2.3,,120,55.5,89,60.4,2,14:01,136,940-1160,3,20,134,108,5
+green-mountain-college-3687,Regional Universities North,170,,170,47,36,61,-25,66,54,-3,2,,28,83.9,93,75.4,0,14:01,133,925-1175,,,146,57,8.8
+gwynedd-mercy-college-3270,Regional Universities North,170,,120,55,53,59,-7,80,48,10,2.3,,166,52.7,51,59.2,8,11:01,133,930-1110,6,21,159,119,4.3
+harrisburg-university-of-science-and-technology-39483,Regional Universities North,170,,184,22,29,38,-8,55,51,-19,2.2,,187,60,23,,,,153,,,,187,143,
+holy-family-university-3275,Regional Universities North,170,,95,57,46,61,-15,76,52,3,2.1,,145,49.8,78,61.8,0,15:01,146,920-1090,9,28,161,116,4.4
+husson-university-2043,Regional Universities North,170,,142,48,46,61,-14,76,44,10,2.2,,149,67.9,68,52.9,0,15:01,99,950-1130,11,37,184,126,4
+johnson-state-college-3688,Regional Universities North,170,,178,35,,,,69,41,-6,2.1,,180,50.6,,,,,182,783-1058,,,161,143,
+lincoln-university-pennsylvania-3290,Regional Universities North,170,,159,43,41,55,-14,73,39,7,2,,170,72.6,84,22.3,0,15:01,179,870-1070,15,34,97,26,12.9
+medaille-college-2777,Regional Universities North,170,,173,42,,,,64,44,-2,1.9,,184,44.7,,,,,178,780-990,,,161,143,
+metropolitan-college-190114,Regional Universities North,170,,186,30,14,20,-6,45,29,-14,1.8,,53,21.4,,93.9,0,11:01,153,,,,31,143,
+neumann-university-3988,Regional Universities North,170,,142,54,40,68,-27,72,53,4,2.2,,134,66.5,80,59.2,2,15:01,162,890-1080,,,97,73,7.7
+new-england-college-2579,Regional Universities North,170,,178,37,36,47,-11,58,39,4,2.3,,126,33.1,63,80.2,0,15:01,168,870-1080,8,30,186,98,5.4
+new-jersey-city-university-2613,Regional Universities North,170,,181,29,23,31,-8,76,36,-11,2.1,,31,57.1,79,45.1,1,15:01,170,870-1080,11,28,138,175,2.4
+nyack-college-2790,Regional Universities North,170,,159,44,44,51,-6,66,36,10,2,,80,57.8,83,80.6,1,12:01,153,860-1110,5,16,117,103,5.3
+post-university-1401,Regional Universities North,170,,187,29,18,47,-29,41,42,-15,2.1,,180,28.9,37,67.5,0,23:01,185,850-850,,,181,143,
+rhode-island-college-3407,Regional Universities North,170,,151,45,43,49,-7,76,49,-3,2.5,,91,70.5,90,50.1,1,14:01,136,880-1090,12,39,146,139,3.4
+rivier-college-2586,Regional Universities North,170,,153,49,,,,76,51,-2,2.1,,183,54.3,,,,,153,,,,161,143,
+salem-state-2188,Regional Universities North,170,,133,50,45,56,-11,79,52,0,2.4,,155,67.6,,45.7,0,14:01,99,980-1150,,,151,126,4.1
+st-josephs-college-2051,Regional Universities North,170,,107,57,,,,81,54,3,2.4,,170,57.2,,,,,179,810-1020,,,161,143,
+suny-old-westbury-7109,Regional Universities North,170,,135,42,73,32,41,82,45,2,2.3,,64,70.5,96,24.4,1,17:01,146,950-1100,,,117,143,
+thomas-college-2052,Regional Universities North,170,,168,45,,,,69,38,7,2.1,,176,79.5,,,,,153,,,,161,143,
+touro-college-10142,Regional Universities North,170,,142,52,63,43,20,67,55,-6,1.9,,162,61.1,19,86,0,11:01,82,1010-1300,,,60,143,
+trinity-washington-university-1460,Regional Universities North,170,,172,43,,,,65,32,11,2.6,,176,53.6,,,,,153,,,,161,143,
+university-of-baltimore-2102,Regional Universities North,170,,169,36,33,32,1,73,45,-12,2.5,,28,70.8,77,40.9,0,14:01,142,900-1110,,,43,132,3.8
+university-of-bridgeport-1416,Regional Universities North,170,,178,33,36,50,-14,65,44,-2,2.1,,14,51.7,90,71.8,1,17:01,153,860-1050,8,31,106,132,3.9
+university-of-southern-maine-9762,Regional Universities North,170,,181,33,29,36,-6,65,46,-13,2.5,,145,65.3,84,54,3,14:01,119,950-1160,10,37,65,175,2.3
+udc-29100,Regional Universities North,170,,177,32,43,45,-2,63,57,-13,1.8,,120,61.4,,78.9,4,,187,700-910,,,7,187,0.4
+washington-adventist-university-2067,Regional Universities North,170,,173,38,31,48,-18,71,38,-1,1.9,,91,47,65,88.6,0,9:01,174,800-1000,,,15,184,1.2
+western-connecticut-state-university-1380,Regional Universities North,170,,159,45,41,46,-4,75,51,-7,2.4,,112,62.5,78,41.2,2,13:01,91,910-1150,6,24,43,181,1.7
+albright-college-3229,National Liberal Arts Colleges,200,,162,55,50,56,-6,74,54,-1,2.5,3.2,166,85.2,85,66.6,0,14:01,179,990-1170,15,37,208,208,9
+allen-university-3417,National Liberal Arts Colleges,200,,226,22,,,,53,23,-1,1.8,,198,100,,,,,188,,,,169,184,
+american-jewish-university-2741,National Liberal Arts Colleges,200,,188,56,,,,69,64,-8,2.2,,198,54.2,,,,,188,,,,169,184,
+ave-maria-university-39413,National Liberal Arts Colleges,200,,196,52,,,,73,61,-9,2.1,,202,88.2,,,,,183,21-27,,,169,184,
+simons-rock-9645,National Liberal Arts Colleges,200,,207,39,22,31,-9,78,77,-49,3,3.7,30,89.2,93,94.4,0,7:01,130,1240-1440,56,72,80,156,13.9
+bethany-college-west-virginia-3808,National Liberal Arts Colleges,200,,203,44,34,59,-25,66,46,0,2.3,3.2,115,93.9,80,85.9,1,11:01,216,850-1110,10,15,126,147,15.2
+bethany-lutheran-2337,National Liberal Arts Colleges,200,,157,53,55,49,6,77,58,-6,2.1,3.2,178,88.5,54,77,0,9:01,150,20-25,17,34,149,152,14.6
+bethel-college-1905,National Liberal Arts Colleges,200,,192,55,32,52,-20,63,58,-16,2.4,3.3,193,76.5,69,73.7,2,10:01,188,18-24,16,39,149,136,15.9
+bethunecookman-university-1467,National Liberal Arts Colleges,200,,208,38,34,49,-15,65,21,16,2.2,3.1,227,76.8,53,43.1,3,16:01,224,15-19,2,10,223,219,6.1
+bloomfield-college-2597,National Liberal Arts Colleges,200,,216,32,30,42,-13,68,32,0,2,,74,56.2,85,79.9,0,14:01,222,840-1040,10,26,208,212,7.3
+bridgewater-college-3704,National Liberal Arts Colleges,200,,166,60,54,64,-10,76,56,5,2.4,3.1,202,88.5,82,52.3,0,14:01,183,970-1170,15,36,219,156,13.8
+bryn-athyn-3228,National Liberal Arts Colleges,200,,196,55,,,,67,63,-8,1.9,,178,83.5,47,72.1,0,,188,,,,68,184,
+carthage-college-3839,National Liberal Arts Colleges,200,,172,61,49,64,-15,79,63,-3,2.7,3.3,182,72.8,90,56.8,0,12:01,120,21-27,22,45,199,156,14
+cheyney-university-3317,National Liberal Arts Colleges,200,,227,20,,,,54,27,-7,1.8,,209,75,,,,,229,650-860,,,61,184,
+davis-and-elkins-college-3811,National Liberal Arts Colleges,200,,208,43,,,,67,37,6,2.3,,202,81.5,,,,,218,17-23,,,169,184,
+dillard-university-2004,National Liberal Arts Colleges,200,,201,38,38,51,-13,73,36,4,2.5,3.5,222,80.4,63,52.1,1,14:01,205,18-21,12,38,112,116,18.2
+east-west-chicago-university-21686,National Liberal Arts Colleges,200,,229,10,,,,38,26,-16,1.6,,216,65.6,,,,,188,,,,169,184,
+emmanuel-college--massachusetts-2147,National Liberal Arts Colleges,200,,150,65,55,70,-14,78,62,4,2.4,3.4,222,72.8,88,39.1,0,13:01,198,1090-1250,13,24,186,142,15.7
+erskine-college-3432,National Liberal Arts Colleges,200,,179,58,48,67,-19,65,56,4,2.3,3.4,155,88.2,87,78.1,0,13:01,205,19-24,17,29,222,116,17.7
+fort-lewis-college-1353,National Liberal Arts Colleges,200,,214,41,31,44,-13,62,50,-10,2.5,3.1,189,87.2,86,52.2,2,15:01,164,20-25,13,21,221,227,3.2
+georgetown-college-1964,National Liberal Arts Colleges,200,,157,56,56,52,3,69,64,-10,2.5,3.7,175,76.8,85,65.9,0,11:01,144,20-25,23,50,212,105,19
+hartwick-college-2729,National Liberal Arts Colleges,200,,162,55,51,55,-4,74,63,-10,2.5,3.2,145,82.4,81,74.2,0,11:01,217,920-1100,8,32,109,175,12.4
+holy-cross-college-7263,National Liberal Arts Colleges,200,,210,34,41,40,1,62,49,-9,2.6,3.7,221,47.1,69,59.9,1,15:01,114,1020-1320,,,194,184,10.6
+johnson-c-smith-2936,National Liberal Arts Colleges,200,,201,46,34,60,-26,67,34,10,2.1,,159,78.1,87,76.3,0,12:01,225,748-960,5,20,149,147,15.3
+judson-college-1023,National Liberal Arts Colleges,200,,214,39,,,,65,49,-10,2.1,3.1,202,68.9,,,,,205,19-24,,,169,184,
+kings-college-new-york-666134,National Liberal Arts Colleges,200,,169,51,54,49,5,71,66,-15,2.5,3.2,226,78.3,87,41,4,14:01,93,24-29,,,137,227,3.1
+lagrange-college-1578,National Liberal Arts Colleges,200,,199,47,34,46,-12,65,54,-13,2.4,,147,84,79,70.5,0,11:01,168,20-24,18,43,126,167,13.3
+louisiana-state-university-alexandria-2011,National Liberal Arts Colleges,200,,224,24,,,,59,45,-21,2.1,3.1,225,77.6,68,51.3,4,20:01,210,18-22,8,28,229,225,3.6
+lyon-college-1088,National Liberal Arts Colleges,200,,192,45,47,57,-10,67,64,-11,2.5,3.3,157,90.2,98,63.3,1,14:01,100,22-28,27,49,143,182,10.8
+marymount-manhattan-2769,National Liberal Arts Colleges,200,,203,45,38,54,-15,74,58,-9,2.4,3.3,134,49.7,91,71.3,0,11:01,160,980-1200,,,203,212,7.3
+maryville-college-3505,National Liberal Arts Colleges,200,,145,55,58,57,1,72,63,-6,2.5,3.2,196,84.5,84,56.7,1,13:01,144,20-27,21,43,217,88,20.5
+oglethorpe-university-1586,National Liberal Arts Colleges,200,,175,50,46,49,-3,74,59,-12,2.8,3.6,209,84.1,100,51.1,0,16:01,100,1110-1310,26,61,217,205,10.1
+ouachita-baptist-university-1102,National Liberal Arts Colleges,200,,150,64,53,69,-15,78,65,-1,2.2,3.3,182,87.8,91,59.7,1,13:01,87,21-28,36,64,206,136,16.1
+pacific-union-college-1258,National Liberal Arts Colleges,200,,199,46,35,57,-22,75,51,-3,2.5,3.3,178,86,63,70.5,3,11:01,183,950-1150,,,194,221,5.1
+paine-college-1587,National Liberal Arts Colleges,200,,228,20,,,,41,22,-2,1.8,,198,81.4,,,,,227,14-17,,,169,184,
+philander-smith-college-1103,National Liberal Arts Colleges,200,,216,37,26,56,-29,68,33,-3,1.9,,209,75,61,72.5,0,15:01,221,15-19,15,29,212,219,6.1
+pine-manor-college-2201,National Liberal Arts Colleges,200,,223,29,26,25,1,56,32,-6,1.9,,103,62.5,100,80.9,0,14:01,227,740-915,,,143,222,4.2
+providence-christian-college-41539,National Liberal Arts Colleges,200,,175,63,,,,68,57,6,2,,218,51.5,,,,,188,,,,169,184,
+schreiner-3610,National Liberal Arts Colleges,200,,181,44,48,47,1,69,50,-2,2.4,3.2,166,74.2,78,65.9,0,13:01,210,960-1140,14,37,212,216,6.3
+shepherd-university-3822,National Liberal Arts Colleges,200,,206,44,36,45,-9,65,47,-5,2.2,3.3,202,65.9,91,60.1,1,15:01,188,19-24,,,228,216,6.6
+southern-virginia-university-666980,National Liberal Arts Colleges,200,,218,31,,,,71,46,-15,2,3,196,100,,,,,215,16-26,,,169,184,
+spring-hill-college-1041,National Liberal Arts Colleges,200,,186,54,39,61,-22,77,62,-9,2.3,3.6,175,86.6,94,59.8,0,14:01,140,21-26,15,50,203,126,17.2
+stillman-college-1044,National Liberal Arts Colleges,200,,225,20,,,,64,30,-10,2.4,3.2,193,78.5,91,,,14:01,188,,,,169,152,14.6
+thiel-college-3376,National Liberal Arts Colleges,200,,211,40,,,,68,43,-3,2.1,3.3,215,81.4,70,,,11:01,220,860-1110,5,23,160,156,13.8
+thomas-more-college-merrimack-30431,National Liberal Arts Colleges,200,,157,59,,,,93,52,7,2.3,,198,75,,,,,188,,,,169,184,
+tougaloo-college-2439,National Liberal Arts Colleges,200,,192,47,45,73,-28,73,33,17,2.3,,202,92.4,65,67.3,0,9:01,214,16-24,25,51,160,72,23.8
+university-of-maine-machias-2055,National Liberal Arts Colleges,200,,221,29,,,,68,44,-15,2.1,3,214,65.1,,,,,188,,,,169,184,
+university-of-pikeville-1980,National Liberal Arts Colleges,200,,218,33,28,37,-9,57,44,-13,2,,202,83,66,63.6,1,14:01,183,18-23,15,35,212,222,4
+university-of-science-and-arts-3167,National Liberal Arts Colleges,200,,203,42,,,,77,53,-11,2.4,3.3,159,81.4,88,73,4,13:01,205,19-24,17,51,227,184,
+uva-wise-3747,National Liberal Arts Colleges,200,,198,42,40,50,-10,67,46,-1,2.6,3.4,115,83.6,74,74,1,12:01,210,940-1118,18,44,212,211,8.1
+uw-parkside-5015,National Liberal Arts Colleges,200,,212,31,31,37,-6,73,45,-11,2.1,3.4,228,83.1,76,41.2,7,19:01,179,18-23,14,36,226,229,1.3
+virginia-union-university-3766,National Liberal Arts Colleges,200,,220,30,25,30,-4,56,24,3,2.2,,229,90.4,71,47.2,2,16:01,226,780-980,2,12,224,208,8.8
+virginia-wesleyan-3767,National Liberal Arts Colleges,200,,188,48,51,53,-3,64,51,1,2.4,3.4,71,88.1,92,78,0,12:01,202,952-1160,15,33,191,216,6.5
+wells-college-2901,National Liberal Arts Colleges,200,,184,51,40,50,-10,72,54,-8,2.6,3.5,86,87,98,81.5,0,10:01,205,17-27,14,45,169,184,
+west-virginia-state-3826,National Liberal Arts Colleges,200,,222,27,23,31,-8,59,46,-20,2.1,3.5,220,78.9,67,58.4,2,13:01,210,17-22,,,224,225,3.7
+william-peace-university-2953,National Liberal Arts Colleges,200,,212,40,,,,63,48,-8,2.1,,219,47.7,,,,,222,16-22,,,169,184,
+young-harris-college-666965,National Liberal Arts Colleges,200,,192,45,35,33,2,67,55,-21,2.2,,142,75.3,85,70.3,0,12:01,198,910-1078,10,27,199,207,9.4
+american-international-college-2114,National Universities,270,,275,40,34,50,-17,67,38,3,1.7,,242,46.6,65,51.8,4,18:01,298,902-1090,,,281,224,4.1
+ashland-university-3012,National Universities,270,,189,59,46,60,-14,77,57,3,1.7,,164,73.5,85,53.2,1,13:01,203,20-25,15,41,256,195,5.1
+augusta-university-1579,National Universities,270,,292,29,25,29,-4,73,64,-37,2,3.1,285,84.5,77,,,,278,20-26,,,44,256,2.5
+barry-university-1466,National Universities,270,,286,34,33,38,-5,64,41,-6,1.9,,73,70.4,,72.3,0,13:01,297,850-1020,,,199,273,2
+boise-state-university-1616,National Universities,270,,275,39,32,51,-19,77,51,-8,2.6,3.4,261,74.7,72,33.8,11,17:01,256,940-1160,15,39,276,154,7
+cardinal-stritch-university-3837,National Universities,270,,258,47,31,58,-27,73,52,-10,1.8,,87,52.2,,71.1,0,10:01,264,18-23,21,52,227,256,2.8
+clark-atlanta-university-1551,National Universities,270,,265,39,38,46,-8,66,33,7,2.2,3,297,84.1,65,31.4,7,20:01,282,17-22,12,28,221,273,1.8
+cleveland-state-university-3032,National Universities,270,,269,41,34,53,-20,71,46,-3,2.2,3,242,72.9,87,34.4,11,18:01,235,19-25,16,40,233,224,4.2
+eastern-michigan-university-2259,National Universities,270,,281,40,30,53,-23,73,49,-9,2.3,3.1,192,80.3,82,38.6,4,17:01,264,840-1310,14,38,256,273,1.8
+east-tennessee-state-university-3487,National Universities,270,,265,42,32,50,-18,72,52,-11,2,,227,76.3,,42.7,9,15:01,187,19-26,20,47,221,240,3.1
+florida-am-university-1480,National Universities,270,,265,40,,,,83,38,2,2.2,3.3,242,92.5,73,31.2,14,16:01,272,18-22,12,27,181,195,5
+florida-atlantic-university-1481,National Universities,270,,203,49,51,51,0,77,53,-2,2.3,3.1,272,83.4,83,29.3,18,24:01:00,203,1060-1220,14,45,263,240,3
+gardner-webb-2929,National Universities,270,,212,49,45,54,-9,73,59,-10,1.9,,95,72.7,78,72.6,0,13:01,235,1000-1200,22,54,206,209,4.5
+georgia-southern-university-1572,National Universities,270,,208,51,45,53,-8,81,56,-6,2.3,3.4,248,96.1,84,26.2,10,21:01,172,1100-1230,19,45,288,185,5.4
+grand-canyon-university-1074,National Universities,270,,295,35,,,,65,44,-9,1.7,,296,19.4,,,,,259,,,,233,278,
+indiana-state-9563,National Universities,270,,258,40,41,36,5,65,44,-5,2.5,3.3,265,86,81,26.6,10,22:01,284,900-1110,10,28,276,209,4.7
+iup-3277,National Universities,270,,212,55,47,61,-15,74,48,8,2.1,,248,94,80,34.7,12,16:01,296,910-1100,8,27,227,195,5
+jackson-state-2410,National Universities,270,,285,40,,,,70,31,9,1.9,,285,84.4,81,38.5,10,17:01,288,17-21,,,215,278,
+kennesaw-state-university-1577,National Universities,270,,253,42,40,43,-3,79,52,-10,2.3,3,285,80.4,78,31.4,12,21:01,183,21-26,21,53,295,256,2.9
+lamar-university-3581,National Universities,270,,298,32,21,40,-19,62,46,-16,1.9,3,261,92.6,69,32.7,9,18:01,284,950-1140,15,39,270,278,1.5
+liberty-university-10392,National Universities,270,,236,52,35,63,-28,81,50,2,1.7,,261,78.1,76,33.3,4,18:01,270,1040-1240,20,44,298,299,1.1
+lindenwood-2480,National Universities,270,,246,50,43,53,-10,70,54,-4,1.7,3.1,144,45.8,83,68.3,0,13:01,224,20-25,18,46,285,224,4.1
+louisiana-tech-university-2008,National Universities,270,,223,54,42,59,-17,81,63,-9,2.4,3.3,242,92.7,64,45,10,26:01:00,143,22-27,20,49,299,133,8
+middle-tennessee-state-university-3510,National Universities,270,,240,44,39,49,-10,74,52,-8,2.1,3.2,227,90.1,75,45.7,7,18:01,190,20-25,18,27,276,240,3.1
+morgan-state-2083,National Universities,270,,283,33,33,45,-12,75,34,4,2.1,,235,86.3,71,46.8,2,13:01,292,900-1070,7,25,206,57,15.2
+national-louis-university-1733,National Universities,270,,293,35,53,44,9,68,36,14,1.9,,65,73,,80.7,0,17:01,259,,,,233,278,
+north-carolina-at-2905,National Universities,270,,236,45,39,54,-15,77,36,8,2.1,3.1,265,87,77,27.1,11,18:01,291,930-1090,10,33,250,133,8
+northern-arizona-university-1082,National Universities,270,,223,53,46,60,-14,75,54,1,2.4,3.3,265,85.1,76,29.7,16,19:01,219,20-25,21,51,250,240,3.1
+northern-illinois-university-1737,National Universities,270,,240,48,36,54,-18,72,51,-6,2.3,3.2,207,90.6,82,49.1,8,16:01,235,19-24,13,37,221,224,3.6
+oakland-university-2307,National Universities,270,,253,46,37,51,-15,77,59,-13,2.1,3.4,211,74.1,93,37.9,13,20:01,203,1010-1230,20,46,256,240,3.5
+portland-state-3216,National Universities,270,,212,45,50,48,2,72,50,-1,2.6,3.4,294,81,82,31.5,14,18:01,235,19-25,15,48,242,278,1.7
+prairie-view-am-3630,National Universities,270,,288,34,31,46,-15,68,29,6,1.9,,299,92.4,59,16,8,20:01,295,870-1050,6,19,263,278,
+sam-houston-state-3606,National Universities,270,,212,51,45,56,-12,78,51,0,2.2,3.3,221,85.1,93,25.7,13,23:01,259,1000-1140,19,46,290,133,7.9
+san-francisco-state-university-1154,National Universities,270,,177,52,53,54,-1,81,49,5,2.6,3.4,298,71.8,73,24.3,14,23:01,272,950-1150,,,288,299,1.1
+spalding-university-1960,National Universities,270,,269,42,,,,75,41,1,1.7,3,278,80.3,,,,,284,18-23,,,233,278,
+tennessee-state-3522,National Universities,270,,298,38,26,49,-23,47,32,-1,2,3,131,78.1,,56.6,2,,299,16-20,,,233,278,
+tennessee-tech-3523,National Universities,270,,230,51,41,55,-14,77,58,-9,2.1,3.2,164,85.3,82,44.2,11,18:01,155,21-28,25,53,263,185,5.7
+texas-am-commerce-3565,National Universities,270,,261,45,34,51,-17,68,45,-3,2.2,3.4,235,80.5,81,34.4,4,18:01,288,960-1150,15,43,291,256,2.5
+texas-am-university-corpus-christi-11161,National Universities,270,,295,36,27,42,-15,56,46,-11,2.2,3.4,301,86.1,72,18.7,22,18:01,292,870-1080,7,27,276,278,1.6
+texas-am-kingsville-3639,National Universities,270,,289,33,30,43,-13,68,40,-5,2.1,3.3,183,87.8,85,36.7,5,18:01,278,17-22,15,41,263,278,1.3
+texas-southern-university-3642,National Universities,270,,301,19,21,33,-12,52,27,-4,2.1,3.1,285,78.6,73,34.2,18,19:01,301,717-912,4,16,242,240,3.3
+texas-state-university-3615,National Universities,270,,208,54,46,59,-13,77,53,1,2.2,3.2,278,87.8,78,26.9,17,21:01,230,1020-1200,14,51,291,209,4.4
+texas-womans-university-3646,National Universities,270,,269,40,28,48,-20,77,43,-7,2.3,3.3,283,76.9,80,37.1,9,18:01,284,890-1080,15,47,285,240,3.4
+trevecca-nazarene-university-3526,National Universities,270,,223,51,42,62,-19,79,58,-4,1.6,,183,61.1,85,61.8,3,18:01,213,19-26,,,281,195,5
+trinity-international-university-1772,National Universities,270,,246,50,40,60,-20,69,48,4,1.8,,157,,,69.6,0,,242,20-27,,,191,278,
+university-of-akron-3123,National Universities,270,,275,42,31,53,-22,74,48,-5,2.2,3.1,202,73.8,,42,7,18:01,183,19-26,24,50,227,256,2.5
+university-of-alabama-huntsville-1055,National Universities,270,,243,48,39,53,-15,81,65,-16,2.4,3.3,265,80.8,79,27.7,21,16:01,76,25-31,38,66,158,240,3
+university-of-arkansas-little-rock-1101,National Universities,270,,297,28,26,40,-15,70,50,-17,2.3,3,131,77.1,77,58.8,2,,230,19-25,14,40,250,256,3
+university-of-louisiana-lafayette-2031,National Universities,270,,258,46,35,50,-15,75,56,-12,2.2,3.2,278,90,66,34.3,9,23:01,161,21-26,21,46,270,185,5.9
+university-of-louisiana-monroe-2020,National Universities,270,,263,41,34,51,-17,73,53,-11,2.1,3.1,255,86.2,,39.4,12,19:01,230,20-25,20,49,299,240,3.5
+umes-2106,National Universities,270,,265,36,38,39,-1,66,34,4,2.1,3,79,86.5,85,59.2,3,13:01,299,860-1040,,,181,256,2.5
+university-of-memphis-3509,National Universities,270,,253,44,35,54,-19,75,50,-6,2.5,3.2,198,81.9,79,44.9,10,16:01,190,19-25,15,38,221,168,6
+umkc-2518,National Universities,270,,253,49,,,,74,66,-17,2.5,3.2,175,82.9,82,55.8,10,,173,21-28,31,56,191,168,6
+university-of-nebraska-omaha-2554,National Universities,270,,246,46,41,51,-10,77,58,-10,2.5,3.5,202,76,80,46.7,7,17:01,190,19-26,14,37,281,195,4.9
+unlv-2569,National Universities,270,,253,41,39,43,-5,76,56,-14,2.5,3.3,221,78.9,91,30,16,21:01,219,18-25,23,54,215,224,4
+university-of-new-orleans-2015,National Universities,270,,293,34,26,39,-13,64,55,-23,2.1,3,221,84.5,84,40.5,10,22:01,190,20-25,15,34,263,209,4.3
+university-of-northern-colorado-1349,National Universities,270,,246,48,42,51,-9,70,60,-12,2.3,3.2,276,81.2,76,34.1,11,18:01,203,19-25,13,36,242,256,2.8
+unt-3594,National Universities,270,,203,52,49,59,-10,79,57,-2,2.5,3.3,276,85.6,88,24.7,23,24:01:00,250,1060-1260,20,53,297,224,4.1
+university-of-south-alabama-1057,National Universities,270,,275,38,34,45,-11,74,53,-13,2,3,227,80.7,78,44.1,8,18:01,203,20-26,,,227,278,
+university-of-southern-mississippi-2441,National Universities,270,,246,48,35,58,-23,73,51,-4,2.2,3.1,221,91.7,75,40.7,12,17:01,190,19-26,,,227,133,8
+utep-3661,National Universities,270,,286,39,,,,72,38,1,2.4,3.1,248,81.1,,33.3,14,21:01,281,920-1130,17,40,256,224,3.8
+university-of-texas-rio-grande-valley-666978,National Universities,270,,269,41,,,,79,37,4,2.1,3.1,290,94.7,,23.7,16,,276,17-22,21,53,276,301,0.3
+university-of-texas-san-antonio-10115,National Universities,270,,283,34,36,37,-2,69,50,-13,2.5,3.4,295,87.2,86,15.2,33,25:01:00,230,1030-1210,17,58,270,168,6.2
+university-of-the-cumberlands-1962,National Universities,270,,289,39,,,,65,52,-13,1.7,3.4,183,66.1,69,59.4,1,,250,19-25,11,29,301,240,3.1
+university-of-toledo-3131,National Universities,270,,269,43,28,56,-27,73,53,-11,2.4,3.1,221,88.5,79,36.9,15,21:01,203,20-26,17,41,166,195,5.2
+west-florida-3955,National Universities,270,,230,48,42,45,-4,74,54,-10,2,3,221,78.9,85,34,8,21:01,203,22-27,15,46,233,240,3.4
+university-of-west-georgia-1601,National Universities,270,,246,40,39,43,-4,73,45,-5,2,3,285,84.2,74,31.9,9,20:01,278,920-1070,,,291,278,1.8
+uw-milwaukee-3896,National Universities,270,,275,42,32,46,-14,72,52,-11,2.7,3.5,261,84.6,70,42.1,13,19:01,235,20-25,10,21,242,256,3
+valdosta-state-university-1599,National Universities,270,,281,37,32,42,-10,70,46,-9,2,3,175,90,79,50.4,5,20:01,268,980-1130,,,285,278,1.8
+wichita-state-university-1950,National Universities,270,,263,45,37,53,-15,72,58,-11,2.4,3.3,248,85.1,71,47.4,11,20:01,187,20-27,20,44,250,154,6.7
+wilmington-university-7948,National Universities,270,,300,25,8,25,-16,60,59,-41,2.1,3.1,87,13.2,,81.7,0,13:01,259,,,,233,278,
+wright-state-9168,National Universities,270,,289,38,26,45,-19,66,50,-14,2.2,3,300,81,63,26.9,29,,242,19-25,18,40,199,224,3.8
